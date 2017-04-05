@@ -70,11 +70,12 @@ const infoboxSource = `
 }}
 `;
 
-const keyValueGlobalPattern = /\|\s?([-\w\s]+)\s+=\s+([}\{-\|\[\]\w\s]+)/g;
-const keyValuePattern = /\|\s?([-\w\s]+)\s+=\s+([}\{-\|\[\]\w\s]+)/;
+const keyValueGlobalPattern = /\|\s?([-\w\s]+)\s+?=\s+([#}\{-\|\[\]\w\s.]+)?\n/g;
+const keyValuePattern = /\|\s?([-\w\s]+)\s+?=\s+([#}\{-\|\[\]\w\s.]+)/;
 const innerValuePattern = /\[\[([\w\s]+)\]\]/;
 
 const extraPropertyPattern = /\n?\s?\|\s?\w+$/;
+const endingPattern = /\n\}\}$/;
 
 const propertyMatches = infoboxSource
   .replace('&nbsp;', ' ')
@@ -84,7 +85,10 @@ const propertyMatches = infoboxSource
 console.log(propertyMatches);
 
 function getValue(raw) {
-  const cleansed = raw.trim().replace(extraPropertyPattern, '');
+  const cleansed = raw
+    .trim()
+    .replace(extraPropertyPattern, '')
+    .replace(endingPattern, '');
   const result = innerValuePattern.exec(cleansed);
   if (result) {
     return result[1];
@@ -106,3 +110,4 @@ const properties = propertyMatches
   });
 
 console.log(JSON.stringify(properties, null, 3));
+console.log(properties.length);
