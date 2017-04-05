@@ -1,0 +1,45 @@
+{{Infobox comics character
+|image          = Batman-DC-Comics.jpg<!--Do NOT change this image without consensus from the Talk Page-->
+|imagesize      =
+|converted      = y
+|caption        = Art by Tony Daniel
+|publisher      = [[DC Comics]]
+|debut          = ''[[Detective Comics]]'' #27<br />(cover date May 1939/<br>release date March 1939)<!-- "Debut" indicates the first appearance of a character, not a change to the character's backstory. -->
+|creators       = {{plainlist|
+*[[Bill Finger]]<ref>[[Ron Goulart|Goulart, Ron]], ''Comic Book Encyclopedia'' ([[HarperCollins|Harper Entertainment]], New York, 2004) ISBN 978-0-06-053816-3</ref> <small>{{nowrap|(developer)}}</small>
+*[[Bob Kane]] <small>(concept)</small>
+}}
+|alter_ego      = Bruce Wayne<!-- Do not enter a middle name. He has been depicted with too many different middle names to enter a specific one here. Also, there is no past or current, dead or alive in fiction from a real world perspective; the infobox should cover the Batman known to the public consciousness and not a current comic book storyline. -->
+|alliances      = {{plainlist|
+*[[List of Batman supporting characters#Batman Family|Batman Family]]
+*[[Justice League]]
+*[[Outsiders (comics)|Outsiders]]
+*[[Batmen of All Nations]]
+*[[Batman Incorporated]]
+<!-- Because the body that was resurrected in Blackest Night #5 was revealed to be a clone from Darkseid, Bruce Wayne himself was never part of the Black Lantern Corps. -->
+}}
+|partners       = {{plainlist|
+<!--Try to keep this list short. No need to fill with Batman supporting characters and Justice League colleagues-->
+* [[Robin (comics)|Robin]] (various<!--Use Robin to include NIGHTWING and other ex-Robin identities-->)
+* [[Batgirl]] (various<!--Incorporating Oracle, Huntress, Spoiler, etc.-->)
+<!--* [[Nightwing]] included under ROBIN-->
+* [[James Gordon (comics)|James Gordon]]
+* [[Superman]]
+* [[Wonder Woman]]
+<!--Try to keep this list short. No need to fill with Batman supporting characters and Justice League colleagues-->
+}}
+|aliases        = {{plainlist|
+* Matches Malone<ref>''Batman'' #242 (June 1972)</ref>
+* Lefty Knox<ref>''Detective Comics'' #846 (Sept. 2008)</ref>
+}}
+|powers         =
+* [[Genius]]-level intellect
+* Peak human physical and mental conditioning
+* Expert [[martial artist]] and hand-to-hand combatant
+* Expert detective
+* Utilizes high-tech equipment and weapons
+|cat            = super
+|subcat         = DC Comics
+|hero           = y
+|sortkey        = Batman
+}}

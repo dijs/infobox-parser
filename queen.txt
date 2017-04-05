@@ -1,0 +1,69 @@
+{{Infobox royalty
+ |image      = Queen Elizabeth II March 2015.jpg
+ |caption    = Elizabeth in 2015
+ |succession =
+{{longitem |col1style=padding-top:0.2em
+ |
+ {{Collapsible list|title=[[Monarchy of the United Kingdom|Queen of the United Kingdom]] and<br />the other [[Commonwealth realm]]s|titlestyle=background:transparent;text-align:left;padding-left:1.0em;
+ |
+----
+  {{Aligned table|fullwidth=on|cols=2|class=nowrap|style=line-height:1.2em;
+  |col1style=padding-right:0.5em;
+  |'''[[Monarchy of Australia|Australia]]'''     | 1952–{{small|''present''}}
+  |'''[[Monarchy of Canada|Canada]]'''           | 1952–{{small|''present''}}
+  |'''[[Monarchy of New Zealand|New Zealand]]''' | 1952–{{small|''present''}}
+  |[[Dominion of Pakistan|Pakistan]]             | 1952–1956
+  |[[Union of South Africa|South Africa]]        | 1952–1961
+  |[[Dominion of Ceylon|Ceylon]]                 | 1952–1972
+  |[[Ghana (Commonwealth realm)|Ghana]]          | 1957–1960
+  |[[Federation of Nigeria|Nigeria]]             | 1960–1963
+  |[[Sierra Leone (Commonwealth realm)|Sierra Leone]] | 1961–1971
+  |[[Tanganyika]]                                | 1961–1962
+  |'''[[Monarchy of Jamaica|Jamaica]]'''         | 1962–{{small|''present''}}
+  |[[Trinidad and Tobago (Commonwealth realm)|Trinidad and Tobago]] | 1962–1976
+  |[[Uganda (Commonwealth realm)|Uganda]]        | 1962–1963
+  |[[Kenya (Commonwealth realm)|Kenya]]          | 1963–1964
+  |[[Malawi (Commonwealth realm)|Malawi]]        | 1964–1966
+  |[[State of Malta|Malta]]                      | 1964–1974
+  |[[The Gambia (Commonwealth realm)|The Gambia]] | 1965–1970
+  |[[Guyana (Commonwealth realm)|Guyana]]        | 1966–1970
+  |'''[[Monarchy of Barbados|Barbados]]'''       | 1966–{{small|''present''}}
+  |[[Mauritius (Commonwealth realm)|Mauritius]]  | 1968–1992
+  |[[Dominion of Fiji|Fiji]]                     | 1970–1987
+  |'''[[Monarchy of the Bahamas|The Bahamas]]''' | 1973–{{small|''present''}}
+  |'''[[Monarchy of Grenada|Grenada]]'''         | 1974–{{small|''present''}}
+  |'''[[Monarchy of Papua New Guinea|Papua New Guinea]]''' | 1975–{{small|''present''}}
+  |'''[[Monarchy of the Solomon Islands|Solomon Islands]]''' | 1978–{{small|''present''}}
+  |'''[[Monarchy of Tuvalu|Tuvalu]]'''           | 1978–{{small|''present''}}
+  |'''[[Monarchy of Saint Lucia|St. Lucia]]'''   | 1979–{{small|''present''}}
+  |{{longitem|style=line-height:1.1em|'''[[Monarchy of Saint Vincent and the Grenadines|St. Vincent and<br />the Grenadines]]'''}} | 1979–{{small|''present''}}
+  |'''[[Monarchy of Belize|Belize]]'''           | 1981–{{small|''present''}}
+  |'''[[Monarchy of Antigua and Barbuda|Antigua and Barbuda]]''' | 1981–{{small|''present''}}
+  |'''[[Monarchy of Saint Kitts and Nevis|St. Kitts and Nevis]]''' | 1983–{{small|''present''}}
+}} }} }}
+| reign       = 6 February 1952&nbsp;– present
+| cor-type    = [[Coronation of Queen Elizabeth II|Coronation]]
+| coronation  = 2 June 1953
+| predecessor = [[George VI]]
+| pre-type    = [[List of British monarchs|Predecessor]]
+| suc-type    = [[Heir apparent]]
+| successor   = [[Charles, Prince of Wales]]
+| reg-type    = {{Nowrap|Prime Ministers}}
+| regent      = [[List of Prime Ministers of Queen Elizabeth II|''See list'']]
+| spouse      = {{Marriage|[[Prince Philip, Duke of Edinburgh]]|20 November 1947}}
+| issue-link  = #Issue
+| issue       = {{Plainlist|
+* [[Charles, Prince of Wales]]
+* [[Anne, Princess Royal]]
+* [[Prince Andrew, Duke of York]]
+* [[Prince Edward, Earl of Wessex]]
+}}
+| full name   = Elizabeth Alexandra Mary
+| house       = [[House of Windsor|Windsor]]
+| father      = [[George VI]]
+| mother      = [[Queen Elizabeth The Queen Mother|Elizabeth Bowes-Lyon]]
+| birth_date  = {{Birth date and age|1926|4|21|df=yes}}
+| birth_place = 17 Bruton Street, [[Mayfair]], [[London]], [[England]], UK
+| religion =
+| signature   = Elizabeth II signature 1952.svg
+}}
