@@ -70,9 +70,9 @@ const infoboxSource = `
 }}
 `;
 
-const keyValueGlobalPattern = /\|\s?([-\w\s]+)\s+?=\s+([#}\{-\|\[\]\w\s.]+)?\n/g;
-const keyValuePattern = /\|\s?([-\w\s]+)\s+?=\s+([#}\{-\|\[\]\w\s.]+)/;
-const innerValuePattern = /\[\[([\w\s]+)\]\]/;
+const keyValueGlobalPattern = /\|\s?([-\w\s]+)\s+?=\s+([,#}\{-\|\[\]\w\s.]+)?\n/g;
+const keyValuePattern = /\|\s?([-\w\s]+)\s+?=\s+([,#}\{-\|\[\]\w\s.]+)/;
+const innerValuePattern = /\[\[([\w\s\|,]+)\]\]/;
 
 const extraPropertyPattern = /\n?\s?\|\s?\w+$/;
 const endingPattern = /\n\}\}$/;
@@ -91,7 +91,12 @@ function getValue(raw) {
     .replace(endingPattern, '');
   const result = innerValuePattern.exec(cleansed);
   if (result) {
-    return result[1];
+    const innerValue = result[1];
+    const orPosition = innerValue.indexOf('|');
+    if (orPosition !== -1) {
+      return innerValue.substring(0, orPosition);
+    }
+    return innerValue;
   }
   return cleansed;
 }
