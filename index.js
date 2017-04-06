@@ -13,6 +13,10 @@ const marriageGlobalPattern = /\{\{Marriage\|([^\}\}]+)\}\}/g;
 const marriagePattern = /\[\[([^|]+)\]\]\|(.*)\}\}/;
 const marriageVariablePattern = /\$MARRIAGE_(\d)/;
 
+const birthDateGlobalPattern = /\{\{Birth\sdate([^\}\}]+)\}\}/g;
+const birthDatePattern = /(\d+)\|(\d+)\|(\d+)/;
+const birthDateVariablePattern = /\$BIRTH_DATE_(\d)/;
+
 const commentsPattern = /<!--.*-->/g;
 const listItemPrefixPattern = /^\*\s?/;
 
@@ -44,11 +48,10 @@ function findMarriages(source) {
     }
   }
   const marriages = marriageMatches.map(match => {
-    const [, who, when] = marriagePattern.exec(match);
+    const [, who, married] = marriagePattern.exec(match);
     return {
-      type: 'marriage',
       who,
-      when,
+      married,
     };
   });
   const sourceAfterMarriages = marriageMatches.reduce((memo, match, index) => {
@@ -57,6 +60,35 @@ function findMarriages(source) {
   return {
     marriages,
     sourceAfterMarriages,
+  };
+}
+
+function findBirthDates(source) {
+  const birthDateMatches = source
+    .match(birthDateGlobalPattern);
+  if (!birthDateMatches) {
+    return {
+      birthDates: [],
+      sourceAfterBirthDates: source,
+    }
+  }
+  const millisInYear = 1000 * 60 * 60 * 24 * 365;
+  const birthDates = birthDateMatches.map(match => {
+    const [, year, month, day] = birthDatePattern.exec(match);
+    const date = new Date(year, month, day);
+    const age = Math.floor((Date.now() - +date) / millisInYear);
+    return {
+      type: 'birthDate',
+      date,
+      age,
+    };
+  });
+  const sourceAfterBirthDates = birthDateMatches.reduce((memo, match, index) => {
+    return memo.replace(match, `$BIRTH_DATE_${index}`);
+  }, source);
+  return {
+    birthDates,
+    sourceAfterBirthDates,
   };
 }
 
@@ -86,7 +118,7 @@ function findPlainLists(source) {
   };
 }
 
-function reduceVariable(value, { plainLists, marriages }) {
+function reduceVariable(value, { plainLists, marriages, birthDates }) {
   if (typeof value === 'boolean') {
     return value;
   }
@@ -97,6 +129,10 @@ function reduceVariable(value, { plainLists, marriages }) {
   if (value.match(marriageVariablePattern)) {
     const [, index] = marriageVariablePattern.exec(value);
     return marriages[parseInt(index, 10)];
+  }
+  if (value.match(birthDateVariablePattern)) {
+    const [, index] = birthDateVariablePattern.exec(value);
+    return birthDates[parseInt(index, 10)];
   }
   return value;
 }
@@ -132,7 +168,8 @@ module.exports = function (source) {
     .replace('|\'\'See list\'\'', '');
   const { sourceAfterPlainLists, plainLists } = findPlainLists(cleanSource);
   const { sourceAfterMarriages, marriages } = findMarriages(sourceAfterPlainLists);
-  const propertyList = findPropertyList(sourceAfterMarriages);
-  const context = { plainLists, marriages };
+  const { sourceAfterBirthDates, birthDates } = findBirthDates(sourceAfterMarriages);
+  const propertyList = findPropertyList(sourceAfterBirthDates);
+  const context = { plainLists, marriages, birthDates };
   return propertyList.reduce(byVariableReduction(context), {});
 };

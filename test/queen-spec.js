@@ -5,7 +5,7 @@ const parse = require('../index');
 describe('Should Parse Queen\'s Information', () => {
   const source = fs.readFileSync('./queen.txt', 'utf8');
   const properties = parse(source);
-  // console.log(properties);
+  console.log(properties);
   it('reign', () => {
     properties.should.have.property('reign', '6 February 1952 – present');
   });
@@ -29,9 +29,8 @@ describe('Should Parse Queen\'s Information', () => {
   });
   it('spouse', () => {
     const { spouse } = properties;
-    spouse.should.have.property('type', 'marriage');
     spouse.should.have.property('who', 'Prince Philip, Duke of Edinburgh');
-    spouse.should.have.property('when', '20 November 1947');
+    spouse.should.have.property('married', '20 November 1947');
   });
   it('full name', () => {
     properties.should.have.property('full name', 'Elizabeth Alexandra Mary');
@@ -44,6 +43,10 @@ describe('Should Parse Queen\'s Information', () => {
   });
   it('birth_place', () => {
     properties.should.have.property('birth_place', '17 Bruton Street, Mayfair, London, England, UK');
+  });
+  it('birth_date', () => {
+    const { birth_date } = properties;
+    birth_date.should.have.property('age', 90);
   });
   it('signature', () => {
     properties.should.have.property('signature', 'Elizabeth II signature 1952.svg');
