@@ -46,6 +46,7 @@ describe('Should Parse Queen\'s Information', () => {
   it('birth date', () => {
     const { birthDate } = properties;
     birthDate.should.have.property('age', 90);
+    birthDate.date.should.be.instanceOf(Date);
   });
   it('signature', () => {
     properties.should.have.property('signature', 'Elizabeth II signature 1952.svg');
