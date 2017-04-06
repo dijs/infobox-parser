@@ -5,7 +5,6 @@ const parse = require('../index');
 describe('Should Parse Queen\'s Information', () => {
   const source = fs.readFileSync('./queen.txt', 'utf8');
   const properties = parse(source);
-  console.log(properties);
   it('reign', () => {
     properties.should.have.property('reign', '6 February 1952 – present');
   });
@@ -18,8 +17,8 @@ describe('Should Parse Queen\'s Information', () => {
   it('coronation', () => {
     properties.should.have.property('coronation', '2 June 1953');
   });
-  it('suc-type', () => {
-    properties.should.have.property('suc-type', 'Heir apparent');
+  it('sucType', () => {
+    properties.should.have.property('sucType', 'Heir apparent');
   });
   it('issue', () => {
     properties.issue.should.containEql('Anne, Princess Royal');
@@ -33,7 +32,7 @@ describe('Should Parse Queen\'s Information', () => {
     spouse.should.have.property('married', '20 November 1947');
   });
   it('full name', () => {
-    properties.should.have.property('full name', 'Elizabeth Alexandra Mary');
+    properties.should.have.property('fullName', 'Elizabeth Alexandra Mary');
   });
   it('house', () => {
     properties.should.have.property('house', 'House of Windsor');
@@ -41,12 +40,12 @@ describe('Should Parse Queen\'s Information', () => {
   it('father', () => {
     properties.should.have.property('father', 'George VI');
   });
-  it('birth_place', () => {
-    properties.should.have.property('birth_place', '17 Bruton Street, Mayfair, London, England, UK');
+  it('birth place', () => {
+    properties.should.have.property('birthPlace', '17 Bruton Street, Mayfair, London, England, UK');
   });
-  it('birth_date', () => {
-    const { birth_date } = properties;
-    birth_date.should.have.property('age', 90);
+  it('birth date', () => {
+    const { birthDate } = properties;
+    birthDate.should.have.property('age', 90);
   });
   it('signature', () => {
     properties.should.have.property('signature', 'Elizabeth II signature 1952.svg');

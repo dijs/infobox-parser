@@ -20,6 +20,8 @@ const birthDateVariablePattern = /\$BIRTH_DATE_(\d)/;
 const commentsPattern = /<!--.*-->/g;
 const listItemPrefixPattern = /^\*\s?/;
 
+const millisInYear = 1000 * 60 * 60 * 24 * 365;
+
 function getValue(raw) {
   const cleansed = raw
     .trim()
@@ -72,13 +74,11 @@ function findBirthDates(source) {
       sourceAfterBirthDates: source,
     }
   }
-  const millisInYear = 1000 * 60 * 60 * 24 * 365;
   const birthDates = birthDateMatches.map(match => {
     const [, year, month, day] = birthDatePattern.exec(match);
     const date = new Date(year, month, day);
     const age = Math.floor((Date.now() - +date) / millisInYear);
     return {
-      type: 'birthDate',
       date,
       age,
     };
@@ -137,6 +137,15 @@ function reduceVariable(value, { plainLists, marriages, birthDates }) {
   return value;
 }
 
+function camelCase(string) {
+  return string.replace(/^([A-Z])|[\s_-](\w)/g, (match, p1, p2, offset) => {
+    if (p2) {
+      return p2.toUpperCase();
+    }
+    return p1.toLowerCase();
+  });
+}
+
 function findPropertyList(source) {
   return source
     .match(keyValueGlobalPattern)
@@ -147,7 +156,7 @@ function findPropertyList(source) {
       }
       const [, rawKey, rawValue] = result;
       return {
-        key: rawKey.trim(),
+        key: camelCase(rawKey.trim()),
         value: getValue(rawValue),
       };
     })
