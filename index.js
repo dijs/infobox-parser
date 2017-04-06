@@ -1,5 +1,5 @@
-const keyValueGlobalPattern = /\|\s?([-\w\s]+)\s+?=\s+([,\$#}\{-\|\[\]\w\s.]+)?\n/g;
-const keyValuePattern = /\|\s?([-\w\s]+)\s+?=\s+([,\$#}\{-\|\[\]\w\s.]+)/;
+const keyValueGlobalPattern = /\|\s?([-\w\s]+)\s*=\s+([,\$#}\{-–\|\[\]\w\d\s.]+)?\n/g;
+const keyValuePattern = /\|\s?([-\w\s]+)\s*=\s+([,\$#}\{-–\|\[\]\w\s.]+)/;
 const innerValuePattern = /\[\[([#\$\(\)\w\s\|,]+)\]\]/;
 
 const extraPropertyPattern = /\n?\s?\|\s?\w+$/;

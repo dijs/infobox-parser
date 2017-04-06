@@ -6,6 +6,9 @@ describe('Should Parse Queen\'s Information', () => {
   const source = fs.readFileSync('./queen.txt', 'utf8');
   const properties = parse(source);
   // console.log(properties);
+  it('reign', () => {
+    properties.should.have.property('reign', '6 February 1952 – present');
+  });
   it('image', () => {
     properties.should.have.property('image', 'Queen Elizabeth II March 2015.jpg');
   });

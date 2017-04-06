@@ -1,7 +1,3 @@
 # TODO
-
-- Create tests based on data files so we don't break what we already parsed correctly before
-- Get tests running on file changes
-- Get plain lists parsing...
-- May need to replace plainlists with `var` until the value determination
+- Refactor after we have enough features.. and tests for them
 - Maybe get wallaby working??
