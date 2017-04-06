@@ -7,11 +7,14 @@ const endingPattern = /\n\}\}$/;
 
 const plainListGlobalPattern = /\{\{p?P?lainlist\|([^\}\}]+)\}\}/g;
 const plainListItemPattern = /\*\s?([\(\),#}\{-\|\[\]\w\s.]+)/g;
+const plainListVariablePattern = /\$PLAIN_LIST_(\d)/;
+
+const marriageGlobalPattern = /\{\{Marriage\|([^\}\}]+)\}\}/g;
+const marriagePattern = /\[\[([^|]+)\]\]\|(.*)\}\}/;
+const marriageVariablePattern = /\$MARRIAGE_(\d)/;
 
 const commentsPattern = /<!--.*-->/g;
 const listItemPrefixPattern = /^\*\s?/;
-
-const plainListVariablePattern = /\$PLAIN_LIST_(\d)/;
 
 function getValue(raw) {
   const cleansed = raw
@@ -29,6 +32,32 @@ function getValue(raw) {
     return true;
   }
   return cleansed;
+}
+
+function findMarriages(source) {
+  const marriageMatches = source
+    .match(marriageGlobalPattern);
+  if (!marriageMatches) {
+    return {
+      marriages: [],
+      sourceAfterMarriages: source,
+    }
+  }
+  const marriages = marriageMatches.map(match => {
+    const [, who, when] = marriagePattern.exec(match);
+    return {
+      type: 'marriage',
+      who,
+      when,
+    };
+  });
+  const sourceAfterMarriages = marriageMatches.reduce((memo, match, index) => {
+    return memo.replace(match, `$MARRIAGE_${index}`);
+  }, source);
+  return {
+    marriages,
+    sourceAfterMarriages,
+  };
 }
 
 function findPlainLists(source) {
@@ -57,13 +86,17 @@ function findPlainLists(source) {
   };
 }
 
-function reduceVariable(value, { plainLists }) {
+function reduceVariable(value, { plainLists, marriages }) {
   if (typeof value === 'boolean') {
     return value;
   }
   if (value.match(plainListVariablePattern)) {
     const [, index] = plainListVariablePattern.exec(value);
     return plainLists[parseInt(index, 10)];
+  }
+  if (value.match(marriageVariablePattern)) {
+    const [, index] = marriageVariablePattern.exec(value);
+    return marriages[parseInt(index, 10)];
   }
   return value;
 }
@@ -98,6 +131,8 @@ module.exports = function (source) {
     .replace('&nbsp;', ' ')
     .replace('|\'\'See list\'\'', '');
   const { sourceAfterPlainLists, plainLists } = findPlainLists(cleanSource);
-  const propertyList = findPropertyList(sourceAfterPlainLists);
-  return propertyList.reduce(byVariableReduction({ plainLists }), {});
+  const { sourceAfterMarriages, marriages } = findMarriages(sourceAfterPlainLists);
+  const propertyList = findPropertyList(sourceAfterMarriages);
+  const context = { plainLists, marriages };
+  return propertyList.reduce(byVariableReduction(context), {});
 };

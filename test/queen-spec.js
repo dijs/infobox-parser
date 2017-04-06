@@ -24,8 +24,11 @@ describe('Should Parse Queen\'s Information', () => {
   it('successor', () => {
     properties.should.have.property('successor', 'Charles, Prince of Wales');
   });
-  it.skip('spouse', () => {
-    properties.should.have.property('spouse', 'Prince Philip, Duke of Edinburgh');
+  it('spouse', () => {
+    const { spouse } = properties;
+    spouse.should.have.property('type', 'marriage');
+    spouse.should.have.property('who', 'Prince Philip, Duke of Edinburgh');
+    spouse.should.have.property('when', '20 November 1947');
   });
   it('full name', () => {
     properties.should.have.property('full name', 'Elizabeth Alexandra Mary');
