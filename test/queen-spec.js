@@ -3,7 +3,7 @@ const fs = require('fs');
 const parse = require('../index');
 
 describe('Should Parse Queen\'s Information', () => {
-  const source = fs.readFileSync('./queen.txt', 'utf8');
+  const source = fs.readFileSync('./data/queen.txt', 'utf8');
   const properties = parse(source);
   it('reign', () => {
     properties.should.have.property('reign', '6 February 1952 – present');
