@@ -5,7 +5,7 @@ const innerValuePattern = /\[\[([#\$\(\)\w\s\|,]+)\]\]/;
 const extraPropertyPattern = /\n?\s?\|\s?\w+$/;
 const endingPattern = /\n\}\}$/;
 
-const plainListGlobalPattern = /\{\{plainlist\|([^\}\}]+)\}\}/g;
+const plainListGlobalPattern = /\{\{p?P?lainlist\|([^\}\}]+)\}\}/g;
 const plainListItemPattern = /\*\s?([\(\),#}\{-\|\[\]\w\s.]+)/g;
 
 const commentsPattern = /<!--.*-->/g;
@@ -17,15 +17,13 @@ function getValue(raw) {
   const cleansed = raw
     .trim()
     .replace(extraPropertyPattern, '')
-    .replace(endingPattern, '');
-  const result = innerValuePattern.exec(cleansed);
-  if (result) {
-    const innerValue = result[1];
-    const orPosition = innerValue.indexOf('|');
-    if (orPosition !== -1) {
-      return innerValue.substring(0, orPosition);
-    }
-    return innerValue;
+    .replace(endingPattern, '')
+    .replace(/\[\[/g, '')
+    .replace(/\]\]/g, '')
+    .trim();
+  const orPosition = cleansed.indexOf('|');
+  if (orPosition !== -1) {
+    return cleansed.substring(0, orPosition);
   }
   if (cleansed === 'y') {
     return true;
@@ -46,7 +44,7 @@ function findPlainLists(source) {
     const cleanMatch = match.replace(commentsPattern, '');
     const plainListItemsRaw = cleanMatch.match(plainListItemPattern);
     const plainListItems = plainListItemsRaw
-      .map(raw => raw.replace(listItemPrefixPattern, '').trim())
+      .map(raw => raw.replace(listItemPrefixPattern, ''))
       .map(getValue);
     return plainListItems;
   });
@@ -70,22 +68,9 @@ function reduceVariable(value, { plainLists }) {
   return value;
 }
 
-module.exports = function (source) {
-  const cleanSource = source
-    .replace('&nbsp;', ' ')
-    .replace('|\'\'See list\'\'', '');
-
-  const { sourceAfterPlainLists, plainLists } = findPlainLists(cleanSource);
-
-  // console.log(plainLists);
-  // console.log(sourceAfterPlainLists);
-
-  const propertyMatches = sourceAfterPlainLists
-    .match(keyValueGlobalPattern);
-
-  // console.log(propertyMatches);
-
-  const propertyList = propertyMatches
+function findPropertyList(source) {
+  return source
+    .match(keyValueGlobalPattern)
     .map(match => {
       const result = keyValuePattern.exec(match);
       if (!result) {
@@ -96,13 +81,23 @@ module.exports = function (source) {
         key: rawKey.trim(),
         value: getValue(rawValue),
       };
-    });
+    })
+    .filter(item => item);
+}
 
-  const properties = propertyList.reduce((memo, { key, value }) => {
+function byVariableReduction(context) {
+  return (memo, { key, value }) => {
     return Object.assign({}, memo, {
-      [key]: reduceVariable(value, { plainLists }),
+      [key]: reduceVariable(value, context),
     });
-  }, {});
+  }
+}
 
-  return properties;
+module.exports = function (source) {
+  const cleanSource = source
+    .replace('&nbsp;', ' ')
+    .replace('|\'\'See list\'\'', '');
+  const { sourceAfterPlainLists, plainLists } = findPlainLists(cleanSource);
+  const propertyList = findPropertyList(sourceAfterPlainLists);
+  return propertyList.reduce(byVariableReduction({ plainLists }), {});
 };
