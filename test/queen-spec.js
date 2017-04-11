@@ -27,9 +27,8 @@ describe('Should Parse Queen\'s Information', () => {
     properties.should.have.property('successor', 'Charles, Prince of Wales');
   });
   it('spouse', () => {
-    const { spouse } = properties;
-    spouse.should.have.property('who', 'Prince Philip, Duke of Edinburgh');
-    spouse.should.have.property('married', '20 November 1947');
+    properties.spouse.should.have.property('who', 'Prince Philip, Duke of Edinburgh');
+    properties.spouse.should.have.property('married', '20 November 1947');
   });
   it('full name', () => {
     properties.should.have.property('fullName', 'Elizabeth Alexandra Mary');
@@ -44,9 +43,8 @@ describe('Should Parse Queen\'s Information', () => {
     properties.should.have.property('birthPlace', '17 Bruton Street, Mayfair, London, England, UK');
   });
   it('birth date', () => {
-    const { birthDate } = properties;
-    birthDate.should.have.property('age', 90);
-    birthDate.date.should.be.instanceOf(Date);
+    properties.birthDate.should.have.property('age', 90);
+    properties.birthDate.date.should.be.instanceOf(Date);
   });
   it('signature', () => {
     properties.should.have.property('signature', 'Elizabeth II signature 1952.svg');

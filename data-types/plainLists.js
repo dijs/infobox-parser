@@ -1,0 +1,19 @@
+const dataType = require('./dataType');
+const getValue = require('./getValue');
+
+const listItemPrefixPattern = /^\*\s?/;
+const plainListItemPattern = /\*\s?([\(\),#}\{-\|\[\]\w\s.]+)/g;
+
+const plainListGlobalPattern = /\{\{p?P?lainlist\|([^\}\}]+)\}\}/g;
+
+module.exports = dataType({
+  globalPattern: plainListGlobalPattern,
+  parsePattern: plainListItemPattern,
+  parse: listItems => {
+    return listItems
+      .map(item => item.replace(listItemPrefixPattern, ''))
+      .map(getValue);
+  },
+  variable: 'PLAIN_LIST',
+  name: 'plainLists',
+});
