@@ -1,5 +1,6 @@
 const dataTypes = [
   require('./small'),
+  require('./flag'),
   require('./plainLists'),
   require('./marriages'),
   require('./birthDates'),

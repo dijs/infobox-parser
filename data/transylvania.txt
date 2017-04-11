@@ -1,0 +1,99 @@
+{{Infobox settlement
+| name                = Transylvania
+
+| native_name         = Transilvania/Ardeal {{ro icon}}
+
+| other_name          = Erdély {{hu icon}}<br/>Siebenbürgen {{de icon}}
+| settlement_type     = [[Historical regions of Romania|Historical region of Romania]]
+| image_skyline       = Arieseni 27.jpg
+| image_alt =
+| image_caption       = [[Apuseni Mountains]] near [[Arieșeni]], [[Alba County]]
+| flag_alt =
+| image_seal =
+| seal_alt =
+| image_flag          = Flag of Transylvania before 1918.svg
+| image_shield        = Coat of arms of Transylvania.svg
+| shield_alt =
+| nickname            = "The Land Beyond the Forest"
+| motto =
+| image_map           = Transylvania, Banat, Crisana and Maramures.svg
+| map_alt =
+| map_caption         = {{legend|#FF9955|Transylvania proper}}{{legend|#FFCCAA|[[Banat]], [[Crișana]] and [[Maramureș]]}}
+| pushpin_map =
+| pushpin_label_position =
+| pushpin_map_alt =
+| pushpin_map_caption =
+| coordinates            = {{coord|46|46|0|N|23|35|0|E|display=inline,title}}
+| coor_pinpoint =
+| coordinates_footnotes =
+| subdivision_type       = Country
+| subdivision_name       = {{flag|Romania}}
+| subdivision_type1 =
+| subdivision_name1 =
+| subdivision_type2 =
+| subdivision_name2 =
+| subdivision_type3 =
+| subdivision_name3 =
+| established_title =
+| established_date =
+| founder =
+| seat_type =
+| seat =
+| government_footnotes   =
+| leader_party =
+| leader_title =
+| leader_name =
+| unit_pref              = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->
+| area_footnotes =
+| area_urban_footnotes   = <!-- <ref> </ref> -->
+| area_rural_footnotes   = <!-- <ref> </ref> -->
+| area_metro_footnotes   = <!-- <ref> </ref> -->
+| area_magnitude         = <!-- <ref> </ref> -->
+| area_note =
+| area_water_percent =
+| area_rank =
+| area_blank1_title =
+| area_blank2_title =
+<!-- square kilometers -->
+| area_total_km2         = 102834
+| area_land_km2 =
+| area_water_km2 =
+| area_urban_km2 =
+| area_rural_km2 =
+| area_metro_km2 =
+| area_blank1_km2 =
+| area_blank2_km2 =
+<!-- hectares -->
+| area_total_ha =
+| area_land_ha =
+| area_water_ha =
+| area_urban_ha =
+| area_rural_ha =
+| area_metro_ha =
+| area_blank1_ha =
+| area_blank2_ha =
+| length_km =
+| width_km =
+| dimensions_footnotes =
+| elevation_footnotes =
+| elevation_m =
+| population_footnotes =
+| population_total       = 7309291
+| population_as_of       = 2011
+| population_density_km2 = auto
+| population_demonym     = Transylvanian
+| population_note =
+| timezone1              = [[Eastern European Time|EET]]
+| utc_offset1            = +2
+| timezone1_DST          = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST        = +3
+| postal_code_type =
+| postal_code =
+| area_code_type =
+| area_code =
+| iso_code =
+| website                = <!-- {{URL|example.com}} -->
+| footnotes =
+}}

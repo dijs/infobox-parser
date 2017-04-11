@@ -3,9 +3,12 @@ const findPropertyList = require('./propertyList');
 
 const smallDataType = dataTypes.find(type => type.name === 'smalls');
 
-function reduceVariable(value, context) {
+function reduceVariable(key, value, context) {
   if (typeof value === 'boolean') {
     return value;
+  }
+  if (key === 'areaTotalKm2') {
+    return parseInt(value, 10);
   }
   if (value.match(smallDataType.pattern)) {
     const primary = value.replace(smallDataType.pattern, '').trim();
@@ -27,7 +30,7 @@ function reduceVariable(value, context) {
 function byVariableReduction(context) {
   return (memo, { key, value }) => {
     return Object.assign({}, memo, {
-      [key]: reduceVariable(value, context),
+      [key]: reduceVariable(key, value, context),
     });
   }
 }
