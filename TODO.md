@@ -1,4 +1,4 @@
 # TODO
-- Format keys to use camel case
-- Refactor after we have enough features.. and tests for them
+- Test a few more page types
+- Get integrated into wikijs (as another library)
 - Maybe get wallaby working??
