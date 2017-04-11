@@ -1,11 +1,9 @@
-const dataType = require('./dataType');
-
 const birthDateGlobalPattern = /\{\{Birth\sdate([^\}\}]+)\}\}/g;
 const birthDatePattern = /(\d+)\|(\d+)\|(\d+)/;
 
 const millisInYear = 1000 * 60 * 60 * 24 * 365;
 
-module.exports = dataType({
+module.exports = {
   globalPattern: birthDateGlobalPattern,
   parsePattern: birthDatePattern,
   parse: results => {
@@ -19,4 +17,4 @@ module.exports = dataType({
   },
   variable: 'BIRTH_DATE',
   name: 'birthDates',
-});
+};

@@ -1,9 +1,7 @@
-const dataType = require('./dataType');
-
 const marriageGlobalPattern = /\{\{Marriage\|([^\}\}]+)\}\}/g;
 const marriagePattern = /\[\[([^|]+)\]\]\|(.*)\}\}/;
 
-module.exports = dataType({
+module.exports = {
   globalPattern: marriageGlobalPattern,
   parsePattern: marriagePattern,
   parse: results => {
@@ -15,4 +13,4 @@ module.exports = dataType({
   },
   variable: 'MARRIAGE',
   name: 'marriages',
-});
+};

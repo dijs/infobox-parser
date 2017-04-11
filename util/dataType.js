@@ -12,7 +12,9 @@ module.exports = function dataType({ globalPattern, parsePattern, parse, variabl
       return memo.replace(match, `$${variable}_${index}`);
     }, source);
     return {
-      [name]: instances,
+      data: {
+        [name]: instances,
+      },
       sourceAfter,
     };
   };
