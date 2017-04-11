@@ -3,8 +3,6 @@ const cleanSource = require('./cleanSource');
 
 function byDataHandler({ source, context }, handler) {
   const { data, sourceAfter } = handler(source);
-  // console.log(data);
-  // console.log(sourceAfter);
   return {
     context: Object.assign({}, context, data),
     source: sourceAfter,
