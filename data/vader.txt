@@ -1,0 +1,29 @@
+{{Infobox character
+| name             = Darth Vader<br />{{small|Anakin Skywalker}}
+| series           = [[Star Wars (franchise)|Star Wars]]
+| image            = Darth_Vader.jpg
+| caption          = [[David Prowse]] as Darth Vader<br>in ''[[The Empire Strikes Back]]'' (1980)
+| first            = ''[[Star Wars (film)|Star Wars]]'' (1977)
+| last             = ''[[Rogue One]]'' (2016)
+| creator          = [[George Lucas]]
+| portrayer        = {{plainlist|1=
+* '''Darth Vader''':
+** [[David Prowse]] {{small|(''Episode IV-VI'')}}
+** [[Bob Anderson (fencer)|Bob Anderson]] {{small|(''Episode V-VI''; stunts)}}
+** [[Hayden Christensen]] {{small|(''Episode III'')}}
+** Gene Bryant {{small|(''Episode III'')}}
+** [[Spencer Wilding]] {{small|(''Rogue One'')}}
+** Daniel Naprous {{small|(''Rogue One'')}}
+* '''Anakin Skywalker''':
+** [[Jake Lloyd]] {{small|(''Episode I'')}}
+** Hayden Christensen {{small|(''Episodes II-III'', ''Episodes VI'' 2004 DVD and later releases)}}
+** [[Sebastian Shaw (actor)|Sebastian Shaw]] {{small|(''Episodes VI'')}}
+}}
+| voice            = {{plainlist|
+* '''Darth Vader:'''
+** [[James Earl Jones]] {{small|(voice)}}
+** [[Ben Burtt]] {{small|(vocal effects)}}
+* '''Anakin Skywalker:'''
+** [[Mat Lucas]] <small>(''[[Star Wars: Clone Wars (2003 TV series)|Clone Wars]]'')</small>
+** [[Matt Lanter]] <small>(''[[Star Wars: The Clone Wars (2008 TV series)|The Clone Wars]]'' and ''[[Star Wars Rebels|Rebels]]'')</small>
+}}

@@ -11,7 +11,8 @@ module.exports = {
   parse: listItems => {
     return listItems
       .map(item => item.replace(listItemPrefixPattern, ''))
-      .map(getValue);
+      .map(getValue)
+      .filter(value => value.length);
   },
   variable: 'PLAIN_LIST',
   name: 'plainLists',
