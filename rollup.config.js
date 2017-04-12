@@ -4,8 +4,7 @@ import uglify from 'rollup-plugin-uglify';
 export default {
   entry: 'index.js',
   dest: 'build/bundle.min.js',
-  format: 'iife',
-  moduleName: 'infoboxParser',
+  format: 'cjs',
   sourceMap: 'inline',
   plugins: [
     babel({
