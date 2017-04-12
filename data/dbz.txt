@@ -1,0 +1,8 @@
+{{Infobox animanga/Header
+| name = Dragon Ball Z
+| image = Bukkun.png
+| caption = Cover of the first ''Dragon Ball Z'' compilation soundtrack, featuring [[Goku]] (left) and most of the other heroes of the series
+| ja_kanji = ドラゴンボールZ
+| ja_romaji = Doragon Bōru Zetto
+| genre = <!-- Do not place additional category genres such as Adventure, Drama, Fantasy, Romance, etc. WP:MOS-AM tells us to use the most well-known categories! Any extra ones added without community consensus on the talk page will be reverted and the user will receive a test warning! -->[[Martial arts (genre)|Martial arts]], [[Comedy]], [[Science fantasy]]
+}}

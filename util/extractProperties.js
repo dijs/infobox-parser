@@ -7,6 +7,9 @@ function reduceVariable(key, value, context) {
   if (typeof value === 'boolean') {
     return value;
   }
+  if (Array.isArray(value)) {
+    return value;
+  }
   if (key === 'areaTotalKm2') {
     return parseInt(value, 10);
   }
