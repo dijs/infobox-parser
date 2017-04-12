@@ -1,6 +1,6 @@
 require('should');
-const fs = require('fs');
-const parse = require('../index');
+import fs from 'fs';
+import parse from '../index';
 
 describe('Should Parse Dragon Ball Z\'s Information', () => {
   const source = fs.readFileSync('./data/dbz.txt', 'utf8');

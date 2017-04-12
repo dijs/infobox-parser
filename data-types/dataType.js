@@ -1,4 +1,4 @@
-module.exports = function dataType({ globalPattern, parsePattern, parse, variable, name }) {
+export default function dataType({ globalPattern, parsePattern, parse, variable, name }) {
   return source => {
     const matches = source.match(globalPattern);
     if (!matches) {

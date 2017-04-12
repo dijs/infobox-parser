@@ -1,6 +1,6 @@
 const commentsPattern = /<!--.*-->/g;
 
-module.exports = function cleanSource(source) {
+export default function cleanSource(source) {
   return source
     .replace(/''/g, '')
     // This is a little iffy

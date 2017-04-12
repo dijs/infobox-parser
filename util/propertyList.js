@@ -1,4 +1,4 @@
-const getValue = require('./getValue');
+import getValue from './getValue';
 
 const keyValueGlobalPattern = /\|\s?([-\w\s]+)\s*=\s*([×@\(\),\$#}\{-–-\|\[\]\w\d\s.]+)?\n/g;
 const keyValuePattern = /\|\s?([-\w\s]+)\s*=\s*([×@\(\),\$#}\{-–-\|\[\]\w\d\s.]+)/;
@@ -12,7 +12,7 @@ function camelCase(string) {
   });
 }
 
-module.exports = function findPropertyList(source) {
+export default function findPropertyList(source) {
   return source
     .match(keyValueGlobalPattern)
     .map(match => {

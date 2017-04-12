@@ -3,7 +3,7 @@ const birthDatePattern = /(\d+)\|(\d+)\|(\d+)/;
 
 const millisInYear = 1000 * 60 * 60 * 24 * 365;
 
-module.exports = {
+export default {
   globalPattern: birthDateGlobalPattern,
   parsePattern: birthDatePattern,
   parse: results => {

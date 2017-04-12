@@ -1,14 +1,20 @@
+import small from './small';
+import flag from './flag';
+import plainLists from './plainLists';
+import marriages from './marriages';
+import birthDates from './birthDates';
+import createDataTypeHandler from './dataType';
+
 const dataTypes = [
-  require('./small'),
-  require('./flag'),
-  require('./plainLists'),
-  require('./marriages'),
-  require('./birthDates'),
+  small,
+  flag,
+  plainLists,
+  marriages,
+  birthDates,
 ];
 
-const createDataTypeHandler = require('../util/dataType');
 
-module.exports = dataTypes.map(type => {
+export default dataTypes.map(type => {
   return {
     handler: createDataTypeHandler(type),
     name: type.name,

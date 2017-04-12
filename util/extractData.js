@@ -1,5 +1,5 @@
-const dataTypes = require('../data-types');
-const cleanSource = require('./cleanSource');
+import dataTypes from '../data-types/index';
+import cleanSource from './cleanSource';
 
 function byDataHandler({ source, context }, handler) {
   const { data, sourceAfter } = handler(source);
@@ -9,7 +9,7 @@ function byDataHandler({ source, context }, handler) {
   };
 }
 
-module.exports = function extractData(source) {
+export default function extractData(source) {
   return dataTypes
     .map(type => type.handler)
     .reduce(byDataHandler, {

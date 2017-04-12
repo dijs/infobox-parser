@@ -1,5 +1,5 @@
-const dataTypes = require('../data-types');
-const findPropertyList = require('./propertyList');
+import dataTypes from '../data-types/index';
+import findPropertyList from './propertyList';
 
 const smallDataType = dataTypes.find(type => type.name === 'smalls');
 
@@ -52,6 +52,6 @@ function byVariableReduction(context) {
   }
 }
 
-module.exports = function extractProperties({ source, context }) {
+export default function extractProperties({ source, context }) {
   return findPropertyList(source).reduce(byVariableReduction(context), {});
 }

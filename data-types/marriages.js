@@ -1,7 +1,7 @@
 const marriageGlobalPattern = /\{\{Marriage\|([^\}\}]+)\}\}/g;
 const marriagePattern = /\[\[([^|]+)\]\]\|(.*)\}\}/;
 
-module.exports = {
+export default {
   globalPattern: marriageGlobalPattern,
   parsePattern: marriagePattern,
   parse: results => {

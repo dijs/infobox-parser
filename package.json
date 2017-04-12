@@ -1,15 +1,22 @@
 {
   "name": "infobox-parser",
   "version": "0.0.1",
-  "description": "Parse Wikipedia Info Box Source",
-  "main": "index.js",
+  "description": "Parse Wikipedia Infobox Source",
+  "main": "build/bundle.min.js",
   "scripts": {
-    "test": "mocha --no-colors"
+    "test": "mocha --no-colors --compilers js:babel-core/register",
+    "build": "rollup -c"
   },
   "author": "Richard van der Dys",
   "license": "MIT",
   "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es2015-rollup": "^3.0.0",
     "mocha": "^3.2.0",
+    "rollup": "^0.41.6",
+    "rollup-plugin-babel": "^2.7.1",
+    "rollup-plugin-uglify": "^1.0.1",
     "should": "^11.2.1"
   }
 }

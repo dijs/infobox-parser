@@ -20,7 +20,7 @@ function trimOr(str) {
   return str;
 }
 
-module.exports = function getValue(raw) {
+export default function getValue(raw) {
   const cleansed = raw
     .trim()
     .replace(/File:/, '')

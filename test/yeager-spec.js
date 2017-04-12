@@ -1,6 +1,6 @@
 require('should');
-const fs = require('fs');
-const parse = require('../index');
+import fs from 'fs';
+import parse from '../index';
 
 describe('Should Parse Chuck Yeager\'s Information', () => {
   const source = fs.readFileSync('./data/yeager.txt', 'utf8');

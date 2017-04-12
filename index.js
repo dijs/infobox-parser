@@ -1,6 +1,6 @@
-const extractData = require('./util/extractData');
-const extractProperties = require('./util/extractProperties');
+import extractData from './util/extractData';
+import extractProperties from './util/extractProperties';
 
-module.exports = function (source) {
+export default function (source) {
   return extractProperties(extractData(source));
 };

@@ -1,7 +1,7 @@
 const smallGlobalPattern = /\{\{small\|([^\}\}]+)\}\}/g;
 const smallPattern = /small\|([^\}\}]+)\}\}/;
 
-module.exports = {
+export default {
   globalPattern: smallGlobalPattern,
   parsePattern: smallPattern,
   parse: results => {

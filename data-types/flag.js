@@ -1,7 +1,7 @@
 const flagGlobalPattern = /\{\{flag\|([^\}\}]+)\}\}/g;
 const flagPattern = /flag\|([^\}\}]+)\}\}/;
 
-module.exports = {
+export default {
   globalPattern: flagGlobalPattern,
   parsePattern: flagPattern,
   parse: results => {
