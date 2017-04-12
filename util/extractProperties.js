@@ -10,10 +10,13 @@ function reduceVariable(key, value, context) {
   if (Array.isArray(value)) {
     return value;
   }
-  if (key === 'areaTotalKm2') {
-    return parseInt(value, 10);
+  if (key.match(/areaTotal/) || key.match(/population/)) {
+    const float = parseFloat(value, 10);
+    if (!isNaN(float)) {
+      return float;
+    }
   }
-  if (key.search(/date/i) !== -1) {
+  if (key.match(/date/i)) {
     const dateValue = +new Date(value);
     if (!isNaN(dateValue)) {
       return new Date(value);
