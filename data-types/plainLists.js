@@ -1,9 +1,9 @@
 const getValue = require('../util/getValue');
 
 const listItemPrefixPattern = /^\*\s?/;
-const plainListItemPattern = /\*\s?([\(\),#}\{-\|\[\]\w\s.]+)/g;
+const plainListItemPattern = /\*\s?([:=\(\),#}\{-\|\[\]\w\d\s.]+)/g;
 
-const plainListGlobalPattern = /\{\{p?P?lainlist\|([^\}\}]+)\}\}/g;
+const plainListGlobalPattern = /\{\{p?P?lainlist\s?\|([^\}\}]+)\}\}/g;
 
 module.exports = {
   globalPattern: plainListGlobalPattern,

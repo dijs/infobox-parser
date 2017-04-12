@@ -13,7 +13,8 @@ describe('Should Parse Darth Vaders\'s Information', () => {
     properties.should.have.property('creator', 'George Lucas');
   });
   it('caption', () => {
-    properties.should.have.property('caption', 'David Prowse as Darth Vader in The Empire Strikes Back (1980)');
+    properties.caption.should.containEql('David Prowse');
+    properties.caption.should.containEql('The Empire Strikes Back');
   });
   it('portrayer', () => {
     properties.portrayer.should.containEql('David Prowse');

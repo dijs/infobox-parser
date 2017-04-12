@@ -1,11 +1,14 @@
 const extraPropertyPattern = /\n?\s?\|\s?\w+$/;
 const endingPattern = /\n\}\}$/;
 const linksPattern = /\[\[([^\]]+)\]\]/g;
+const linkSeparatorPattern = /[,<]/g;
 
-function trimLinkWrappers(str) {
+function trimWrappers(str) {
   return str
     .replace(/\[\[/g, '')
     .replace(/\]\]/g, '')
+    .replace(/\{\{/g, '')
+    .replace(/\}\}/g, '')
     .trim();
 }
 
@@ -20,6 +23,7 @@ function trimOr(str) {
 module.exports = function getValue(raw) {
   const cleansed = raw
     .trim()
+    .replace(/File:/, '')
     .replace(extraPropertyPattern, '')
     .replace(endingPattern, '');
 
@@ -28,12 +32,15 @@ module.exports = function getValue(raw) {
   }
 
   const links = cleansed.match(linksPattern);
-  const commas = cleansed.match(/,/g);
+  const separators = cleansed.match(linkSeparatorPattern);
 
   // is it a list of links??
-  if (links && commas && commas.length === links.length - 1) {
-    return links.map(trimLinkWrappers).map(trimOr);
+  if (links && separators && separators.length === links.length - 1) {
+    return links
+      .map(trimWrappers)
+      .map(trimOr)
+      .map(value => value.replace(linkSeparatorPattern, ''));
   }
 
-  return trimOr(trimLinkWrappers(cleansed));
+  return trimOr(trimWrappers(cleansed));
 }

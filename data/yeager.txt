@@ -1,0 +1,28 @@
+{{Infobox military person
+|honorific_prefix=
+|image           = ChuckYeager.jpg
+|image_size      =
+|alt             = Brigadier General Charles Elwood Yeager
+|caption         =
+|birth_name      = Charles Elwood Yeager
+|birth_date      = {{Birth date and age|1923|2|13}}
+|death_date      = <!-- {{Death date and age|YYYY|MM|DD|1923|2|13}} death date first, then birth date -->
+|birth_place     = [[Myra, West Virginia]], U.S.
+|death_place     =
+|placeofburial   =
+|nickname        = Chuck
+|allegiance      = {{flag|United States of America}}
+|branch          = {{Plainlist |
+* [[File:US Army Air Corps Hap Arnold Wings.svg|25px]] [[United States Army Air Forces|U.S. Army Air Forces]]
+* {{Air force|United States|size=23px}}
+}}
+|serviceyears    = 1941–1975 (34 years)
+|rank            = [[File:US Air Force O7 shoulderboard rotated.svg|25px]] [[Brigadier general (United States)|Brigadier general]]
+|battles         = [[World War II]]<br />[[Cold War]]<br />[[Vietnam War]]
+|awards        = [[#Awards and decorations|See below]]
+|spouse        = Glennis Dickhouse (1945–90; her death) (4 children)<br>Victoria Scott D'Angelo (2003–present)
+|relations     = [[Steve Yeager]] (cousin)
+|laterwork     = [[Flight instructor]] and [[test pilot]]
+|signature     = Chuck Yeager signature.SVG
+|website       = http://www.chuckyeager.com/
+}}

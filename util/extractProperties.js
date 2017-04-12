@@ -14,7 +14,11 @@ function reduceVariable(key, value, context) {
     return parseInt(value, 10);
   }
   if (value.match(smallDataType.pattern)) {
-    const primary = value.replace(smallDataType.pattern, '').trim();
+    const primary = value
+      .replace(smallDataType.pattern, '')
+      // Cleaning up from inserted commas
+      .replace(/,/, '')
+      .trim();
     const [, index] = smallDataType.pattern.exec(value);
     const secondary = context[smallDataType.name][parseInt(index, 10)];
     return {
@@ -32,8 +36,12 @@ function reduceVariable(key, value, context) {
 
 function byVariableReduction(context) {
   return (memo, { key, value }) => {
+    const reduced = reduceVariable(key, value, context);
+    if (reduced === '') {
+      return memo;
+    }
     return Object.assign({}, memo, {
-      [key]: reduceVariable(key, value, context),
+      [key]: reduced,
     });
   }
 }
