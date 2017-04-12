@@ -13,6 +13,12 @@ function reduceVariable(key, value, context) {
   if (key === 'areaTotalKm2') {
     return parseInt(value, 10);
   }
+  if (key.search(/date/i) !== -1) {
+    const dateValue = +new Date(value);
+    if (!isNaN(dateValue)) {
+      return new Date(value);
+    }
+  }
   if (value.match(smallDataType.pattern)) {
     const primary = value
       .replace(smallDataType.pattern, '')

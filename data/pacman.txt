@@ -1,0 +1,29 @@
+{{Infobox video game
+|title=Pac-Man / パックマン
+|image=File:Pac flyer.png
+|caption=North American flyer
+|developer=[[Namco]]
+|publisher={{vgrelease|JP|Namco|NA|[[Midway Games|Midway]]}}
+|designer=[[Toru Iwatani]]
+|programmer=Shigeo Funaki
+|composer=Toshio Kai
+|released={{vgrelease|JP|May 22, 1980<ref name="bandainamco" /><ref name="wired_namcodispute" />|NA|October 26, 1980<ref name="RePlay Magazine">Date shown in January 1982 article "Midway celebrates Pac-Man".</ref>}}
+|genre=[[List of maze video games|Maze]]
+|modes=[[Single-player video game|Single-player]]
+|series = ''[[Pac-Man (series)|Pac-Man]]''
+|platforms=[[Arcade game|Arcade]], [[#Remakes and sequels|Various]]
+|cabinet=Standard upright, mini-upright and cocktail
+|arcade system=[[Namco Pac-Man]]
+|cpu={{Z80|1|3.072}}<ref>{{cite book
+| title       = Midway Pac-Man Parts and Operating Manual
+| url         = http://www.arcade-museum.com/manuals-videogames/P/Pac-Man.pdf
+| format      = PDF
+| accessdate  =July 20, 2009
+| date=December 1980 | publisher=[[Midway Games]]
+| location    = Chicago, Illinois
+| chapter     = Game Board Schematic
+}}</ref><ref>{{cite book| last = Nitsche| first = Michael| title = Video Game Spaces: Image, Play, and Structure in 3D Worlds| date = March 31, 2009| publisher=[[MIT Press]]| location = [[Cambridge, Massachusetts]]| isbn = 0-262-14101-9| page = 26| chapter = Games and Rules| quote = [...] they would not realize the fundamental logical difference between a version of Pac-Man (Iwatani 1980) running on the original Z80 [...]
+}}</ref>
+|sound=1× Namco WSG (3-channel mono) @ 3.072&nbsp;[[Hertz|MHz]]
+|display=Vertically oriented, 224&nbsp;×&nbsp;288, 16 [[palette (computing)|palette]] colors
+}}
