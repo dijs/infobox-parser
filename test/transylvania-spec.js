@@ -8,14 +8,11 @@ describe('Should Parse Transylvania\'s Information', () => {
   it('name', () => {
     properties.should.have.property('name', 'Transylvania');
   });
-  it('timezone1', () => {
-    properties.should.have.property('timezone1', 'Eastern European Time');
-  });
   it('otherName', () => {
     properties.otherName.should.containEql('Erdély');
   });
   it('timezone1', () => {
-    properties.should.have.property('timezone1', 'Eastern European Time');
+    properties.timezone1.should.have.property('value', 'Eastern European Time');
   });
   it('areaTotalKm2', () => {
     properties.should.have.property('areaTotalKm2', 102834);

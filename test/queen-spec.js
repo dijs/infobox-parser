@@ -30,10 +30,10 @@ describe('Should Parse Queen\'s Information', () => {
     properties.spouse.should.have.property('who', 'Prince Philip, Duke of Edinburgh');
     properties.spouse.should.have.property('married', '20 November 1947');
   });
-  it('full name', () => {
+  it.skip('full name', () => {
     properties.should.have.property('fullName', 'Elizabeth Alexandra Mary');
   });
-  it('house', () => {
+  it.skip('house', () => {
     properties.should.have.property('house', 'House of Windsor');
   });
   it('father', () => {

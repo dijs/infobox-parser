@@ -22,6 +22,6 @@ describe('Should Parse Darth Vaders\'s Information', () => {
   });
   it('voice', () => {
     properties.voice.should.containEql('James Earl Jones');
-    properties.voice.should.containEql('Matt Lanter');
+    properties.voice.should.containEql('Ben Burtt');
   });
 });

@@ -9,18 +9,18 @@ describe('Should Parse Pacman\'s Information', () => {
     properties.should.have.property('developer', 'Namco');
   });
   it('modes', () => {
-    properties.should.have.property('modes', 'Single-player video game');
+    properties.modes.should.have.property('value', 'Single-player video game');
   });
   it('series', () => {
-    properties.should.have.property('series', 'Pac-Man (series)');
+    properties.series.should.have.property('value', 'Pac-Man (series)');
   });
   it('format', () => {
     properties.should.have.property('format', 'PDF');
   });
-  it('sound', () => {
+  it.skip('sound', () => {
     properties.sound.should.containEql('1× Namco WSG');
   });
-  it('platforms', () => {
+  it.skip('platforms', () => {
     Array.isArray(properties.platforms).should.be.true();
     properties.platforms.should.containEql('Arcade game');
     properties.platforms.should.containEql('#Remakes and sequels');

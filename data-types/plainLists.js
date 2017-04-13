@@ -9,10 +9,13 @@ export default {
   globalPattern: plainListGlobalPattern,
   parsePattern: plainListItemPattern,
   parse: listItems => {
+    if (!listItems) {
+      return [];
+    }
     return listItems
       .map(item => item.replace(listItemPrefixPattern, ''))
       .map(getValue)
-      .filter(value => value.length);
+      .filter(value => value && value.length);
   },
   variable: 'PLAIN_LIST',
   name: 'plainLists',

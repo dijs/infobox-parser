@@ -4,6 +4,9 @@ import findPropertyList from './propertyList';
 const smallDataType = dataTypes.find(type => type.name === 'smalls');
 
 function reduceVariable(key, value, context) {
+  if (value === null) {
+    return null;
+  }
   if (typeof value === 'boolean') {
     return value;
   }
@@ -46,7 +49,7 @@ function reduceVariable(key, value, context) {
 function byVariableReduction(context) {
   return (memo, { key, value }) => {
     const reduced = reduceVariable(key, value, context);
-    if (reduced === '') {
+    if (reduced === '' || reduced === null) {
       return memo;
     }
     return Object.assign({}, memo, {

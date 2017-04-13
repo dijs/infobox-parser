@@ -1,0 +1,81 @@
+{{About|a place in Indonesia|a race in the Philippines, Malaysia and Indonesia|Suluk people|the regency of Solok in [[West Sumatra]]|Solok Regency}}
+{{Infobox settlement
+|official_name          = Solok
+|native_name            = <!-- for cities whose native name is not in English -->
+|nickname               = Kota Solok
+|motto                  =
+|image_skyline          =
+|imagesize              =
+|image_caption          =
+|image_flag             =
+|image_seal             = Logo Kota Solok.png
+|image_shield           =
+|image_map              = Lokasi Sumatera Barat Kota Solok.svg
+|mapsize                =
+|map_caption            = Location of Solok in Indonesia
+|pushpin_map            = Indonesia
+|coordinates_region     = ID
+|subdivision_type       = Country
+|subdivision_name       = [[Indonesia]]
+|subdivision_type1      = Province
+|subdivision_name1      = [[West Sumatra]]
+|subdivision_type2      =
+|subdivision_name2      =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|established_title      = <!-- Settled -->
+|established_date       =
+|established_title2     = <!-- Incorporated (town) -->
+|established_date2      =
+|established_title3     = <!-- Incorporated (city) -->
+|established_date3      =
+|area_magnitude         =
+|area_total_km2         = 57.64
+|area_total_sq_mi       =
+|area_land_km2          =
+|area_land_sq_mi        =
+|area_water_km2         =
+|area_water_sq_mi       =
+|area_water_percent     =
+|area_urban_km2         =
+|area_urban_sq_mi       =
+|area_metro_km2         =
+|area_metro_sq_mi       =
+|population_as_of       = 2014
+|population_note        =
+|population_total       = 62483
+|population_density_km2 = auto
+|population_density_sq_mi =
+|population_metro       =
+|population_density_metro_km2 =
+|population_density_metro_sq_mi =
+|population_urban       =
+|population_density_urban_km2 =
+|population_density_urban_mi2 =
+|timezone               = [[Time in Indonesia|WIB]]
+|utc_offset             = +7
+|timezone_DST           =
+|utc_offset_DST         =
+|latd=00 |latm=47 |lats=59 |latNS=S
+|longd=100 |longm=39 |longs=58 |longEW=E
+|elevation_m            =
+|elevation_ft           =
+|blank_name             = [[K\u00f6ppen climate classification|Climate]]
+|blank_info             = [[Tropical rainforest climate|Af]]
+|postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              = +62 755
+|website                =
+|footnotes              =
+}}
+
+'''Solok''' (means ''valley'') is a city in [[West Sumatra]], [[Indonesia]]. Its [[motto]] is Kota Beras, abbreviation from \"Bersih, Elok, Rapi, Aman dan Sejahtera\". It has an area of 57.64&nbsp;km\u00b2 (0.14 percent of the area of West Sumatra) and a population of 62,483 people in 2014. Solok topography varies between the plains and hilly with a height of 390 m above sea level. There are three tributaries that cross Solok, namely Batang Lembang, Batang Gawan, and Batang Air Binguang.
+
+Judging from the type of soil, 21,37 percent of the land in solok is rice field and the remaining 78,63 percent is used for other than rice field. While the travel time from Solok to [[Padang]] is 75 minutes, to the city of [[Padang Panjang]] for 60 minutes and to [[Sawahlunto]] for 40 minutes.<ref>{{cite web |url=http://bappeda.solokkota.go.id/dda |title=''Kota Solok Dalam Angka Tahun 2014''|accessdate=January 7, 2017|author=Bappeda Kota Solok}}</ref>

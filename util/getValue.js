@@ -21,6 +21,10 @@ function trimOr(str) {
 }
 
 export default function getValue(raw) {
+  if (!raw) {
+    return null;
+  }
+
   const cleansed = raw
     .trim()
     .replace(/File:/, '')
