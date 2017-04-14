@@ -1,15 +1,12 @@
-const globalPattern = /\[\[(.*)\|(.*)\]\]/g;
-const pattern = /\[\[(.*)\|(.*)\]\]/;
+const globalPattern = /\[\[([^\]\|]+)\|?([^\]]+)?\]\]/g;
+const pattern = /\[\[([^\]\|]+)\|?([^\]]+)?\]\]/;
 
 export default {
   globalPattern: globalPattern,
   parsePattern: pattern,
   parse: results => {
     const [, value, type] = results;
-    return {
-      type,
-      value,
-    };
+    return type || value;
   },
   variable: 'INSTANCE',
   name: 'instances',

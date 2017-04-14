@@ -10,10 +10,11 @@ function byDataHandler({ source, context }, handler) {
 }
 
 export default function extractData(source) {
+  const cleansedSource = cleanSource(source);
   return dataTypes
     .map(type => type.handler)
     .reduce(byDataHandler, {
       context: {},
-      source: cleanSource(source),
+      source: cleansedSource,
     });
 }

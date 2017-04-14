@@ -4,26 +4,27 @@ import parse from '../index';
 
 describe('Should Parse Pacman\'s Information', () => {
   const source = fs.readFileSync('./data/pacman.txt', 'utf8');
-  const properties = parse(source);
+  const properties = parse(source, { simplifyDataValues: false });
   it('developer', () => {
     properties.should.have.property('developer', 'Namco');
   });
   it('modes', () => {
-    properties.modes.should.have.property('value', 'Single-player video game');
+    properties.should.have.property('modes', 'Single-player');
   });
   it('series', () => {
-    properties.series.should.have.property('value', 'Pac-Man (series)');
+    properties.should.have.property('series', 'Pac-Man');
   });
   it('format', () => {
     properties.should.have.property('format', 'PDF');
   });
-  it.skip('sound', () => {
+  it('sound', () => {
     properties.sound.should.containEql('1× Namco WSG');
+    properties.sound.should.containEql('MHz');
   });
-  it.skip('platforms', () => {
+  it('platforms', () => {
     Array.isArray(properties.platforms).should.be.true();
-    properties.platforms.should.containEql('Arcade game');
-    properties.platforms.should.containEql('#Remakes and sequels');
+    properties.platforms.should.containEql('Arcade');
+    properties.platforms.should.containEql('Various');
   });
   it('accessdate', () => {
     properties.accessdate.should.be.instanceOf(Date);

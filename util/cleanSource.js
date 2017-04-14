@@ -6,6 +6,7 @@ export default function cleanSource(source) {
     .replace(/\|display=inline/g, '')
     // This is a little iffy
     .replace(/<br\s?\/?>/g, ',')
+    .replace(/<ref>.*<\/ref>/g, '')
     .replace('&nbsp;', ' ')
     .replace(commentsPattern, '')
     .replace('|\'\'See list\'\'', '');

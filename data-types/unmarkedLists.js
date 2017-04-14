@@ -1,8 +1,6 @@
-import getValue from '../util/getValue';
-
-const listItemPrefixPattern = /^\*\s?/;
-const plainListGlobalPattern = /\{\{p?P?lainlist\s?\|([^\}\}]+)\}\}/g;
-const plainListItemPattern = /\*\s*([^*}]+)/g;
+const listItemPrefixPattern = /^\*\s*/;
+const plainListGlobalPattern = /\n(\*\s*[^*|]+)+/g;
+const plainListItemPattern = /\*\s*([^*|]+)/g;
 
 export default {
   globalPattern: plainListGlobalPattern,
@@ -13,9 +11,8 @@ export default {
     }
     return listItems
       .map(item => item.replace(listItemPrefixPattern, '').trim())
-      // .map(getValue)
       .filter(value => value && value.length);
   },
-  variable: 'PLAIN_LIST',
-  name: 'plainLists',
+  variable: 'UNMARKED_LIST',
+  name: 'unmarkedLists',
 };

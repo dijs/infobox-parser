@@ -1,7 +1,7 @@
 const extraPropertyPattern = /\n?\s?\|\s?\w+$/;
 const endingPattern = /\n\}\}$/;
-const linksPattern = /\[\[([^\]]+)\]\]/g;
-const linkSeparatorPattern = /[,<]/g;
+const linksPattern = /((\$\w+_\d+)\s*,?\s*){2,}/g;
+const linkSeparatorPattern = /[,\s?]/g;
 
 function trimWrappers(str) {
   return str
@@ -20,7 +20,7 @@ function trimOr(str) {
   return str;
 }
 
-export default function getValue(raw) {
+export default function getValue(raw, key) {
   if (!raw) {
     return null;
   }
@@ -35,15 +35,14 @@ export default function getValue(raw) {
     return true;
   }
 
-  const links = cleansed.match(linksPattern);
-  const separators = cleansed.match(linkSeparatorPattern);
+  if (key == 'birthPlace') {
+    return raw.trim();
+  }
 
-  // is it a list of links??
-  if (links && separators && separators.length === links.length - 1) {
-    return links
-      .map(trimWrappers)
-      .map(trimOr)
-      .map(value => value.replace(linkSeparatorPattern, ''));
+  // Is it a list of links??
+  const links = cleansed.match(linksPattern);
+  if (links) {
+    return links[0].split(linkSeparatorPattern).filter(text => text);
   }
 
   return trimOr(trimWrappers(cleansed));

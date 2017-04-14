@@ -5,6 +5,7 @@ import parse from '../index';
 describe('Should Parse Queen\'s Information', () => {
   const source = fs.readFileSync('./data/queen.txt', 'utf8');
   const properties = parse(source);
+  const propertiesNonSimple = parse(source, { simplifyDataValues: false });
   it('reign', () => {
     properties.should.have.property('reign', '6 February 1952 – present');
   });
@@ -30,17 +31,17 @@ describe('Should Parse Queen\'s Information', () => {
     properties.spouse.should.have.property('who', 'Prince Philip, Duke of Edinburgh');
     properties.spouse.should.have.property('married', '20 November 1947');
   });
-  it.skip('full name', () => {
-    properties.should.have.property('fullName', 'Elizabeth Alexandra Mary');
+  it('full name', () => {
+    propertiesNonSimple.should.have.property('fullName', 'Elizabeth Alexandra Mary');
   });
-  it.skip('house', () => {
-    properties.should.have.property('house', 'House of Windsor');
+  it('house', () => {
+    propertiesNonSimple.should.have.property('house', 'Windsor');
   });
   it('father', () => {
     properties.should.have.property('father', 'George VI');
   });
   it('birth place', () => {
-    properties.should.have.property('birthPlace', '17 Bruton Street, Mayfair, London, England, UK');
+    propertiesNonSimple.should.have.property('birthPlace', '17 Bruton Street, Mayfair, London, England, UK');
   });
   it('birth date', () => {
     properties.birthDate.should.have.property('age', 90);
