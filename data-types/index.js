@@ -7,6 +7,7 @@ import plainLists from './plainLists';
 import marriages from './marriages';
 import other from './other';
 import birthDates from './birthDates';
+import url from './url';
 import createDataTypeHandler from './dataType';
 
 const dataTypes = [
@@ -17,6 +18,7 @@ const dataTypes = [
   coords,
   marriages,
   birthDates,
+  url,
   // other needs to always be after specific data dypes
   other,
   // Lists should be last

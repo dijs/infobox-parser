@@ -1,0 +1,28 @@
+{{Infobox musical artist
+| name            = Beastie Boys
+| background      = group_or_band
+| image           = Beastie Boys Compo.jpg
+| image_size      = 290
+| landscape       = yes
+| alt             =
+| caption         = The Beastie Boys live in 2007 <br/>L–R: [[Ad-Rock]], [[Adam Yauch|MCA]] and [[Mike D]]
+| origin          = [[New York City]], New York, U.S.
+| genre           = {{flatlist|
+*[[Hip hop music|Hip hop]]
+*[[rap rock]]
+*[[hardcore hip hop]]
+*{{nowrap|[[alternative hip hop]]}}
+*[[rapcore]]
+*[[hardcore punk]] (early)
+}}
+| years_active    = 1981–2012<ref>{{cite web |author=Jeremy Gordon |url=http://pitchfork.com/news/55404-mike-d-says-beastie-boys-wont-be-making-any-more-music/ |title=Mike D Says Beastie Boys Won't Be Making Any More Music |publisher=Pitchfork.com |date=June 2, 2014 |accessdate=June 2, 2014}}</ref>
+| label           = {{flatlist|
+*[[Rat Cage Records|Rat Cage]]
+*[[Def Jam Recordings|Def Jam]]
+*[[Capitol Records|Capitol]]
+*{{nowrap|[[Grand Royal]]}}
+}}
+| associated_acts =
+| website         = {{URL|http://www.beastieboys.com/}}
+| past_members = <!--Members are to be listed first by order of which they joined the band (Ad-Rock comes last as non-founding member) and then alphabetically surname, as per Wikipedia guidelines.-->[[Mike D|Michael "Mike D" Diamond]]<br/>[[Adam Yauch|Adam "MCA" Yauch]]<br/>[[Ad-Rock|Adam "Ad-Rock" Horovitz]]<br/>[[Kate Schellenbach]]<br />John Berry
+}}

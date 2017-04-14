@@ -1,7 +1,7 @@
 import getValue from '../util/getValue';
 
 const listItemPrefixPattern = /^\*\s?/;
-const plainListGlobalPattern = /\{\{p?P?lainlist\s?\|([^\}\}]+)\}\}/g;
+const plainListGlobalPattern = /\{\{f?p?P?l?a?i?n?t?list\s?\|([^\}\}]+)\}\}/g;
 const plainListItemPattern = /\*\s*([^*}]+)/g;
 
 export default {

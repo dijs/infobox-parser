@@ -31,7 +31,7 @@ export default function getValue(raw, key) {
     .replace(extraPropertyPattern, '')
     .replace(endingPattern, '');
 
-  if (cleansed === 'y') {
+  if (cleansed === 'y' || cleansed === 'yes') {
     return true;
   }
 
