@@ -13,8 +13,11 @@ function camelCase(string) {
 }
 
 export default function findPropertyList(source) {
-  return source
-    .match(keyValueGlobalPattern)
+  const keyValuePairs = source.match(keyValueGlobalPattern);
+  if (!keyValuePairs) {
+    return [];
+  }
+  return keyValuePairs
     .map(match => {
       const result = keyValuePattern.exec(match);
       if (!result) {
