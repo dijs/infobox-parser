@@ -84,6 +84,8 @@ function reduceVariable(key, value, context, options) {
     return value.map(item => getVariableValue(item, context, options));
   }
   if (key.match(/areaTotal/) || key.match(/population/)) {
+    //TODO check if the number has commas or point separator, and
+    //consider the language for the formatting
     const float = parseFloat(value, 10);
     if (!isNaN(float)) {
       return float;
