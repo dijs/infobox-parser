@@ -1,0 +1,74 @@
+{{Infobox settlement
+|name                    = Dublin
+|native_name             = {{Pad top italic|Baile Átha Cliath}}
+|native_name_lang        = gai
+|settlement_type =  [[Capital city|City]]
+|image_skyline           = DublinMontage.jpg
+|imagesize               = 280px
+|image_caption           = [[Samuel Beckett Bridge]],  [[Convention Centre Dublin|Convention Centre]], [[Trinity College, Dublin|Trinity College]], [[O'Connell Bridge]], [[The Custom House]], [[Dublin Castle]].
+|image_flag              = IRL Dublin flag.svg
+|flag_size               = 150px
+|image_shield            = Coat-of-arms-of-Dublin.svg
+|shield_size             = 100px
+|nickname                = The Fair City
+|motto                   = {{lang|la|''Obedientia Civium Urbis Felicitas''}}<br />"The Obedience of the citizens produces a happy city"<ref>{{cite web|url=http://www.dublincity.ie/main-menu-your-council-lord-mayor-history/dublin-city-coat-arms |title=Dublin City Council, Dublin City Coat of Arms |publisher=Dublincity.ie |accessdate=29 August 2015}}</ref>
+|mapsize                 = 230px
+|map_caption             = Location of Dublin in Ireland
+|pushpin_map             = Ireland
+|pushpin_relief          = 1
+|coordinates             = {{coord|53|20|52|N|6|15|35|W|region:IE|display=inline,title}}
+|subdivision_type        = Country
+|subdivision_name        = [[Republic of Ireland|Ireland]]
+|subdivision_type1       = Province
+|subdivision_name1       = [[Leinster]]
+|government_type         = [[Dublin City Council|City Council]]
+|leader_title            = Headquarters
+|leader_name             = [[City Hall, Dublin|Dublin City Hall]]
+|leader_title1           = [[Lord Mayor of Dublin|Lord Mayor]]
+|leader_name1            = Brendan Carr, ([[Labour Party (Ireland)|Lab]])
+|unit_pref               = Metric
+|area_footnotes          = <ref name="cso prelim results">{{cite web|title=Census of Population 2011 |work=Preliminary Results |publisher=Central Statistics Office |date=30 June 2011 |page=21 |url=http://www.cso.ie/en/media/csoie/census/documents/Prelim%20complete.pdf |accessdate=25 May 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20121114131842/http://www.cso.ie/en/media/csoie/census/documents/Prelim%20complete.pdf |archivedate=14 November 2012 }}</ref><ref name="cso population density interactive table">{{cite web |title=Census of Population 2011 |work= Population Density and Area Size by Towns by Size, Census Year and Statistic|publisher=Central Statistics Office |date=April 2012|url=http://www.cso.ie/px/pxeirestat/Statire/SelectVarVal/Define.asp?maintable=CD116&PLanguage=0|accessdate=30 March 2014 }}</ref>
+|area_total_km2          = 114.99
+|area_urban_km2          = 318
+|population_total        = 553,165<ref>{{cite web|title=Ireland: Cities & Legal Towns|url=http://citypopulation.de/Ireland-Cities.html|publisher=City Population|accessdate=7 October 2016}}</ref>
+|population_density_km2  = 4,811
+|population_urban        = 1,173,179<ref>{{cite web |title=Census of Population 2016 |work=Profile 1 - Geographical distribution |publisher=Central Statistics Office |date=6 April 2017 |page=15 |url=http://cso.ie/en/media/csoie/releasespublications/documents/population/2017/Chapter_2_Geographical_distribution.pdf |accessdate=6 April 2017 }}</ref>
+|population_metro        = 1,904,806<ref>[[Greater Dublin Area]]</ref>
+|population_blank1_title = [[Demonym]]
+|population_blank1       = Dubliner, Dub
+|population_blank2_title = Ethnicity<br /><small>(2011 Census)</small>
+|      population_blank2 = {{Collapsible list
+|                  title = Ethnic groups
+|            frame_style = border:none; padding: 0; <!--NOTICE: This will hide the borders and make rows closer (padding)-->
+|            title_style =
+|             list_style = text-align:left;display:none;
+|                      1 = '''90.04% White'''
+|                      2 = 78.37% White Irish
+|                      3 = 11.29% White Other
+|                      4 = 0.37% Irish Traveller
+|                      5 = &nbsp;
+|                      6 =  '''4.21% Asian/Asian Irish'''
+|                      7 = &nbsp;
+|                      8 = '''1.30% Black/Black Irish'''
+|                      9 = &nbsp;
+|                     10 = '''1.51% Bi-Racial/Other'''
+|                     11 = &nbsp;
+|                     12 = '''2.94% Not Stated'''}}
+|postal_code_type        = Eircode
+|postal_code             = D01 to D18, D20, D22, D24 & D6W
+|area_code               = 01 (+3531)
+| blank_name_sec2         = GDP
+| blank_info_sec2         = [[American dollar|US$]] 90.1&nbsp;billion<ref name="brookingsgdp">{{cite web|url=http://www.brookings.edu/research/reports2/2015/01/22-global-metro-monitor|title=Global city GDP 2014|publisher=Brookings Institution|accessdate=18 November 2014}}</ref>
+| blank1_name_sec2        = GDP per capita
+| blank1_info_sec2        = US$ 51,319<ref name="brookingsgdp" />
+|website                 = {{URL|http://www.dublincity.ie/}}
+|pushpin_label           = Dublin
+|leader_title2           = [[Dáil Éireann]]
+|leader_name2            = [[Dublin Central (Dáil Éireann constituency)|Dublin Central]]<br />[[Dublin Bay North (Dáil Éireann constituency)|Dublin Bay North]]<br />[[Dublin North-West (Dáil Éireann constituency)|Dublin North-West]]<br />[[Dublin South-Central (Dáil Éireann constituency)|Dublin South-Central]]<br />[[Dublin Bay South (Dáil Éireann constituency)|Dublin Bay South]]
+|leader_title3           = [[European Parliament]]
+|leader_name3            = [[Dublin (European Parliament constituency)|Dublin constituency]]
+|timezone                = [[Western European Time|WET]]
+|utc_offset              = 0
+|timezone_DST            = [[Irish Standard Time|IST]]
+|utc_offset_DST          = +1
+}}
