@@ -13,9 +13,9 @@ describe('Should Parse Article with Deprecated Coords\'s Information', () => {
   assertProp('latd', '00');
   assertProp('latm', '47');
   assertProp('lats', '59');
-  assertProp('latNS', 'S');
+  assertProp('latNs', 'S');
   assertProp('longd', '100');
   assertProp('longm', '39');
   assertProp('longs', '58');
-  assertProp('longEW', 'E');
+  assertProp('longEw', 'E');
 });

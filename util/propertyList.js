@@ -1,16 +1,8 @@
 import getValue from './getValue';
+import camelCase from 'camelcase';
 
 const keyValueGlobalPattern = /\|\s*([-\w\s]+)\s*=\s*([^|]+)?/g;
 const keyValuePattern = /\|\s*([-\w\s]+)\s*=\s*([^|]+)?/;
-
-function camelCase(string) {
-  return string.replace(/^([A-Z])|[\s_-](\w)/g, (match, p1, p2, offset) => {
-    if (p2) {
-      return p2.toUpperCase();
-    }
-    return p1.toLowerCase();
-  });
-}
 
 export default function findPropertyList(source) {
   const keyValuePairs = source.match(keyValueGlobalPattern);
