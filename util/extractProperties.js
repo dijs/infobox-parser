@@ -1,5 +1,6 @@
 import dataTypes from '../data-types/index';
 import findPropertyList from './propertyList';
+import numberParse from './numberParse'
 
 const smallDataType = dataTypes.find(type => type.name === 'smalls');
 
@@ -84,9 +85,7 @@ function reduceVariable(key, value, context, options) {
     return value.map(item => getVariableValue(item, context, options));
   }
   if (key.match(/areaTotal/) || key.match(/population/)) {
-    //TODO check if the number has commas or point separator, and
-    //consider the language for the formatting
-    const float = parseFloat(value, 10);
+    const float = numberParse(value)
     if (!isNaN(float)) {
       return float;
     }

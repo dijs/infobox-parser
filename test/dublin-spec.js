@@ -2,7 +2,7 @@ require('should');
 import fs from 'fs';
 import parse from '../index';
 
-describe.only('Should Parse Dublins\'s Information', () => {
+describe('Should Parse Dublins\'s Information', () => {
   const source = fs.readFileSync('./data/dublin.txt', 'utf8');
   const properties = parse(source, { simplifyDataValues: false });
   it('Population Total', () => {
