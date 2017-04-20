@@ -12,7 +12,7 @@ export default (number) => {
 
   number = number.trim().replace(/ /g, '')
 
-  // Find out if commas are using as thousand or decimal separators.
+  // Find out if commas are used as thousand or decimal separators.
   // If the string has both, and commas are first, then commas are
   // thousand separators (english style)
   if (number.match(/,/) && number.match(/\./)) {
