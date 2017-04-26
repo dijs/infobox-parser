@@ -1,0 +1,54 @@
+{{Infobox film
+| name                 = The Lego Batman Movie
+| image                = The Lego Batman Movie PromotionalPoster.jpg
+| alt                  = 
+| caption              = Theatrical release poster
+| director             = [[Chris McKay]]
+| producers            = {{plainlist|
+* [[Dan Lin]]
+* [[Roy Lee]]
+* [[Phil Lord and Christopher Miller|Phil Lord]]
+* [[Phil Lord and Christopher Miller|Christopher Miller]]
+}}
+| screenplay              = {{plainlist|
+* [[Seth Grahame-Smith]]
+* [[Chris McKenna (writer)|Chris McKenna]]
+* Erik Sommers
+* Jared Stern
+* John Whittington
+}}
+| story              = Seth Grahame-Smith
+| based on             = {{Plainlist|
+* Characters<br />by [[DC Comics]]
+* [[Lego|Lego Construction Toys]]
+}}
+| starring             = {{plainlist|
+* [[Will Arnett]]
+* [[Zach Galifianakis]]
+* [[Michael Cera]]
+* [[Rosario Dawson]]
+* [[Ralph Fiennes]]
+}}
+| music             =[[Lorne Balfe]]<ref name="lorne-balfe-fmr">{{cite news|title=Lorne Balfe to Score ‘The Lego Batman Movie’|url=http://filmmusicreporter.com/2016/06/09/lorne-balfe-to-score-the-lego-batman-movie/|accessdate=June 9, 2016|work=Film Music Reporter|publisher=Film Music Reporter|date=June 9, 2016}}</ref>
+| editing              =  {{plainlist|
+* David Burrows
+* [[Matt Villa]]
+* John Venzon
+}}
+| distributor          = [[Warner Bros.|Warner Bros. Pictures]]<ref name=insight>{{cite web|url=http://www.varietyinsight.com/print_featurefilm_releases.php|title=Film releases|work=[[Variety Insight]]|accessdate=February 9, 2017}}</ref>
+| released             = {{film date|2017|1|29|[[Dublin]]|2017|2|9|Denmark|2017|2|10|United States|2017|3|30|Australia|ref1=<ref name=RTEWinPassPremiere />}}
+| runtime              = 104 minutes<!-- Theatrical runtime: 104:23 --><ref>{{cite web | url=http://www.bbfc.co.uk/releases/lego-batman-movie-film-0 | title=''The LEGO Batman Movie'' (U) | work=[[British Board of Film Classification]] | date=January 13, 2017 | accessdate=January 13, 2017}}</ref>
+| country              = {{ubl|United States|Denmark|Australia}}
+| language             = English
+| production companies = {{plainlist|
+* [[Warner Bros. Animation|Warner Animation Group]]<ref name="VarietyReview" />
+* [[DC Entertainment]]<ref name="VarietyReview" />
+* [[RatPac-Dune Entertainment]]<ref name="VarietyReview" />
+* [[The Lego Group|Lego System A/S]]<ref name="VarietyReview" />
+* [[Vertigo Entertainment]]<ref name="VarietyReview" />
+* [[Animal Logic]]<ref name="VarietyReview" />
+* [[Phil Lord and Christopher Miller|Lord Miller Productions]]<ref name="VarietyReview" />
+}}
+| budget               = $80 million<ref name="Variety">{{cite news|last1=Lang|first1=Brent|title=Box Office: ‘Fifty Shades Darker’ No Match for ‘The Lego Batman Movie’|url=http://variety.com/2017/film/news/box-office-fifty-shades-darker-lego-batman-movie-1201980505/|accessdate=February 8, 2017|work=Variety|date=February 7, 2017}}</ref><ref name=BOM/>
+| gross                = $307.3 million<ref name="BOM">{{cite web |url=http://www.boxofficemojo.com/movies/?id=lego2.htm |title=The Lego Batman Movie (2017) |website=Box Office Mojo |accessdate=April 24, 2017}}</ref>
+}}

@@ -2,6 +2,7 @@ import small from './small';
 import flag from './flag';
 import coords from './coords';
 import instances from './instances';
+import unbulletedLists from './unbulletedLists';
 import unmarkedLists from './unmarkedLists';
 import plainLists from './plainLists';
 import marriages from './marriages';
@@ -18,6 +19,7 @@ const dataTypes = [
   coords,
   marriages,
   birthDates,
+  unbulletedLists,
   url,
   // other needs to always be after specific data dypes
   other,
