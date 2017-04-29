@@ -44,7 +44,8 @@ describe('Should Parse Queen\'s Information', () => {
     propertiesNonSimple.should.have.property('birthPlace', '17 Bruton Street, Mayfair, London, England, UK');
   });
   it('birth date', () => {
-    properties.birthDate.should.have.property('age', 90);
+    // Will just update this every year :)
+    properties.birthDate.should.have.property('age', 91);
     properties.birthDate.date.should.be.instanceOf(Date);
   });
   it('signature', () => {
