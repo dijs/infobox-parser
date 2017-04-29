@@ -1,5 +1,6 @@
 import dataTypes from '../data-types/index';
 import findPropertyList from './propertyList';
+import numberParse from './numberParse'
 
 const smallDataType = dataTypes.find(type => type.name === 'smalls');
 
@@ -84,7 +85,8 @@ function reduceVariable(key, value, context, options) {
     return value.map(item => getVariableValue(item, context, options));
   }
   if (key.match(/areaTotal/) || key.match(/population/)) {
-    const float = parseFloat(value, 10);
+    let float = numberParse(value);
+    if (float === false) float = parseFloat(value, 10);
     if (!isNaN(float)) {
       return float;
     }
