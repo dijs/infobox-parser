@@ -13,6 +13,7 @@ export default function transformProperties(properties) {
         const id = match[1] || '';
         const blankName = properties[`blank${id}NameSec2`];
         const blankInfo = properties[`blank${id}InfoSec2`];
+        if (typeof blankName !== 'string') return transformed;
         return Object.assign(transformed, {
           [camelCase(blankName)]: blankInfo,
         });

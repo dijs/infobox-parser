@@ -1,0 +1,356 @@
+{{About|the city of Islamabad}}
+{{pp-move-indef}}
+{{Use dmy dates|date=February 2014}}
+{{EngvarB|date=February 2014}}
+{{Infobox settlement
+| name                   = Islamabad
+| official_name          = Islamabad
+| native_name            = {{nobold|{{lang|ur|{{nq|اسلام آباد}}}}}}
+| other_name             = 
+| settlement_type        = Capital&nbsp;city
+| image_skyline          = {{Photomontage
+| photo1a                = Islamabad, Pakistan Monument.jpg
+| photo2a                = Long Exposure of Blue Area Islamabad.JPG
+| photo2b                = Parliament House,Islamabad by Usman Ghani.jpg
+| photo3a                = 
+| photo3b                = Faisal Mosque close up (cropped).jpg
+| photo4a                = Islamabad- Under dark clouds.jpeg
+| size                   = 250
+| position               = center}}
+| image_caption          = Clockwise from left: [[Pakistan Monument]], [[Blue Area]] is the commercial center of the city, [[National Assembly of Pakistan]], [[Faisal Mosque]], [[Margalla Hills National Park]]
+| nickname               = 
+| image_map              = 
+| map_caption            = Location within Pakistan
+| pushpin_map            = Pakistan
+| coordinates            = {{coord|33|43|N|73|04|E|region:PK|display=inline,title}}
+| subdivision_type       = Country
+| subdivision_name       = {{flag|Pakistan}}
+| subdivision_type1      = [[Administrative units of Pakistan|Territory]]
+| subdivision_name1      = [[Islamabad Capital Territory]]
+| established_title      = Founded
+| established_date       = 1960
+| government_footnotes   = 
+| government_type        = 
+| leader_title           = Governing&nbsp;body
+| leader_name            = [[Islamabad Metropolitan Corporation]] and [[Capital Development Authority]] (CDA)
+| leader_title1          = Chief Commissioner
+| leader_name1           = Zakaullah
+| unit_pref              = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes         = 
+| area_total_km2         = 906.00 <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2          = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+| area_water_km2         = 
+| area_water_percent     = 
+| area_urban_km2         = 906.00
+| area_metro_km2         = 
+| elevation_min_m        = 490 <!--<ref name=Google Maps/>-->
+| population_total       = 1.9 million<ref>{{cite web|url=http://www.islamabadthecapital.com/islamabad/demographics/|title=Islamabad The Capital of Pakistan|work=islamabadthecapital.com|accessdate=14 March 2016}}</ref>
+| population_as_of       = 2014 estimate
+| population_footnotes   = <ref name= population>{{cite web|title=Population by Province/Region since 1951|url=http://www.pbs.gov.pk/content/population-province-region-1951|publisher=Pakistan Bureau of Statistics, Government of Pakistan|accessdate=24 December 2013}}</ref>
+| population_density_km2 = 
+| population_urban       = 1,829,180
+| population_density_urban_km2 = 
+| population_density_urban_sq_mi = 
+| population_metro = 2.2 million
+| population_density_metro_km2 = 
+| population_density_metro_sq_mi = 
+| population_demonym = Islamabadi or Islamabadis.
+| population_note    = 
+| postal_code_type   = Postcode
+| postal_code        = 44000
+| area_code          = 051
+<!-- General information --------------->
+| blank1_name_sec1      =   [[List of districts of Pakistan by Human Development Index|HDI]]
+| blank1_info_sec1    = 0.87 {{increase}}<ref>{{cite web|url=http://www.spdc.org.pk/Data/Publication/PDF/AR2014-15.pdf|title=SOCIAL DEVELOPMENT IN PAKISTAN ANNUAL REVIEW 2014-15|date=2016|publisher=SOCIAL POLICY AND DEVELOPMENT CENTRE|accessdate=26 March 2017}}</ref>
+| blank_name_sec2    = Notable sports teams
+| blank_info_sec2    = [[Islamabad United (cricket)|Islamabad United]], [[Islamabad Rugby Football Club|Islamabad Jinns]]
+| website            = {{URL|http://www.islamabad.gov.pk}}
+| named for            = [[Islam]]
+| VIP_Residental_Sectors = E-7, F-7, F-8, F-6 and I-8
+| leader_title2          = Chairman CDA
+| leader_name2 = Sheikh Ansar aziz
+| leader_title3          = Deputy Commissioner
+| leader_name3           = Mujahid Sherdil
+| leader_title4          = [[Mayor of Islamabad|Mayor]]
+| leader_name4           = [[Sheikh Ansar Aziz]] Political party PML-N
+| elevation_max_m        = 620 <!--<ref name=Google Maps>{{cite web|url=http://maps.google.com.do/maps?q=Islamabad,+Islamabad+Capital+Territory,+Pakist%C3%A1n&hl=es&ie=UTF8&ll=33.669783,73.098907&spn=0.172866,0.220757&sll=34.533005,69.128895&sspn=0.039879,0.073128&oq=Islama&t=p&gl=do&hnear=Islamabad,+Islamabad+District,+Islamabad+Capital+Territory,+Pakist%C3%A1n&z=12&lci=weather|work=Google Maps|publisher=Google|accessdate=25 February 2013}}</ref>-->
+| elevation_max_ft       = 2000
+| population_metro_as_of   = 2013
+| timezone           = [[Pakistan Standard Time|PKT]]
+| utc_offset         = +5
+| timezone_DST       = 
+| utc_offset_DST     =
+| blank2_name_sec1    =  HDI Category
+| blank2_info_sec1      = Very High
+<!-- Area/postal codes and others -------->
+| blank2_name_sec2   = [[List of districts of Pakistan by Human Development Index|HDI]]
+}}
+{{Contains Urdu text}}
+'''Islamabad''' ({{IPAc-en|ɪ|z|ˈ|l|ɑː|m|ə|ˌ|b|ɑː|d}}; {{lang-ur|{{Nastaliq| اسلام آباد}}}}, {{transl|ur|'''Islāmābād'''}}, {{IPA-hns|ɪsˌlɑːmɑˈbɑːd̪|ur}}) is the capital city of [[Pakistan]] located within the federal [[Islamabad Capital Territory]]. With a population of two million, it is the [[List of most populous cities in Pakistan|10th largest]] city of [[Pakistan]], while the larger [[Islamabad-Rawalpindi metropolitan area]] is the third largest in Pakistan with a population exceeding five&nbsp;million.<ref>{{cite web|url=http://www.pbs.gov.pk/sites/default/files//tables/POPULATION%20SIZE%20AND%20GROWTH%20OF%20MAJOR%20CITIES.pdf |title=Population size and growth of major cities |publisher=[[Pakistan Bureau of Statistics]] |date=1998}}</ref><ref name="ses">{{cite web|last=Frantzeskakis|first=J. M.|title=Islamabad, a town planning example for a sustainable city|url=http://www.ses.gr/docs/edeltia/elvima139_Islamabad_Skiathos.pdf}}</ref><ref name="population2">{{cite news|url=http://www.dawn.com/news/740350/islamabads-population-touches-two-million-mark|title=Islamabad's population touches two-million mark|date=7 August 2012|newspaper=The Dawn News|accessdate=24 December 2013}}</ref> The city is the political seat of Pakistan and is administered by the [[Islamabad Metropolitan Corporation]], supported by the [[Capital Development Authority]] (CDA).
+
+Islamabad is located in the [[Pothohar Plateau]] in the northeastern part of the country, between [[Rawalpindi District]] and the [[Margalla Hills National Park]] to the north. The region has historically been a part of the crossroads of [[Punjab, Pakistan|Punjab]] and [[Khyber Pakhtunkhwa]] with the Margalla Pass acting as the gateway between the two regions.<ref name="Islamabadnet">{{cite web|title=Islamabad|publisher=Islamabad.net|url=http://www.pakistan.net/cities/islamabad/islamabad.htm}}</ref> 
+
+Islamabad was built during the 1960s to replace [[Karachi]] as Pakistan's capital. The city's master-plan divides the city into eight zones, including administrative, diplomatic enclave, residential areas, educational sectors, industrial sectors, commercial areas, and rural and green areas. The city is known for the presence of several parks and forests, including the [[Margalla Hills National Park]] and [[Shakarparian|Shakarparian Park]].<ref>{{Cite web|url=http://www.visitislamabad.net/islamabad/files/file-detail.asp?var=history-of-islamabad|title=Capital Development Authority|website=www.visitislamabad.net|access-date=2016-06-07}}</ref> The city is home to several landmarks, including the [[Faisal Mosque]], the [[List of mosques in Pakistan|largest mosque]] in South Asia<ref name="Gordon Melton">{{cite book|title=Religions of the World: A Comprehensive Encyclopedia of Beliefs and Practices|publisher=ABC-CLIO|isbn=978-1598842036|url=https://books.google.com/?id=v2yiyLLOj88C&pg=PA1972&dq=Faisal+Mosque+largest#v=onepage&q=Faisal%20Mosque%20largest&f=false|edition=2nd|editor=J. Gordon Melton, Martin Baumann|accessdate=15 May 2012|page=1972|chapter=Mosques|date=21 September 2010}}</ref> and the [[List of largest mosques|fourth largest]] in the world. Other landmarks include the [[Pakistan Monument|Pakistan's National Monument]] and [[D-Chowk (Islamabad)|Democracy Square]].<ref name="Noyes Mass">{{cite book|title=Back to Pakistan: A Fifty-Year Journey|publisher=Rowman & Littlefield Publishers|isbn=978-1442213197|url=https://books.google.com.pk/books?id=_BtWtuLlDXoC&pg=PA170#v=onepage&q&f=false|author=Leslie Noyes Mass|accessdate=1 July 2012|page=170|date=15 September 2011}}</ref><ref name="Ravi Kalia">{{cite book|title=Pakistan: From the Rhetoric of Democracy to the Rise of Militancy|publisher=Routledge|location=Pakistan|isbn=978-0415670401|url=https://books.google.com.pk/books?id=86b0MINe_gsC&pg=PA83#v=onepage&q&f=false|author=Ravi Kalia|accessdate=1 July 2012|page=83|date=21 April 2011}}</ref><ref>{{Cite web|url=http://tribune.com.pk/story/596791/national-monument-structure-reflects-history-of-pakistan/|title=National Monument: Structure reflects history of Pakistan  - The Express Tribune|date=2013-08-29|website=The Express Tribune|language=en-US|access-date=2016-06-13}}</ref> 
+
+Islamabad is a [[Global city|beta- world city]];<ref>{{cite web|url=http://www.lboro.ac.uk/gawc/world2016t.html |title=GaWC&nbsp;– The World According to GaWC 2016 |publisher=lboro.ac.uk |date=15 April 2017 |accessdate=24 April 2017}}</ref> it is categorised as [[List of districts of Pakistan by Human Development Index|very high]] on the [[Human Development Index]], the highest in the country. The city has the highest [[cost of living]] in Pakistan, and its population is dominated by [[Middle class|middle]] and [[Upper middle class|upper middle]] class citizens.<ref>{{Cite news|url=http://www.dawn.com/news/1095012|title=Islamabad — a city only for the rich?|last=Hetland|first=Atle|date=2014-03-23|newspaper=DAWN.COM|access-date=2016-10-23}}</ref><ref>{{Cite news|url=http://nation.com.pk/islamabad/29-Sep-2014/g-12-a-sector-housing-rich-poor-alike|title=G-12, a sector housing  rich, poor alike|newspaper=The Nation|language=en-US|access-date=2016-10-23}}</ref> The city is home to sixteen universities, including the [[Quaid-i-Azam University|Quaid-e-Azam University]] and [[National University of Sciences and Technology, Pakistan|NUST]].<ref name="HEC Rankings">{{cite web|title=HEC University Rankings by Category|author=HEC, Pakistan|url=http://beta.hec.gov.pk/InsideHEC/Divisions/QALI/Others/RankingofUniversities/Pages/CategoryWise.aspx}}</ref> The city is one of the safest in Pakistan, and has an expansive surveillance system with 1,900 [[CCTV]] cameras.<ref>{{Cite web|url=http://tribune.com.pk/story/1117621/safe-city-project-gets-operational-islooites-promised-safety/|title=Safe City Project gets operational: Islooites promised safety - The Express Tribune|date=2016-06-06|website=The Express Tribune|language=en-US|access-date=2016-06-07}}</ref><ref>{{Cite web|url=http://nation.com.pk/islamabad/28-Mar-2015/crime-rate-in-islamabad-drops-claim-police|title=Crime rate in Islamabad drops, claim police|website=The Nation|language=en-US|access-date=2016-06-07}}</ref>
+
+==Etymology==
+The name of the city, ''Islamabad'' is derived from two words, ''Islam'' and ''abad'', meaning "City of Islam". ''Islam'' is an Arabic word which refers to the religion of [[Islam]] and ''[[-abad]]'' is a [[Persian language|Persian]] place name that means ''inhabited place'' or ''city''.<ref name="Adrian Room">{{cite book|title=Placenames of the World|publisher=McFarland & Company|isbn=978-0786422487|url=https://books.google.com.pk/books?id=M1JIPAN-eJ4C&pg=PA177#v=onepage&q&f=false|author=Adrian Room|accessdate=1 July 2012|page=177|date=13 December 2005}}</ref>
+
+==History==
+{{Main article|History of Islamabad}}
+
+===Early history===
+[[Islamabad Capital Territory]], located on the [[Pothohar Plateau]] of the [[Punjab region]], is considered one of the earliest sites of human settlement in Asia.<ref name="Pakistan net">{{cite web|title=Islamabad history|publisher=Pakistan.net|url=http://www.pakistan.net/cities/islamabad/islamabad.htm}}</ref> Some of the earliest Stone Age artefacts in the world have been found on the plateau, dating from 100,000 to 500,000 years ago. Rudimentary stones recovered from the terraces of the [[Soan River]] testify to the endeavours of early man in the [[glacial period|inter-glacial]] period.<ref name="defence"/> Items of pottery and utensils dating back to prehistory have been found.<ref>{{cite web|url=http://beta.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/metropolitan/16-sacred-rocks-of-islamabad-hs-10|title=Sacred rocks of Islamabad|work=Dawn|date=2 August 2009|accessdate=27 June 2010}}</ref>
+
+Excavations have revealed evidence of a prehistoric culture. Relics and human skulls have been found dating back to 5000 BC that show this region was home to [[Neolithic]] people who settled on the banks of the [[Swaan River]],<ref name="Pakistan net"/> who developed small communities in the region at around 3000 BC.<ref name="defence">{{cite web|title=Potohar|author=Pakistan Defence Ministry|url=http://www.defence.pk/forums/military-history/3753-potohar.html}}</ref><ref>{{cite web|title=Background on the Potohar Plateau|author=LEAD|url=http://casestudies.lead.org/index.php?cscid=71}}</ref> One end of the [[Indus Valley Civilization]] flourished here between the 23rd and 18th centuries BC. Later the area was an early settlement of the [[Aryan]] community.<ref name="Pakistan net"/> A Buddhist town once existed in the region.<ref name="lonely planet">{{cite web|title=Islamabad History|author=Lonely Planet|url=http://www.lonelyplanet.com/pakistan/islamabad-and-rawalpindi/history}}</ref> Many great armies such as those of [[Zahiruddin Babur]], [[Genghis Khan]], [[Timur]] and [[Ahmad Shah Durrani]] used the corridor through Islamabad on their way to invade the rest of the [[Indian Subcontinent]].<ref name="Pakistan net"/> Modern Islamabad is based on the old settlement known as [[Saidpur, Islamabad|Saidpur]]. The [[British Raj|British]] took control of the region from the Sikhs in 1849 and built South Asia's largest cantonment in the region.<ref name="lonely planet"/>
+<gallery mode="packed" heights="120px" widths="px">
+File:Gate of Pharwala Fort toward the Swaan stream.JPG|15th century [[Pharwala|Pharwala Fort]] beside the [[Swaan River]]
+File:Rawat Fort.JPG|[[Rawat Fort]], built by the [[Gakhars]] in the 16th century
+File:Aiwan e Quaid-1.JPG|Aiwan e Quaid, Capital Park
+</gallery>
+
+===Construction and development===
+{{Main article|Developments in Islamabad}}
+[[File:Islamabad Zone Map.png|thumb|Islamabad Zones]]
+When Pakistan gained independence in 1947, the southern port city of Karachi was its first national capital. In the 1960s, Islamabad was constructed as a [[Capital city#The capital as a symbol|forward capital]] for several reasons.<ref>{{cite web|title=City of Islamabad|url=http://www.islamabad.gov.pk/islamabad/default.asp|publisher=Capital Development Authority, Govt. of Pakistan|accessdate=17 October 2014}}</ref> Traditionally, development in Pakistan was focused on the colonial centre of Karachi, and President [[Ayub Khan (Field Marshal)|Ayub Khan]] wanted it equally distributed. Moreover, Karachi having tropical weather conditions,<ref name="Carolyn Black">{{cite book|title=Pakistan the Land|year=|publisher=Crabtree Publishing|isbn=978-0778793465|url=https://books.google.com.pk/books?id=jjA5-8xJlH0C&pg=PA14#v=onepage&q&f=false|author=Carolyn Black|accessdate=2 July 2012|page=14|date=October 2002}}</ref> was located at one end of the country, making it vulnerable to attacks from the [[Arabian Sea]]. Pakistan needed a capital that was easily accessible from all parts of the country.<ref name="New Orient">{{cite journal|journal=New Orient|year=1965|volume=4–6|author=Czechoslovak Society for Eastern Studies|page=565|publisher=Czechoslovak Society for Eastern Studies|location=Prague|issn=0548-6408|oclc=2264893}}</ref><ref name=Weightman>{{cite book|title=Dragons and Tigers: A Geography of South, East, and Southeast Asia|publisher=Wiley|isbn=978-0470876282|url=https://books.google.com.pk/books?id=qeBfed17zxEC&pg=PA187#v=onepage&q&f=false|author=Barbara A. Weightman|edition=3rd|accessdate=2 July 2012|page=187|date=15 March 2011}}</ref> Karachi, a business centre, was also considered unsuitable partly because of intervention of business interests in government affairs.<ref name=Saxon/> The newly selected location of Islamabad was closer to the [[General Headquarters (Pakistan Army)|army headquarters]] in [[Rawalpindi]] and the disputed territory of [[Kashmir]] in the north.<ref name="Pakistan net"/>
+
+In 1958, a commission was constituted to select a suitable site for the national capital with particular emphasis on location, climate, logistics, and defence requirements along with other attributes. After extensive study, research, and a thorough review of potential sites, the commission recommended the area northeast of Rawalpindi in 1959.<ref name="New Orient"/><ref name="M. Bloom">{{cite book|title=The Grove Encyclopedia of Islamic Art & Architecture|publisher=Oxford University Press|location=USA|isbn=978-0195309911|url=https://books.google.com.pk/books?id=un4WcfEASZwC&pg=RA1-PA309#v=onepage&q&f=false|editor=Jonathan M. Bloom|accessdate=2 July 2012|page=309|date=23 March 2009}}</ref> A Greek firm of architects, [[Konstantinos Apostolos Doxiadis]], designed the master plan of the city based on a [[grid plan]] which was triangular in shape with its apex towards the [[Margalla Hills]].<ref>{{cite web |title=History of Islamabad | author=CDA Islamabad| url= http://www.visitislamabad.net/islamabad/files/file-detail.asp?var=history-of-islamabad}}</ref> The capital was not moved directly from Karachi to Islamabad; it was first shifted temporarily to [[Rawalpindi]] in the early sixties and then to Islamabad when the essential development work was completed in 1966.<ref name="Maneesha Tikekar">{{cite book|title=Across the Wagah: An Indian's Sojourn in Pakistan|publisher=Promilla|isbn=978-8185002347|pages=23–62|url=https://books.google.com/?id=HGqsWktyFcEC&pg=PA23&dq=Islamabad#v=onepage&q=Islamabad&f=false|author=Maneesha Tikekar|accessdate=12 May 2012|date=1 January 2004}}</ref>
+
+===Recent history===
+Islamabad has attracted people from all over Pakistan, making it one of the most cosmopolitan and urbanised cities of Pakistan.<ref>{{cite web|title=Islamabad Demographics|author=CDA Islamabad|url=http://www.visitislamabad.net/islamabad/files/file-detail.asp?var=demographics}}</ref> As the capital city it has hosted a number of important meetings, such as the [[South Asian Association for Regional Cooperation]] summit.<ref>{{cite web|title=Islamabad making history|author=DAWN News|url=http://www.dawn.com/2004/01/04/top5.htm}}</ref> Year 2014 has brought in major changes in Islamabad. Construction of the [[Rawalpindi-Islamabad Metrobus]] began on 28 February 2014 which was completed in March 2015, with 60 buses plying on the route. The Rawalpindi Development Authority lookafter the project with a cost of approximately Rs 24 billion, which was shared by both the Federal government and the provincial government of Punjab.<ref>{{cite web|url=http://www.dawn.com/news/1083242/shahbaz-to-inaugurate-work-on-metro-bus-service-on-feb-28|title=Shahbaz to inaugurate work on Metro Bus Service on Feb 28|author=A Reporter|work=dawn.com|accessdate=14 March 2016}}</ref>
+In October 2005, the city suffered some damage due to the [[2005 Kashmir earthquake]] which had a magnitude of 7.6.<ref>{{cite news|title=Quake's terrible toll is revealed|publisher=BBC News|url=http://news.bbc.co.uk/1/hi/world/south_asia/4323008.stm|date=9 October 2005|accessdate=5 May 2010}}</ref> Islamabad has experienced a series of terrorist incidents including the July 2007 [[Siege of Lal Masjid]] (Red Mosque), the June 2008 [[2008 Danish embassy bombing in Islamabad|Danish embassy bombing]], and the September 2008 [[Islamabad Marriott Hotel bombing|Marriott bombing]].<ref>{{cite web|title=Timeline of Suicide Blasts in Islamabad|author=OhmyNews|url=http://english.ohmynews.com/articleview/article_view.asp?menu=c10400&no=383721&rel_no=1}}</ref> In 2011, four terrorism incidents occurred in the city, killing four people, including the murder of the then [[Governor of Punjab, Pakistan|Punjab Governor]] [[Salmaan Taseer]].<ref name="2011 terrorism">{{cite news|title=Islamabad saw four terror attacks last year|author=Munawer Azeem|url=http://dawn.com/2012/01/05/islamabad-saw-four-terror-attacks-last-year/|newspaper=Dawn|location=Islamabad|date=5 January 2012|accessdate=2 July 2012}}</ref> Tragic air crashes also took place here: on 28 July 2010, [[Airblue Flight 202]] crashed in the [[Margalla Hills]] killing all 152 flight crew and passengers on board<ref>{{cite news|title=No survivors as Pakistan plane crash kills 152|url=http://www.bbc.co.uk/news/world-10784971|publisher=BBC News|accessdate=9 September 2010|date=28 July 2010}}</ref> and [[Bhoja Air Flight 213]] carrying 121 passengers crashed while making the final approach for landing, killing all on board on 20 April 2012.<ref name="Bhoja aircrash">{{cite news|title=Pakistan plane crashes near Islamabad airport|url=http://www.bbc.co.uk/news/world-asia-17788698|accessdate=12 May 2012|publisher=BBC|date=20 April 2012}}</ref>
+
+==Geography and climate==
+{{main article|Geography of Islamabad}}
+<gallery mode=packed heights=120>
+File:Rawal dam.jpg|Rawal dam view from [[Rawal Lake View Park]] in Islamabad
+File:Faisal Masjid & Margalla Hills.jpg|Margalla Hills, Islamabad
+File:Lush_Green_Islamabad.JPG|Lush Green Islamabad
+File:Green 7th Avenue Islamabad.JPG|7th Avenue Islamabad
+</gallery>
+
+Islamabad is located at {{Coord|33.43|N|73.04|E|}} at the northern edge of the [[Pothohar Plateau]] and at the foot of the [[Margalla Hills]] in [[Islamabad Capital Territory]]. Its [[elevation]] is {{convert|540|m}}.<ref name="D. Brunn">{{cite book|title=Cities of the World: World Regional Urban Development|year=2003|publisher=Rowman & Littlefield Publishers|isbn=978-0847698981|pages=368–369|url=https://books.google.com.pk/books?id=wPZq1ZTaVQoC&pg=PA368#v=onepage&q&f=false|author=Stanley D. Brunn|edition=3rd|author2=Jack F. Williams |author3=Donald J. Zeigler |accessdate=3 July 2012|chapter=Cities of South Asia}}</ref><ref>{{cite web|title=Islamabad Airport|publisher=Climate Charts|url=http://www.climate-charts.com/Locations/p/PK41571.php#data}}</ref> The modern capital and the ancient [[Gakhars|Gakhar]] city of Rawalpindi stand side by side and are commonly referred to as the Twin Cities,<ref name="Yasmeen Niaz">{{cite book|title=Pakistan: A Global Studies Handbook|publisher=ABC-CLIO|isbn=978-1851098019|url=https://books.google.com.pk/books?id=OTMy0B9OZjAC&pg=PA299#v=onepage&q&f=false|author=Yasmeen Niaz Mohiuddin|edition=1st|accessdate=1 July 2012|page=299|date=27 November 2006}}</ref> where no exact boundary exists between the two cities.<ref name=Saxon>{{cite news|title=New Capital City With an Industrial Twin|url=https://www.nytimes.com/1988/04/11/world/new-capital-city-with-an-industrial-twin.html|accessdate=1 July 2012|newspaper=The New York Times|date=11 April 1988|author=Wolfgang Saxon}}</ref>
+
+To the northeast of the city lies the hill station of [[Murree]], and to the north lies the [[Haripur District]] of [[Khyber Pakhtunkhwa]]. [[Kahuta]] lies on the southeast, [[Taxila]], [[Wah Cantt]], and [[Attock District]] to the northwest, [[Gujar Khan]], Rawat, and [[Mandrah]] on the southeast, and the metropolis of [[Rawalpindi]] to the south and southwest. Islamabad is located {{convert|120|km}} SSW of [[Muzaffarabad]], {{convert|185|km}} east of [[Peshawar]], {{convert|295|km}} NNW of [[Lahore]], and {{convert|300|km}} WSW of [[Srinagar]], the capital of the Indian state of [[Jammu and Kashmir]].
+
+The city of Islamabad expanses an area of {{convert|906|km2}}.<ref>Butt, M. J., Waqas, A., Iqbal, M, F., Muhammad., G., and Lodhi, M. A. K., 2011, "Assessment of Urban Sprawl of Islamabad Metropolitan Area Using Multi-Sensor and Multi-Temporal Satellite Data." ''Arabian Journal For Science And Engineering''. Digital Object Identifier (DOI): 10.1007/s13369-011-0148-3.</ref> A further {{convert|2717|km2}} area is known as the Specified Area, with the Margala Hills in the north and northeast. The southern portion of the city is an undulating plain. It is drained by the Kurang River, on which the [[Rawal lake#Features of Rawal Lake dam|Rawal Dam]] is located.<ref>{{cite web| title = Islamabad| work=Encyclopædia Britannica| url=http://www.britannica.com/EBchecked/topic/295631/Islamabad#ref749695}}</ref>
+
+===Climate===
+{{Main article|Climate of Islamabad}}
+The climate of Islamabad has a [[humid subtropical climate]] ([[Köppen climate classification|Köppen]]: Cwa), with five seasons: Winter (November–February), Spring (March and April), Summer (May and June), Rainy Monsoon (July and August) and Autumn (September and October). The hottest month is June, where average highs routinely exceed {{Convert|38|C|F|1}}. The wettest month is July, with heavy rainfalls and evening [[thunderstorms]] with the possibility of [[cloudburst]] and flooding. The coolest month is January. Islamabad's [[micro-climate]] is regulated by three artificial reservoirs: [[Rawal lake|Rawal]], [[Simli lake|Simli]], and [[Khanpur Dam]]. The latter is located on the [[Haro River]] near the town of [[Khanpur (NWFP)|Khanpur]], about {{convert|40|km}} from Islamabad. Simli Dam is {{convert|30|km}} north of Islamabad. {{convert|220|acre}} of the city consists of [[Margalla Hills National Park]]. Loi Bher Forest is situated along the [[Islamabad Highway]], covering an area of {{convert|1087|acre}}.<ref>{{cite web|title=Urban growth monitoring along Islamabad Highway|publisher=GIS Development|url=http://www.gisdevelopment.net/application/urban/agglomeration/ma03112a.htm}}</ref> The highest monthly rainfall of {{convert|743.3|mm|in|abbr=on}} was recorded during July 1995.<ref name="pakmet.com.pk">{{cite web|url=http://www.pakmet.com.pk/cdpc/extrems/islamabad.htm|accessdate=14 January 2012|title=Climate Records: Islamabad}}</ref> Winters generally feature dense fog in the mornings and sunny afternoons. In the city, temperatures stay mild, with  snowfall over the higher elevations points on nearby hill stations, notably [[Murree]] and [[Nathia Gali]]. The temperatures range from {{convert|13|C|F|}} in January to {{convert|38|C|F}} in June. The highest recorded temperature was {{convert|46.6|C|F}} on 23 June 2005 while the lowest temperature was {{convert|−6|C|F|1}} on 17 January 1967.<ref name="archived-pakmet">{{cite web|url=http://www.pakmet.com.pk/cdpc/Climate/Islamabad_Climate_Data.txt|archiveurl=https://web.archive.org/web/20100613053217/http://www.pakmet.com.pk/cdpc/Climate/Islamabad_Climate_Data.txt|archivedate=13 June 2010|title=Internet Archive Wayback Machine|publisher=Web.archive.org|date=13 June 2010|accessdate=15 January 2012}}</ref><ref>{{cite web|url=http://www.bbc.co.uk/weather/world/city_guides/results.shtml?tt=TT002680|title=Average Conditions, Islamabad, Pakistan|accessdate=25 September 2009}}</ref> The city has recorded snowfall. On 23 July 2001, Islamabad received a record-breaking {{convert|620|mm|in|abbr=on}} of rainfall in just 10 hours. It was the heaviest rainfall in Islamabad in the past 100 years and the highest rainfall in 24 hours as well.<ref>{{cite web|title=Severe Storms on dated 23rd July 2001 Islamabad, Pakistan|publisher=Abdul Hameed, Director Pakistan Meteorological Department|url=http://www.essl.org/ECSS/2007/abs/02-Case-study/sheikh-1-sec02.oral.pdf}}</ref><ref>{{cite web|title=Weather Log&nbsp;– July 21–31, 2001|publisher=National Climatic Data Center|date=6 August 2001|url=http://www.ncdc.noaa.gov/oa/climate/extremes/2001/july/extremes0701.html}}</ref>
+{{Islamabad weatherbox}}
+
+==Cityscape==
+{| class="toccolours" cellpadding="3" cellspacing="0" style="float:right; margin:0 0 1em 1em; font-size:90%;"
+|-
+! colspan="3"  style="background:#ace1af; text-align:center;"| Zones in Islamabad
+|-
+! rowspan="2" style="text-align:center;"| Zone
+! colspan="2" style="text-align:center;"| Area
+|-
+! style="text-align:center;"| acres
+! style="text-align:center;"| km<sup>2</sup>
+|-
+| colspan=3|
+|-
+| style="text-align:center;"| I
+| {{convert|54958.25|acre|km2|disp=tablecen}}
+|-
+| style="text-align:center;"| II
+| {{convert|9804.92|acre|km2|disp=tablecen}}
+|-
+| style="text-align:center;"| III
+| {{convert|50393.01|acre|km2|disp=tablecen}}
+|-
+| style="text-align:center;"| IV
+| {{convert|69814.35|acre|km2|disp=tablecen}}
+|-
+| style="text-align:center;"| V
+| {{convert|39029.45|acre|km2|disp=tablecen}}
+|-
+| colspan=3|
+|-
+| style="text-align:center;"| Source: || Lahore Real Estate<ref name="map">{{cite web|title=Map of Islamabad|author=DHA Lahore|url=http://www.lahorerealestate.com/Maps/Islamabad%20Master%20Map.jpg}}</ref>
+|}
+
+===Civic administration===
+{{See also|Mayor of Islamabad|Islamabad Metropolitan Corporation|Capital Development Authority}}
+The main administrative authority of the city is the [[Islamabad Metropolitan Corporation]] (IMC) with some help from Capital Development Authority (CDA), which oversees the planning, development, construction, and administration of the city.<ref name="TN">{{cite news|url=https://www.thenews.com.pk/print/102224-70-CDA-employees-to-be-transferred-to-Islamabad-Metropolitan-Corporation|title=70% CDA employees to be transferred  to Islamabad Metropolitan Corporation|work=The Nation|date=2 March 2016|accessdate=9 September 2016|first=Muhammad|last=Anis}}</ref><ref>{{cite web|title=CDA|author=CDA Official site|url=http://www.cda.gov.pk/cda-latest/files/file.asp?var=aboutus}}</ref> Islamabad Capital Territory is divided into eight zones: Administrative Zone, Commercial District, Educational Sector, Industrial Sector, Diplomatic Enclave, Residential Areas, Rural Areas and Green Area.<ref name="Islamabad.com">{{cite web|title=The Idea of Islamabad|publisher=TheIslamabad.com|url=http://www.theislamabad.com/}}</ref> Islamabad city is divided into five major zones: Zone I, Zone II, Zone III, Zone IV, and Zone V. Out of these, Zone IV is the largest in area.<ref name="map"/> Zone I consists mainly of all the developed residential sectors while Zone II consists of the under-developed residential sectors. Each residential sector is identified by a letter of the alphabet and a number, and covers an area of approximately 2&nbsp;km&nbsp;× 2&nbsp;km ({{Frac|1|1|4}}&nbsp;mi&nbsp;× {{Frac|1|1|4}}&nbsp;mi). The sectors are lettered from A to I, and each sector is divided into four numbered sub-sectors.<ref name="S. Hull">{{cite book|title=Government of Paper: The Materiality of Bureaucracy in Urban Pakistan|publisher=University of California Press|isbn=978-0520272156|url=https://books.google.com.pk/books?id=2ZqVvQN9PTwC&pg=PA50#v=onepage&q&f=false|author=Matthew S. Hull|edition=1st|accessdate=4 July 2012|page=50|date=5 June 2012}}</ref>
+
+Series A, B, and C are still underdeveloped. The D series has seven sectors (D-11 to D-17),<ref name="map"/> of which only sector D-12 is completely developed. This series is located at the foot of Margalla Hills.<ref name="Islamabad.com"/> The E Sectors are named from E-7 to E-17.<ref name="map"/> Many foreigners and diplomatic personnel are housed in these sectors.<ref name="Islamabad.com"/> In the revised Master Plan of the city, CDA has decided to develop a park on the pattern of [[Fatima Jinnah Park]] in sector E-14. Sectors E-8 and E-9 contain the campuses of [[Bahria University]], [[Air University (Pakistan)|Air University]], and the [[National Defence University, Pakistan|National Defence University]].<ref>{{cite web|title=Official website|author=Bahria University|url=http://bci.edu.pk/index.aspx}}</ref><ref>{{cite web|title=Official website|author=Air University|url=http://www.au.edu.pk/#}}</ref><ref>{{cite web|title=Official website|author=National Defence University|url=http://www.ndu.edu.pk/}}</ref> The F and G series contains the most developed sectors. F series contains sectors F-5 to F-17; some sectors are still under-developed.<ref name="map"/> F-5 is an important sector for the software industry in Islamabad, as the two software technology parks are located here. The entire F-9 sector is covered with Fatima Jinnah Park. The [[The Centaurus (building)|Centaurus complex]] is a major landmark of the F-8 sector.<ref name="Islamabad.com"/> G sectors are numbered G-5 through G-17.<ref name="map"/> Some important places include the Jinnah Convention Centre and [[Serena Hotels|Serena Hotel]] in G-5, the [[Lal Masjid, Islamabad|Red Mosque]] in G-6, and the Pakistan Institute of Medical Sciences, the largest medical complex in the capital, located in G-8.<ref name="Islamabad.com"/>
+
+The H sectors are numbered H-8 through H-17.<ref name="map"/> The H sectors are mostly dedicated to educational and health institutions. [[National University of Sciences and Technology, Pakistan|National University of Sciences and Technology]] covers a major portion of sector H-12.<ref name="Islamabad.com"/> The I sectors are numbered from I-8 to I-18. With the exception of I-8, which is a well-developed residential area, these sectors are primarily part of the industrial zone. Currently two sub-sectors of I-9 and one sub-sector of [[I-10, Islamabad|I-10]] are used as industrial areas. CDA is planning to set up Islamabad Railway Station in Sector I-18 and Industrial City in sector I-17.<ref name="Islamabad.com"/> Zone III consists primarily of the Margalla Hills and [[Margalla Hills National Park]]. [[Rawal Lake]] is in this zone. Zone IV and V consist of Islamabad Park, and rural areas of the city. The [[Soan River]] flows into the city through Zone V.<ref name="map"/>
+
+[[File:Islamabad skyline.jpg|thumbnail|Islamabad skyline]]
+
+===Islamabad/Rawalpindi Metropolitan Area===
+{{main|Islamabad-Rawalpindi metropolitan area}}
+When the master plan for Islamabad was drawn up in 1960, Islamabad and Rawalpindi, along with the adjoining areas, was to be integrated to form a large [[metropolitan area]] called Islamabad/Rawalpindi Metropolitan Area. The area would consist of the developing Islamabad, the old colonial cantonment city of Rawalpindi, and Margalla Hills National Park, including surrounding rural areas.<ref name="Dulyapak">{{cite book|title=Engineering Earth: The Impacts of Megaengineering Projects|publisher=Springer|isbn=978-9048199198|url=https://books.google.com.pk/books?id=mEyjMx7EV8IC&pg=PA1041#v=onepage&q&f=false|author=Dulyapak Preecharushh|edition=1st|editor=Stanley D. Brunn|accessdate=4 July 2012|page=1041|chapter=Myanmar's New Capital City of Naypyidaw|date=6 April 2011}}</ref><ref name="Isocarp">{{cite web|first2=Muhammad|title=Planning of Islamabad and Rawalpindi|url=http://www.isocarp.net/Data/case_studies/720.pdf}}</ref> However, Islamabad city is part of the [[Islamabad Capital Territory]], while [[Rawalpindi]] is part of [[Rawalpindi District]], which is part of province of [[Punjab, Pakistan|Punjab]] .<ref name="USgov_pub">{{Cite journal|last=Sheikh|first=Iqbal M.|author2=Van S. Williams |author3=S. Qamer Raza |author4=Kanwar S.A. Khan |title=Environmental Geology of the Islamabad-Rawalpindi Area, Northern Pakistan|journal=Regional Studies of the Potwar Plateau Area, Northern Pakistan|publisher=U.S. Department of the Interior, U.S. Geological Survey|url=http://pubs.usgs.gov/bul/2078/B2078_chapter_G.pdf}}</ref>
+
+Initially, it was proposed that the three areas would be connected by four major highways: Murree Highway, [[Islamabad Highway]], Soan Highway, and Capital Highway. However, to date only two highways have been constructed: [[Kashmir Highway]] (the former Murree Highway) and Islamabad Highway.<ref name="Isocarp"/> Plans of constructing Margalla Avenue are also underway.<ref>{{cite web|title=Margalla Avenue to benefit commuters of KPK, traffic on Kashmir Highway|url=http://pakistan.onepakistan.com.pk/news/city/islamabad/102558-margalla-avenue-to-benefit-commuters-of-kpk-traffic-on-kashmir-highway-chairman-cda.html |work=OnePakistan |accessdate=7 October 2013}}</ref> Islamabad is the hub all the governmental activities while Rawalpindi is the centre of all industrial, commercial, and military activities. The two cities are considered sister cities and are highly interdependent.<ref name="Dulyapak"/>
+
+<gallery mode="packed" heights="120px" widths="px">
+File:First Mega Mall of Islamabad - Centaurus.JPG|Mega Mall of Islamabad [[The Centaurus]]
+File:Ptet ise.jpg|PTET & ISE Tower
+File:Chaghi Monument.JPG|Chaghi Monument
+File:Pak Secretariat buildings,Islamabad by Usman Ghani.jpg|Pakistan Secretariat
+File:Crescent and Star Monument.jpg|Star and Crescent Monument near the start of [[Shakarparian]]
+File:Faisal Masjid From Damn e koh.jpg|[[Faisal Mosque]]
+File:Daman-E-Koh.jpg|[[Daman-e-Koh]] Park
+File:Glorious Sunset in Islamabad.jpg|Sunset over the [[Lake View Park]]
+File:Hassle Bassle Islamabad.jpg|view of [[Blue Area]], the commercial hub of the city.
+File:Islamabad Metro Bus.JPG|[[Rawalpindi-Islamabad Metrobus]] near [[The Centaurus]].
+File:Bluearea.png|Blue Area
+File:Day time front view of Pakistan Monument.JPG|[[Pakistan Monument]]
+File:Constitution Avenue.jpg|Constitution Avenue in Islamabad
+File:Said Pur Village.jpg|[[Saidpur, Islamabad|Saidpur village]]kami
+</gallery>
+
+===Architecture===
+{{See also|List of tallest buildings in Islamabad}}
+Islamabad's architecture is a combination of modernity and old [[Islamic architecture|Islamic]] and regional traditions. The [[Saudi-Pak Tower]] is an example of the integration of modern architecture with traditional styles. The beige-coloured edifice is trimmed with blue tile works in Islamic tradition, and is one of Islamabad's tallest buildings. Other examples of intertwined Islamic and modern architecture include [[Pakistan Monument]] and [[Faisal Mosque]]. Other notable structures are: Secretariat Complex designed by [[Gio Ponti]], Prime Minister’s secretariat based on [[Mughal architecture]] and the [[National Assembly of Pakistan|National Assembly]] by [[Edward Durell Stone]].<ref name="M. Bloom"/>
+
+The murals on the inside of the large petals of Pakistan Monument are based on Islamic architecture.<ref>[http://www.dailytimes.com.pk/default.asp?page=2007%5C03%5C30%5Cstory_30-3-2007_pg11_2 National Monument&nbsp;— a symbol of unity]. Daily Times. 30 March. Retrieved 23 March 2008</ref> The Shah Faisal Mosque is a fusion of contemporary architecture with a more traditional large triangular prayer hall and four minarets, designed by [[Vedat Dalokay]], a Turkish architect and built with the help of funding provided by [[Faisal of Saudi Arabia|King Faisal]] of [[Saudi Arabia]].<ref name="Lee Palmer">{{cite book|title=The A to Z of Architecture|publisher=Scarecrow Press|isbn=978-0810868953|url=https://books.google.com.pk/books?id=diPlsp8g5NsC&pg=PA149#v=onepage&q&f=false|author=Allison Lee Palmer|accessdate=1 July 2012|page=149|date=12 October 2009}}</ref> The architecture of Faisal Mosque is unusual as it lacks a dome structure. It is a combination of Arabic, Turkish, and Mughal architectural traditions.<ref>{{cite web|title=Faisal Mosque |author=Archnet |url=http://archnet.org/library/sites/one-site.jsp?site_id=864 |deadurl=yes |archiveurl=https://web.archive.org/web/20110503231203/http://archnet.org/library/sites/one-site.jsp?site_id=864 |archivedate= 3 May 2011 |df= }}</ref> [[The Centaurus (building)|The Centaurus]] is an example of modern architecture under construction in Islamabad. The seven star hotel was designed by [[WS Atkins PLC]].<ref>{{cite web|title=The Centaurus Hotel|url=http://www.blogcatalog.com/search.frame.php?term=the+centaurus+hotel+islamabad&id=62af297d8df94c2cde275a9fe8207eaf}}</ref> The newly built [[Islamabad Stock Exchange Towers]] is another example of modern architecture in the city.<ref>{{cite web|title=Islamabad Stock Exchange Towers|author=Islamabad Stock Exchange-Official Website|url=http://www.ise.com.pk/}}</ref>
+
+==Demographics==
+{{main article|Demographics of Islamabad}}
+Islamabad had an estimated population of around 1.67 million in 2011<ref name="population"/> which according to the estimate of Population Census Organization will rise to around 2&nbsp;million in 2020.<ref name="population2"/> [[Urdu]], the national language of the country, is predominantly spoken within the city as well as English.{{citation needed|date=April 2015}} The [[mother tongue]] of the majority of the population is [[Punjabi language|Punjabi]], at 68% and the major dialect is [[Pothohari dialect|Pothohari]]. 15% of the population are Pashto speakers, 18% speak other languages.<ref>{{cite web|title=POPULATION BY MOTHER TONGUE|author=Population Census Organization, Govt. of Pakistan|url=http://www.statpak.gov.pk/depts/pco/statistics/other_tables/pop_by_mother_tongue.pdf}}</ref> The total migrant population of the city is 1 million, with the majority (691,977) coming from [[Punjab (Pakistan)|Punjab]]. Around 210,614 of the migrated population came from [[Sindh]] and rest from [[Khyber Pakhtunkhwa]], [[Azad Kashmir]]. Smaller populations emigrated from [[Federally Administered Tribal Areas]], [[Baluchistan (Pakistan)|Balochistan]], and [[Gilgit–Baltistan]].<ref>{{cite web|title=MIGRANT POPULATION BY PLACE OF BIRTH|author=Population Census Organization, Govt. of Pakistan|url=http://www.statpak.gov.pk/depts/pco/statistics/other_tables/migrant.pdf|archiveurl=https://web.archive.org/web/20101113175441/http://www.statpak.gov.pk/depts/pco/statistics/other_tables/migrant.pdf|archivedate=13 November 2010}}</ref>
+
+The majority of the population lies in the age group of 15–64 years, around 59.38%. Only 2.73% of the population is above 65 years of age; 37.90% is below the age of 15.<ref>{{cite web|title=POPULATION BY SELECTIVE AGE GROUPS |author=Population Census Organization, Govt. of Pakistan |url=http://www.statpak.gov.pk/depts/pco/statistics/other_tables/pop_by_age_group.pdf |deadurl=yes |archiveurl=https://web.archive.org/web/20100827004028/http://www.statpak.gov.pk/depts/pco/statistics/other_tables/pop_by_age_group.pdf |archivedate=27 August 2010 |df= }}</ref> Islamabad has the highest literacy rate in Pakistan, at 88%.<ref name=PBS>{{cite web|title=Literacy Rate|url=http://www.pbs.gov.pk/sites/default/files/pslm/publications/pslm_prov2010-11/tables/2.14a.pdf|publisher=Pakistan Bureau of Statistics|accessdate=22 September 2013}}</ref> 9.8% of the population has done intermediate education (equivalent to grades 11 and 12). 10.26% have a bachelor or equivalent degree while 5.2% have a master or equivalent degree.<ref>{{cite web|title=Population by Level of Education |author=Population Census Organization, Govt. of Pakistan |url=http://www.statpak.gov.pk/depts/pco/statistics/pop_education/pop_education_rural_urban.html |deadurl=yes |archiveurl=https://web.archive.org/web/20090720044627/http://www.statpak.gov.pk/depts/pco/statistics/pop_education/pop_education_rural_urban.html |archivedate=20 July 2009 |df= }}</ref> The labour force of Islamabad is 185,213<ref>{{cite web|title=LABOR FORCE PARTICIPATION RATES |author=Population Census Organization, Govt. of Pakistan |url=http://www.statpak.gov.pk/depts/pco/statistics/other_tables/labour_force.pdf |deadurl=yes |archiveurl=https://web.archive.org/web/20100827002727/http://www.statpak.gov.pk/depts/pco/statistics/other_tables/labour_force.pdf |archivedate=27 August 2010 |df= }}</ref> and the unemployment rate is 15.70%.<ref>{{cite web|title=UN-EMPLOYMENT RATES|author=Population Census Organization, Govt. of Pakistan|url=http://www.statpak.gov.pk/depts/pco/statistics/other_tables/unemployment_rates.pdf}}</ref>
+
+Islam is the largest religion in the city, with 95.53% of the population Muslim. In rural areas this percentage is 98.80%. Per 1998 census in urban areas the percentage of Muslims is 97.83%. The second largest religion is Christianity, with 4.07% of the population, 0.94% in rural areas and 5.70% in the city. [[Hinduism]] accounts for 0.02% of the population, and other minorities 0.03%.<ref>{{cite web|title=POPULATION BY RELIGION |author=Population Census Organization, Govt. of Pakistan |url=http://www.statpak.gov.pk/depts/pco/statistics/other_tables/pop_by_religion.pdf |deadurl=yes |archiveurl=https://web.archive.org/web/20060617205811/http://www.statpak.gov.pk/depts/pco/statistics/other_tables/pop_by_religion.pdf |archivedate=17 June 2006 |df= }}</ref>
+
+==Economy==
+{{Main article|Economy of Islamabad}}
+{{multiple image
+ |align=right
+ |image1=Ise building2.png
+ |width1=161
+ |caption1=[[Islamabad Stock Exchange]]
+ |alt1=
+ |width2=145
+ |caption2=[[Zarai Taraqiati Bank Limited]]
+ |image2=ZTBL Headquarters.jpg
+ |alt2=
+}}
+Islamabad is a net contributor to the Pakistani economy, as whilst having only 0.8% of the country's population, it contributes 1% to the country's GDP.<ref>{{cite web|url=http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/19-economics-and-extremism-hh-04 |title=Pakistan &#124; Economics and extremism |work=Dawn |date=5 January 2010 |accessdate=2 June 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100108132730/http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/19-economics-and-extremism-hh-04 |archivedate= 8 January 2010 |df= }}</ref> [[Islamabad Stock Exchange]], founded in 1989, is Pakistan's third largest stock exchange after [[Karachi Stock Exchange]] and [[Lahore Stock Exchange]], and was merged to form [[Pakistan Stock Exchange]].<ref>{{cite web|title=Pakistan Stock Exchanges|url=http://www.ostamyy.com/stock-exchanges/Pakistan.htm}}</ref> The exchange had 118 members with 104 [[Body corporate|corporate bodies]] and 18 individual members. The average daily turnover of the stock exchange is over 1 million shares.<ref>{{cite web|title=About ISE|author=ISE-Official website|url=http://www.ise.com.pk/About_ISE/AboutISE.asp}}</ref>
+
+{{As of|2012}}, Islamabad LTU (Large Tax Unit) was responsible for Rs 371 billion in tax revenue, which amounts to 20% of all the revenue collected by Federal Board of Revenue.<ref>{{cite web|url=http://www.brecorder.com/top-news/108-pakistan-top-news/65751-rs371bn-revenue-target-fbr-hails-ltu-islamabads-performance-.html4|title=Rs 371bn revenue target: FBR hails LTU Islamabad's performance|work=Business Recorder|date=5 July 2012|accessdate=9 July 2012}}</ref> Islamabad has seen an expansion in [[Information and communication technologies|information and communications technology]] with the addition two [[science park|Software Technology Parks]], which house numerous national and foreign technological and information technology companies. The tech parks are located in Evacuee Trust Complex and Awami Markaz. Awami Markaz houses 36 [[Information technology|IT]] companies while Evacuee Trust house 29 companies.<ref>{{cite web|title=Islamabad|author=Pakistan Software Export Board|url=http://www.pseb.org.pk/item/stp_islamabad}}</ref>
+
+==Culture==
+{{main article|Culture of Islamabad}}
+Islamabad is home to many migrants from other regions of Pakistan and has a cultural and religious diversity of considerable antiquity. Due to its location on the Pothohar Plateau, remnants of ancient cultures and civilisations such as [[Aryan]], [[Soanian]], and [[Indus Valley civilisation]] can still be found in the region. A 15th-century [[Gakhars|Gakhar]] fort, [[Pharwala]] Fort, which was built on the remains of a 10th-century Hindu fort, is located near Islamabad.<ref>{{cite web|title=Pharwala Fort|author=WikiMapia|url=http://wikimapia.org/9852921/Pharwala-Fort-or-Babar-Fort-Omer-Afzal-Aliot}}</ref><ref name="forts">{{cite web|title=Forts of Pakistan|author=Ministry of Tourism, Government of Pakistan|url=http://www.pakistantourism.gov.pk/FortsofPakistan.aspx}}</ref> [[Rawat Fort]] in the region was built by the [[Gakhars]] in 16th century and contains the grave of the Gakhar chief, Sultan Sarang Khan.<ref name="forts"/>
+
+[[Saidpur, Islamabad|Saidpur village]] is supposedly named after Said Khan, the son of Sultan Sarang Khan. The 500-year-old village was converted into the a place of Hindu worship by a Mughal commander, Raja Man Singh. He constructed a number of small ponds: Rama kunda, Sita kunda, Lakshaman kunda, and Hanuman kunda.<ref>{{cite web|title=Sidpur Village|work=The Daily Times|url=http://www.dailytimes.com.pk/default.asp?page=2008\10\28\story_28-10-2008_pg11_11}}</ref> The region is home to many Hindu temples that are preserved, showing the history of Hindu civilisation and architecture in the region.. The shrine of Sufi mystic [[Pir Meher Ali Shah]] is located at [[Golra Sharif]], which has a rich cultural heritage of the pre-Islamic period. Archaeological remains of the Buddhist era can also still be found in the region.<ref>{{cite web|title=Golra Sharif|url=http://www.thelightofgolrasharif.com/Website/TheLightofGolraSharif/hazrat/golra_sharif_introduction.htm}}</ref> The shrine of [[Bari Imam]] was built by [[Mughal Emperor]] [[Aurangzeb]]. Thousands of devotees from across Pakistan attend the annual [[Urs]] of Bari Imam. The event is one of the largest religious gatherings in Islamabad. In 2004, the Urs was attended by more than 1.2&nbsp;million people.<ref>{{cite news|title=Spotlight Bari Imam|author=Huma Khawar|work=Dawn News|url=http://www.dawn.com/weekly/dmag/archive/050529/dmag9.htm}}</ref>
+
+The [[Lok Virsa Museum]] in Islamabad preserves a wide variety of expressions of folk and traditional cultural legacy of Pakistan. It is located near the [[Shakarparian]] hills and boasts a large display of embroidered costumes, jewellery, musical instruments, woodwork, utensils and folkloristic objects from the region and other parts of Pakistan.<ref>{{cite web|title=RAWALPINDI/ISLAMABAD CITIES TOUR|author=Viamigo|url=http://www.viamigo.com/tour/1803/Lahor-Islamabad-Rawalpindi}}</ref>
+
+==Education==
+{{See also|List of educational institutions in Islamabad}}
+[[File:Quaid-i-Azam University Entrance.JPG|thumb|right|[[Quaid-i-Azam University]]]]Islamabad boasts the highest literacy rate in Pakistan at 88%,<ref name=PBS /> and has some of the most advanced educational institutes in the country.<ref name="L. Roberts">{{cite book|title=Planning Urban Education: New Techniques to Transform Learning in the City|year=1972|publisher=Educational Technology Publications|isbn=978-0877780243|url=https://books.google.com.pk/books?id=W8Yt8a6qhQEC&pg=PA111#v=onepage&q&f=false|author=Charles S. Benson|editor=Dennis L. Roberts|accessdate=3 July 2012|page=111|chapter=New Cities and Educational Planning}}</ref> A large number of [[Public university|public]] and [[Private university|private]] sector educational institutes are present here. The higher education institutes in the capital are either federally chartered or administered by private organisations and almost all of them are recognised by the [[Higher Education Commission of Pakistan]]. High schools and colleges are either affiliated with the [[Federal Board of Intermediate and Secondary Education]] or with the [[Advanced Level in the United Kingdom|UK universities education boards]], O/A Levels, or [[International General Certificate of Secondary Education|IGCSE]]. According to Academy of Educational Planning and Management's report, in 2009 there were a total of 913 recognised institutions in Islamabad (31 pre-primary, 2 [[Madrasah|religious]], 367 primary, 162 [[Middle school|middle]], 250 high, 75 higher secondary and intermediate colleges, and 26 [[Undergraduate education|degree colleges]]).<ref name="aepam.edu.pk">{{cite web|title=Pakistan Education Statistics 2008–09|author=AEPAM|url=http://aepam.edu.pk/Files/EducationStatistics/PakistanEducationStatistics2008-09.pdf}}</ref> There are seven [[Teacher education|teacher training]] institutes in Islamabad with a total enrolment of 604,633 students and 499 faculty.<ref name="aepam.edu.pk"/>
+[[File:NUST MainOffice.png|left|thumb|[[National University of Sciences and Technology (Pakistan)|National University of Sciences and Technology]]]]
+The [[Gender Parity Index]] in Islamabad is 0.93 compared to the 0.95 national average. There are 178 boys only institutes, 175 girls only, and 551 [[Mixed-sex education|mixed]] institutes in Islamabad.<ref name="aepam.edu.pk"/> Total enrolment of students in all categories is 267,992; 138,272 for boys and 129,720 for girls.<ref name="aepam.edu.pk"/> There are 16 recognised universities in Islamabad with a total enrolment of 372,974 students and 30,144 teachers.<ref name="aepam.edu.pk"/> Most of the top ranked universities; [[National University of Sciences and Technology, Pakistan|National University of Sciences and Technology]], [[COMSATS Institute of Information Technology]] and [[Pakistan Institute of Engineering & Applied Sciences]], also have their headquarters in the capital.<ref name="HEC Rankings"/> The [[World's largest universities|world's second largest general university by enrolment]], [[Allama Iqbal Open University]] is located in Islamabad for distance education. Other universities include [[Air University (Pakistan)|Air University]], [[Bahria University]], [[Center for Advanced Studies in Engineering]], [[Federal Urdu University of Arts, Science and Technology]], [[Hamdard University]], [[National University of Computer and Emerging Sciences]], [[Capital University of Science & Technology]], [[National Defence University, Pakistan|National Defence University]], Shifa Tameer-e-Millat University, [[National University of Modern Languages]], [[Iqra University]], [[International Islamic University, Islamabad|International Islamic University]], [[Virtual University of Pakistan]], [[Muhammad Ali Jinnah University]] [[The University of Lahore]],[[Abasyn University]] and [[The Millennium University College]].
+
+{{Collapsible list
+| title =Universities and Colleges in Islamabad Capital Territory 
+| bullets = on
+|[[NUST Pakistan|NUST]]
+|[[Center for Advanced Studies in Engineering]]
+|[[Foundation University, Islamabad|Foundation University]]
+|[[Institute of Space Technology]]
+|[[International Islamic University, Islamabad|International Islamic University]]
+|[[Mohammad Ali Jinnah University]]
+|[[National University of Computer and Emerging Sciences]]
+|[[Pakistan Institute of Engineering and Applied Sciences]]
+|[[Quaid-i-Azam University]]
+|[[Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology|SZABIST]]
+|[University of Lahore]]
+|[[University College of Islamabad]]
+|[Abasyn university]]
+|[[Roots Ivy International University|Roots Ivy College]]}}
+
+==Health care==
+[[File:Pims2.jpg|thumb|right|[[Pakistan Institute of Medical Sciences]]]]
+Islamabad has the lowest rate of infant mortality in the country at 38 deaths per thousand compared to the national average of 78 deaths per thousand.<ref>{{cite web|title=Punjab tops in infant mortality, poverty, income inequality|author=TheNews website|url=http://www.thenews.com.pk/TodaysPrintDetail.aspx?ID=145337&Cat=5&dt=11/9/2008}}</ref> Islamabad has both public and private medical centres. The largest hospital in Islamabad is [[Pakistan Institute of Medical Sciences|Pakistan Institute of Medical Sciences (PIMS)]] hospital. It was established in 1985 as a teaching and doctor training institute. PIMS functions as a National Reference Center and provides specialised diagnostic and curative services.<ref>{{cite web|title=About PIMS|author=PIMS-Official website|url=http://www.pims.gov.pk/aboutPIMS.htm}}</ref> The hospital has 30 major medical departments.<ref>{{cite web|title=Departments at PIMS|author=PIMS-Official website|url=http://www.pims.gov.pk/departments.htm}}</ref> PIMS is divided into five administrative branches. Islamabad Hospital is the major component with a 592-bed facility and 22 medical and surgical specialties.<ref>{{cite web|title=Islamabad Hospital|author=PIMS-Official website|url=http://www.pims.gov.pk/isbHospital.htm}}</ref>
+
+The Children's Hospital is a 230-bed hospital completed in 1985. It contains six major facilities: Surgical and Allied Specialties, Medical and Allied Specialties, Diagnostic Facilities, Operation Theatre, Critical Care (NICU, PICU, Isolation & Accident Emergency), and a Blood Bank.<ref>{{cite web|title=Children Hospital|author=PIMS-Official website|url=http://www.pims.gov.pk/childrenHospital.htm}}</ref> The Maternal and Child Health Care Center is a training institute with an attached hospital of 125 beds offering different clinical and operational services.<ref>{{cite web|title= Maternal & Child Health Care Center|author=PIMS-Official website|url=http://www.pims.gov.pk/MCH.htm}}</ref> PIMS consists of five academic institutes: Quaid-e-Azam Postgraduate Medical College, College of Nursing, College of Medical Technology, School of Nursing, and Mother and Child Health Center.<ref>{{cite web|title=Quaid-i-Azam Postgraduate Medical College|author=PIMS-Official website|url=http://www.pims.gov.pk/QPGMC.htm}}</ref>
+
+PAEC General Hospital and teaching institute, established in 2006, is affiliated with the Pakistan Atomic Energy Commission.<ref name="paec">{{cite web|title=About PAEC Hospital|author=PAEC General Hospital-Official website|url=http://www.paec.gov.pk/paec_hospital/about.htm}}</ref> The hospital consists of a 100<ref name="paec"/>-bed facility and 10 major departments: [[Obstetrics]] and [[Gynecology]], [[Pediatric]], [[General Medicine]], [[General Surgery]], [[Intensive Care Unit]]/[[Coronary Care Unit]], [[Orthopedics]], [[Ophthalmology]], [[Pathology]], [[Radiology]], and [[Dentistry|Dental]] Department.<ref>{{cite web|title=Functions of Major Departments|author=PAEC General Hospital-Official website|url=http://www.paec.gov.pk/paec_hospital/functions.htm}}</ref> Shifa International Hospital is a teaching hospital in Islamabad that was founded in 1987 and became a public company in 1989. The hospital has 70 qualified consultants in almost all specialties, 150 [[Outpatient department|IPD]] beds and [[Outpatient department|OPD]] facilities in 35 different specialisations.<ref>{{cite web|title=SHIFA History|author=SHIFA International Hospital-Official website|url=http://www.shifa.com.pk/shifa/}}</ref> According to the Federal Bureau of Statistics of the Government of Pakistan, in 2008 there were 12 hospitals, 76 [[dispensaries]], and 5 Maternity and Child Welfare Centers in the city with a total of 5,158 beds.<ref>{{cite web|title=Hospitals/Dispensaries and Beds by Province|author=Federal Bureau of Statistics|url=http://www.statpak.gov.pk/depts/fbs/statistics/social_statistics/health1.pdf}}</ref>
+
+==Transport/communications==
+{{main article|Transport in Islamabad}}
+{{externalvideo|video1=[https://www.youtube.com/watch?v=K7JQlXyqQco& A graphic animation showing details of the new Islamabad International Airport]}}Airports: Islamabad is connected to major destinations around the world through [[Benazir Bhutto International Airport]], previously known as Islamabad International Airport.<ref>{{cite web|title=PM names Islamabad Airport as Benazir Bhutto International Airport |author=Geo News |url=http://www.geo.tv/6-20-2008/19590.htm |deadurl=yes |archiveurl=https://web.archive.org/web/20150715153917/http://www.geo.tv/6-20-2008/19590.htm |archivedate=15 July 2015 |df= }}</ref> The airport is the third largest in Pakistan and is located outside Islamabad, in [[Chaklala, Rawalpindi]].<ref>{{cite web|title=International Air Ports in Pakistan|author=United Impex|url=http://unitedimpex.com/intlairportspk.htm}}</ref> In fiscal year 2004–2005, over 2.88&nbsp;million passengers used Benazir Bhutto International Airport and 23,436 aircraft movements were registered.<ref>{{cite web|title=Islamabad&nbsp;– Benazir Bhutto International Airport (ISB/OPRN)|author=A-Z World Airports|url=http://www.azworldairports.com/airports/a2265isb.cfm}}</ref> The [[New Islamabad International Airport|Islamabad Gandhara International Airport]] was built west of the city at a cost of $400&nbsp;million and is expected to be operational by 14 August 2017. This will be the first green field airport in Pakistan with an area of {{convert|3600|acre|km2|sing=on}}.<ref>{{cite web|title=New Islamabad International Airport's Passenger Terminal Building|author=CPG Corporation|url=http://www.cpgcorp.com.sg/press/view_press.asp?Lang=EN&quarter=1&PRID=409}}</ref>
+[[File:New Islamabad International Airport Design.jpg|left|thumb|[[New Islamabad International Airport]] to be operational by 14 August 2017.]]
+The [[Rawalpindi-Islamabad Metrobus]] is a {{convert|24|km|mi|1|abbr=on}} [[bus rapid transit]] system that serves the twin cities of [[Rawalpindi]] and Islamabad in [[Pakistan]]. It uses dedicated bus lanes for all of its route covering 24 bus stations.
+
+All major cities and towns are accessible through regular trains and bus services running mostly from the neighbouring city of Rawalpindi. [[Lahore]] and [[Peshawar]] are linked to Islamabad through a network of motorways, which has significantly reduced traveling times between these cities. 
+Islamabad is itself situated on G.T Road (N-5); in the southern patch from Highway Chowk till Swan camp and in the norther patch from Motorway Chowk till Nicholson square. Moreover, Islamabad is also situated on Rawalpindi-Srinagar Kashmir Road which is also called as N-75 from Islamabad till Kohala and Islamabad-Murree Expressway from Satra Meel, Islamabad till Lower Topa, Murree (an alternate old route is also available from Satra Meel till Lower Topa via Murree City). A national highway N-80 connects Islamabad to Kohat via Fateh Jang while a highway connects Islamabad to Rawalkot via Kahuta and Azad Patan. Another road connect Islamabad to Kolti Sattian via Lehtrar.
+
+Islamabad Highway is the main artery of the city which runs from Highway Chowk (G.T Road) till Zero point and is being changed into a signal free corridor. A patch of this Highway from Zero point till Faisal Mosque is known as Faisal Avenue (8th Avenue).
+
+[[M2 motorway (Pakistan)|M-2 Motorway]] is {{convert|367|km|0|abbr=on}} long and connect Islamabad and Lahore.<ref name="NHA">{{cite web|title=Motorway's of Pakistan|author=National Highway Authority Pakistan|url=http://www.nha.gov.pk/index.php?option=com_content&task=blogsection&id=5&Itemid=45}}</ref> [[M1 motorway (Pakistan)|M-1 Motorway]] connects Islamabad with Peshawar and is {{convert|155|km|0|abbr=on}} long.<ref name="NHA"/> Islamabad is linked to Rawalpindi through the [[Faizabad Interchange]], which has a daily traffic volume of about 48,000 vehicles.<ref>{{cite web|title=Faizabad Interchange|author=NESPAK|url=http://www.nespak.com.pk/services/viewPic.asp?sector=3&id=13}}</ref>
+
+Islamabad's Karachi Company Bus terminal is a busy destination and is located in Sector G-9; another newly constructed bus terminal "Islamabad Bus Terminal" has started working on Motorway Chowk. There are many privately operated transport terminals in Faizabad, Sitara Market(G-7) Terminal of NATCO Bus service (which has a fleet of bus service for different cities of Gilgit Baltistan from Islamabad and Rawalpind) is located on Faqir Aipi road in Sector I-11. Islamabad's railway station (also known as Margalla Railway station) is situated in Sector I-9 which is connect to the main railway line at Nori Junction Railway station (located near Sector I-12). Golra Sharif Junction railway station of Islamabad is situated near Sector G-13 on main railway line; a railway line takes off to Multan via Western Punjab from this station.
+
+==Sports==
+[[File:Islamabad golf Club.jpg|thumb|Islamabad Golf Club]]
+[[File:Jinnah Sports Stadium.JPG|thumb|Jinnah Sports Stadium]]
+Islamabad has a multi-purpose Sports Complex opposite [[Aabpara]]. The complex includes Liaquat Gymnasium for indoor games, Mushaf Squash Complex and Jinnah Stadium for outdoor games, which is a venue for regular national and international events. [[2004 South Asian Games|2004 SAF Games]] were held in the stadium. There is another Multipurpose Sports Complex in the F6 Markaz. Offered facilities include Tennis courts, a basketball court with fibre-glass boards and a [[Futsal]] ground which introduced artificial turf to the people of Islamabad. Major sports in the city include [[Cricket]], [[Association football|Football]], [[Squash (sport)|Squash]], [[Hockey]], Table Tennis, Rugby and [[Boxing]].<ref name="Hanif Raza">{{cite book|title=Islamabad and environs|year=1985|publisher=Colorpix|asin=B0006ENJ0I|pages=83|author=M. Hanif Raza}}</ref> The city is home to [[Islamabad United (cricket)|Islamabad United]] which won the first ever [[Pakistan Super League]] in [[2016 Pakistan Super League|2016]].<ref>{{cite web|url=http://arynews.tv/en/ary-digital-neer-winning-psl/|title=ARY Digital Network President Salman Iqbal congratulates Islamabad United over winning PSL|work=arynews.tv|accessdate=24 February 2016}}</ref> Islamabad also has various rock climbing spots in the Margalla Hills.<ref name="John Arran">{{cite web|last=Arran|first=John|title=A Guide to Climbing in Margalla|url=http://www.pakistanalpine.com/wp-content/uploads/2013/08/Monkey-Business-A-Guide-to-Climb-Margalla-2012-Edition.pdf|work=Rock Climbing Islamabad|publisher=Pakistan Alpine Institute|accessdate=12 October 2013|year=2012}}</ref> Swimming pools of Pakistan Sports Complex are good. There are three pools for children. These facilities attract a large gathering on weekends. Few swimmers, however, demand more hygienic conditions in showers and rest rooms.<ref>Spots facilities at [[Pakistan Sports Complex]] http://www.sports.gov.pk/SportsFacilities/sportsfacilities.htm#cycling</ref>
+
+== Notable people ==
+{{Main article|List of people from Islamabad}}
+
+==Twin towns and sister cities==
+{{Refimprove section|date=August 2016}}
+{{colbegin|colwidth=25em}}
+{{Main article|List of twin towns and sister cities in Pakistan}}
+
+* [[Amman]], Jordan<ref>{{cite web |title=Twin city agreements|author=Greater Amman Municipality-Official website|url=http://www.ammancity.gov.jo/english/accessing/a1.asp}}</ref>
+* [[Beijing]], China<ref>{{cite web |title=Sister cities |author=Beijing International-Official website|url=http://www.ebeijing.gov.cn/Sister_Cities/Sister_City/Asia_1/sis_Islamabad/}}</ref>
+* [[Seoul]], South Korea<ref>{{cite web |title= Islamabad, Seoul to be made sister cities|author=Fazal Sher - Daily Times|url=http://www.dailytimes.com.pk/default.asp?page=2008\11\08\story_8-11-2008_pg11_2}}</ref>
+* [[Jakarta]], Indonesia 1984, Restarted in 2010<ref>http://www.dailytimes.com.pk/default.asp?page=2010\01\23\story_23-1-2010_pg11_2</ref>
+* [[Abu Dhabi]], United Arab Emirates<ref name="Minsk">{{cite web|url=http://minsk.gov.by/cgi-bin/org_ps.pl?k_org=3604&mode=doc&doc=3604_2_a&lang=eng|title=''Twin towns of Minsk''|publisher=[[copyright|©]] 2008 The department of protocol and international relations of Minsk City Executive Committee|accessdate=2008-12-08}}</ref> 
+{{colend}}
+
+==See also==
+{{portal|Islamabad|Pakistan}}
+* [[Birds of Islamabad]]
+* [[Climate of Islamabad]]
+* [[Developments in Islamabad]]
+* [[List of people from Islamabad]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{Sister project links|voy=Islamabad|d=Q1362}}
+* {{Commons category-inline|Islamabad}}
+* {{Official website|1=http://www.islamabad.gov.pk/islamabad/default.asp}}
+* [http://www.cda.gov.pk/ Capital Development Authority]
+* {{Dmoz|Regional/Asia/Pakistan/Provinces/Islamabad_Capital_Territory}}
+
+{{Navboxes
+|title = Articles related to Islamabad
+|list =
+{{Islamabad}}
+{{Neighbourhoods of Islamabad}}
+{{Capitals in Pakistan}}
+{{PakistanCities}}
+{{Million-plus cities in Pakistan}}
+{{List of Asian capitals by region}}
+}}
+
+{{Authority control}}
+
+[[Category:Islamabad|01]]
+[[Category:Capitals of Pakistan]]
+[[Category:Capitals in Asia]]
+[[Category:Islamabad Capital Territory|01]]
+[[Category:Metropolitan areas of Pakistan]]
+[[Category:1960s establishments in Pakistan]]
+[[Category:Planned capitals]]
+[[Category:Planned cities in Pakistan]]
+[[Category:Union councils of Islamabad Capital Territory]]
+[[Category:Populated places established in the 1960s]]
+
