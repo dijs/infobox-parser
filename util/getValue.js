@@ -28,6 +28,9 @@ export default function getValue(raw, key) {
   const cleansed = raw
     .trim()
     .replace(/File:/, '')
+    // Have not found reason for this but it breaks parsing, so we are just
+    // removing it for now
+    .replace(/\{\{\d+\}\}/g, '')
     .replace(extraPropertyPattern, '')
     .replace(endingPattern, '');
 

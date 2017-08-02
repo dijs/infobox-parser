@@ -1,0 +1,29 @@
+{{Infobox Fußballspieler
+| kurzname =
+| bildname = Wayne-Rooney-2015-10-21.jpg
+| bildunterschrift = Wayne Rooney, 2015
+| langname = Wayne Mark Rooney
+| geburtstag = [[24. Oktober]] [[1985]]
+| geburtsort = [[Liverpool]]
+| geburtsland = [[England]]
+| sterbedatum =
+| sterbeort =
+| sterbeland =
+| größe = 176 cm
+| position = [[Stürmer (Fußball)|Sturm]], [[Mittelfeldspieler|Mittelfeld]]
+| jugendvereine_tabelle =
+{{Team-Station|1995–2002|[[FC Everton]]}}
+| vereine_tabelle =
+{{Team-Station|2002–2004|[[FC Everton]]| 67 {{0}}(15)}}
+{{Team-Station|2004–2017|[[Manchester United]]|391 (183)}}
+{{Team-Station|2017–|FC Everton|0 {{0|00}}(0)}}
+| indoor_tabelle              =
+| nationalmannschaft_tabelle =
+{{Team-Station|2000–2001|[[Englische Fußballnationalmannschaft (U-16-Junioren)|England U-16]]| 4 {{0}}{{0}}(2)}}
+{{Team-Station|2001–2002|[[Englische Fußballnationalmannschaft (U-17-Junioren)|England U-17]]|12 {{0}}{{0}}(7)}}
+{{Team-Station|2002|[[Englische Fußballnationalmannschaft (U-19-Junioren)|England U-19]]|1 {{0}}{{0}}(0)}}
+{{Team-Station|2003–|[[Englische Fußballnationalmannschaft|England]]|116 {{0}}(53)}}
+| trainer_tabelle =
+| lgupdate = 2017-07-09
+| nmupdate = 2016-10-04
+}}
