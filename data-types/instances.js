@@ -6,7 +6,7 @@ export default {
   parsePattern: pattern,
   parse: results => {
     const [, value, type] = results;
-    return type || value;
+    return value || type;
   },
   variable: 'INSTANCE',
   name: 'instances',

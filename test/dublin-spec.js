@@ -13,6 +13,6 @@ describe('Should Parse Dublins\'s Information', () => {
     properties.should.have.property('gdpPerCapita', 'US$ 51,319');
   });
   it('GDP Blank data', () => {
-    properties.should.have.property('gdp', 'US$ 90.1 billion');
+    properties.should.have.property('gdp', 'American dollar 90.1 billion');
   });
 });

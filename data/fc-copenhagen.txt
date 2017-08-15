@@ -1,0 +1,48 @@
+{{Infobox football club
+| clubname      = FC København 
+| image         = [[File:FC København.svg|frameless|Logo]]
+| fullname      = Football Club København
+| nickname      = ''Byens Hold'' (The Team of the City)<br/> ''Løverne'' (Lions)
+| short name    = FCK<br/>Copenhagen
+| founded       = {{Start date and age|df=yes|1 July 1992}}
+| ground        = [[Telia Parken]], [[Copenhagen]]
+| capacity      = 38,065 | owner         = [[Parken Sport & Entertainment]]
+| chairman      = Bo Rygaard
+| ceo      = Anders Hørsholt
+| manager       = [[Ståle Solbakken]]
+| league        = [[Danish Superliga|Superliga]]
+| season        = [[2016–17 Danish Superliga|2016–17]]
+| position      = Superliga, 1st
+| pattern_la1   = _dynamo1617h
+| pattern_b1    = _copenhagen1617h
+| pattern_ra1   = _dynamo1617h
+| pattern_sh1   = _adidasblue
+| pattern_so1   = _chelsea1617h
+| leftarm1      = FFFFFF
+| body1         = FFFFFF
+| rightarm1     = FFFFFF
+| shorts1       = FFFFFF
+| socks1        = FFFFFF
+| pattern_la2   = _copenhagen1617a
+| pattern_b2    = _copenhagen1617a
+| pattern_ra2   = _copenhagen1617a
+| pattern_sh2   = _adidasblue
+| pattern_so2   = _copenhagen1617a
+| leftarm2      = FFFFFF
+| body2         = FFFFFF
+| rightarm2     = FFFFFF
+| shorts2       = 000000
+| socks2        = 000000
+| pattern_la3   = _copenhagen1617t
+| pattern_b3    = _copenhagen1617t
+| pattern_ra3   = _copenhagen1617t
+| pattern_sh3   = _copenhagen1617t
+| pattern_so3   = _3_stripes_white
+| leftarm3      = FFFFFF
+| body3         = FFFFFF
+| rightarm3     = FFFFFF
+| shorts3       = FFFFFF
+| socks3        = 808080
+| website       = http://www.fck.dk/
+| current       = 2016–17 F.C. Copenhagen season
+}}

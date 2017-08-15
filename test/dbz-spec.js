@@ -10,7 +10,7 @@ describe('Should Parse Dragon Ball Z\'s Information', () => {
     properties.should.have.property('jaKanji', 'ドラゴンボールZ');
   });
   it('genre list', () => {
-    properties.genre.should.containEql('Martial arts');
+    properties.genre.should.containEql('Martial arts (genre)');
     properties.genre.should.containEql('Comedy');
     properties.genre.should.containEql('Science fantasy');
   });

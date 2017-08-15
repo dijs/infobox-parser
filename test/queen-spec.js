@@ -35,7 +35,7 @@ describe('Should Parse Queen\'s Information', () => {
     propertiesNonSimple.should.have.property('fullName', 'Elizabeth Alexandra Mary');
   });
   it('house', () => {
-    propertiesNonSimple.should.have.property('house', 'Windsor');
+    propertiesNonSimple.should.have.property('house', 'House of Windsor');
   });
   it('father', () => {
     properties.should.have.property('father', 'George VI');

@@ -15,18 +15,18 @@ describe('Should Parse Beastie Boys\'s Information', () => {
     properties.should.have.property('yearsActive', '1981–2012');
   });
   it('genre', () => {
-    properties.genre.should.containEql('Hip hop');
+    properties.genre.should.containEql('Hip hop music');
     properties.genre.should.containEql('rap rock');
   });
   it('label', () => {
-    properties.label.should.containEql('Rat Cage');
-    properties.label.should.containEql('Def Jam');
-    properties.label.should.containEql('Capitol');
+    properties.label.should.containEql('Rat Cage Records');
+    properties.label.should.containEql('Def Jam Recordings');
+    properties.label.should.containEql('Capitol Records');
   });
   it('pastMembers', () => {
-    properties.pastMembers.should.containEql('Michael "Mike D" Diamond');
-    properties.pastMembers.should.containEql('Adam "MCA" Yauch');
-    properties.pastMembers.should.containEql('Adam "Ad-Rock" Horovitz');
+    properties.pastMembers.should.containEql('Mike D');
+    properties.pastMembers.should.containEql('Adam Yauch');
+    properties.pastMembers.should.containEql('Ad-Rock');
   });
   it('website', () => {
     properties.should.have.property('website', 'http://www.beastieboys.com/');
