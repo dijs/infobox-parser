@@ -1,6 +1,6 @@
 {
   "name": "infobox-parser",
-  "version": "1.0.4",
+  "version": "2.0.0",
   "description": "Parse Wikipedia Infobox Source",
   "main": "build/bundle.min.js",
   "scripts": {
