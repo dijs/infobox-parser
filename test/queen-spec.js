@@ -47,6 +47,9 @@ describe('Should Parse Queen\'s Information', () => {
     // Will just update this every year :)
     properties.birthDate.should.have.property('age', 91);
     properties.birthDate.date.should.be.instanceOf(Date);
+    properties.birthDate.date.getFullYear().should.equal(1926);
+    properties.birthDate.date.getMonth().should.equal(3);
+    properties.birthDate.date.getDate().should.equal(21);
   });
   it('signature', () => {
     properties.should.have.property('signature', 'Elizabeth II signature 1952.svg');
