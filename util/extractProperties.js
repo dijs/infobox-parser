@@ -6,7 +6,8 @@ const smallDataType = dataTypes.find(type => type.name === 'smalls');
 
 function fillVariables(value, context, { simplifyDataValues }) {
   if (typeof value !== 'string') {
-    throw new Error(`Something went wrong. Could not fill variables in: (${typeof value}) ${JSON.stringify(value)}`);
+    console.log(`Warning: Something went wrong. Could not fill variables in: (${typeof value}) ${JSON.stringify(value)}`);
+    return {};
   }
   const dataType = dataTypes.find(type => value.match(type.pattern));
   if (dataType) {
@@ -22,6 +23,9 @@ function fillVariables(value, context, { simplifyDataValues }) {
 
 // Recursive varaible filling... even handles arrays of values
 function fillVariablesUntilDone(value, context, options) {
+  if (value === undefined) {
+    return value;
+  }
   if (value instanceof Date) {
     return value;
   }

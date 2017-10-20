@@ -1,0 +1,63 @@
+{{EngvarB|date=October 2017}}
+{{Use dmy dates|date=October 2017}}
+{{Infobox football club
+| nickname   = ''Viola'' (Purple)
+''Gigliati'' (Lilies)
+| ground     = [[Stadio Artemio Franchi]]
+| capacity   = 43,147<ref>{{cite web|url=http://it.violachannel.tv/vc13-stadio-franchi.html|title=ViolaChannel – Stadio Franchi}}</ref>
+| current    = {{Italian football updater|Fiorentina4}}
+|pattern_la1=_fiorentina1617h
+|pattern_la2=_fiorentina1617a
+|pattern_la3=_fiorentina1617t
+|pattern_b1=_fiorentina1617h
+|pattern_b2=_fiorentina1617a
+|pattern_b3=_fiorentina1617t
+|pattern_ra1=_fiorentina1617h
+|pattern_ra2=_fiorentina1617a
+|pattern_ra3=_fiorentina1617t
+|pattern_sh1=_fiorentina1617h
+|pattern_sh2=_fiorentina1617a
+|pattern_sh3=_fiorentina1617t
+|pattern_so1= 
+|pattern_so2=
+|pattern_so3=
+|leftarm1=4b3c8a
+|leftarm2=FFFFFF
+|leftarm3=191923
+|body1=4b3c8a
+|body2=FFFFFF
+|body3=7f7f7f
+|rightarm1=4b3c8a
+|rightarm2=FFFFFF
+|rightarm3=191923
+|shorts1=5500ab
+|shorts2=FFFFFF
+|shorts3=7f7f7f
+|socks1=5500ab
+|socks2=FFFFFF
+|socks3=FF0000
+| clubname   = Fiorentina
+| image      = [[File:ACF Fiorentina 2.svg|160px]]
+| fullname   = ACF Fiorentina S.p.A.<ref name="fiorentina_society">{{cite web|url=http://it.violachannel.tv/organigramma.html|publisher=ACF Fiorentina Fiorentina|title=Organigramma|language=Italian|accessdate=29 November 2009|archiveurl=https://web.archive.org/web/20080726123414/http://it.violachannel.tv/organigramma.html|archivedate=26 July 2008}}</ref><ref name="fiorentina_society_legacalcio">{{cite web|url=http://www.lega-calcio.it/it/Serie-A-TIM/Squadre/Fiorentina/Squadra.page|publisher=Lega Calcio|title=Fiorentina|language=Italian|accessdate=18 February 2009| archiveurl= https://web.archive.org/web/20090225024314/http://www.lega-calcio.it/it/Serie-A-TIM/Squadre/Fiorentina/Squadra.page| archivedate= 25 February 2009| deadurl= no}}</ref>
+| shortname  =
+| founded    = {{ubl|{{Start date and age|df=yes|29 August 1926}}|{{start date and age|df=yes|2002|8}} as ''A.C. Fiorentina e Florentia Viola''}}
+| owner      = {{aligned table|fullwidth=y|style=text-align: left; font-size: 100%;|[[Diego Della Valle]]|(97%)|[[Andrea Della Valle]]|({{0}}1%)|treasury shares {{nowrap|(owned by Firenze Viola)}}|({{0}}2%)}}
+| chrtitle   = Executive Chairman
+| chairman   = [[Mario Cognigni]]
+| mgrtitle   = Head coach
+| manager    = [[Stefano Pioli]]
+| league     = {{Italian football updater|Fiorentina}}
+| season     = {{Italian football updater|Fiorentina2}}
+| position   = {{Italian football updater|Fiorentina3}}
+| website    = http://www.violachannel.tv/
+|stemma kit y= 56h
+|stemma kit x= 14
+}}
+
+'''ACF Fiorentina [[Società per azioni|S.p.A.]]''',<ref name="fiorentina_society" /><ref name="fiorentina_society_legacalcio" /> commonly referred to as simply '''Fiorentina''' {{IPA-it|fjorenˈtiːna|}}, is a professional [[Football in Italy|Italian football]] club from [[Florence]], Tuscany. Founded by a merger in 1926, and refounded in 2002 following bankruptcy, Fiorentina have played at the top level of Italian football for the majority of their existence; only four clubs have played in more [[Serie A]] seasons.
+
+Fiorentina has won two [[List of Italian football champions|Italian Championships]], in [[1955–56 Serie A|1955–56]] and again in [[1968–69 Serie A|1968–69]], as well as six [[Coppa Italia]] trophies and one [[Supercoppa Italiana]]. On the [[UEFA|European stage]], Fiorentina won the [[UEFA Cup Winners' Cup]] in [[1960–61 European Cup Winners' Cup|1960–61]] and lost the final one year later. They finished runners-up in the [[1956–57 European Cup]], losing against [[Real Madrid C.F.|Real Madrid]], and also came close to winning the [[1989–90 UEFA Cup]], finishing as runners-up against [[Juventus F.C.|Juventus]] after losing the first leg in [[Turin]] and drawing in the second one in [[Avellino]].
+
+Fiorentina is one of the thirteen European teams that played the finals in all three major continental competitions: the Champions League (1956–1957, the first Italian team to reach the final in the top continental competition), the UEFA Cup Winners (1960–1961 and 1961–1962) and the UEFA Cup (1989–1990).
+
+Since 1931, the club have played at the [[Stadio Artemio Franchi]], which currently has a capacity of 43,147. The stadium has used several names over the years and has undergone several renovations. Fiorentina are known widely by the nickname ''Viola'', a reference to their distinctive purple colours.
