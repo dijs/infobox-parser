@@ -20,6 +20,7 @@ const dataTypes = [
   coords,
   marriages,
   birthDates,
+  deathDates,
   unbulletedLists,
   url,
   // other needs to always be after specific data dypes
