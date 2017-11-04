@@ -8,6 +8,7 @@ import plainLists from './plainLists';
 import marriages from './marriages';
 import other from './other';
 import birthDates from './birthDates';
+import deathDates from './deathDates';
 import url from './url';
 import createDataTypeHandler from './dataType';
 
