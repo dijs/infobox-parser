@@ -1,0 +1,87 @@
+{{pp-semi-indef}}
+{{pp-move-indef}}
+{{Use dmy dates|date=October 2014}}
+<!--[[WP:STRONGNAT]], [[WP:DATERET]]-->
+{{Infobox person
+| name            = Freddie Mercury
+| image           = Freddie Mercury performing in New Haven, CT, November 1977.jpg
+| caption         = Mercury performing in [[New Haven, Connecticut]], in 1977 with [[Queen (band)|Queen]]
+| birth_name      = Farrokh Bulsara
+| birth_date      = {{Birth date|1946|9|5|df=y}}
+| birth_place     = [[Stone Town]], [[Sultanate of Zanzibar]] (now Tanzania)
+<!-- | origin          = [[London]], England<ref name="Highleyman_2005"/> -->
+| nationality = British<ref>[http://www.britannica.com/EBchecked/topic/711409/Freddie-Mercury, "Freddie Mercury, British singer and songwriter", ''Encyclopædia Britannica''] Retrieved 11 June 2015</ref> 
+| death_date      = {{Death date and age|1991|11|24|1946|9|5|df=y}}
+| death_place     = [[Kensington]], [[London]], England
+| death_cause     = [[Bronchopneumonia]] 
+| resting_place   =
+| module2 = {{Infobox religious biography|embed=yes
+| religion = [[Zoroastrianism]]<ref name="Sky 1992 8–9">{{harvnb|Sky|1992|pp=8–9}}</ref>}}
+| othername       = Freddie Bulsara<br>Frederick Bulsara<br>Fred Bulsara<br>
+| education       = [[St. Peter's Boys School]]
+| alma_mater      = [[West Thames College|Isleworth Polytechnic College]]<br>[[Ealing Art College]]
+| occupation      = {{flatlist|
+* Singer-songwriter
+* {{nowrap|record producer}}
+}}
+| partner         = Mary Austin (1970–76)<br>Jim Hutton (1985–91)
+| years_active    = 1969–1991
+| module          = {{Infobox musical artist|embed=yes
+| background      = solo_singer
+| genre           = [[Rock music|Rock]]
+| instrument      = {{flatlist|
+* Vocals
+* piano
+}}<!--- If you think an instrument should be listed, a discussion to reach consensus is needed first per: https://en.wikipedia.org/wiki/Template:Infobox musical_artist#instrument--->
+| voicetype = [[Baritone]], [[Tenor]], [[Contratenor]]<ref>[https://www.youtube.com/watch?v=R5vTjdOTMGE The Vocal Range of Freddie Mercury]</ref>
+| label           = {{flatlist|
+* [[Columbia Records|Columbia]]
+* [[Polydor Records|Polydor]]
+* [[EMI Records|EMI]]
+* [[Parlophone]]
+* [[Hollywood Records|Hollywood]]
+}} 
+| associated_acts = {{flatlist|
+* [[Queen (band)|Queen]]
+* [[Montserrat Caballé]]
+}}
+}}
+| signature       = Freddie Mercury signature 2.svg
+| signature_alt   = Freddie Mercury's signature
+}}
+'''Farrokh''' "'''Freddie'''" '''Mercury''' ([[Name at birth|born]] '''Bulsara'''; 5 September 1946{{snd}}24 November 1991) was a British singer, songwriter<!-- [[MOS:BIO]] – Nationality: the country of which the person was a citizen when the person became notable. Mercury, as is noted throughout the article, became notable as a British citizen/singer --> and record producer, known as the [[lead vocalist]] of the rock band [[Queen (band)|Queen]]. He was known for his flamboyant stage persona and four-[[octave]] vocal range.<ref>{{harvnb|Independent|2006}}</ref><ref>{{cite web|url=http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/article675005.ece |title=Dance: Deux the fandango |accessdate=2008-11-15 |deadurl=bot: unknown |archiveurl=https://web.archive.org/web/20110615085921/http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/article675005.ece |archivedate=15 June 2011 |df=dmy-all }}.</ref><ref name="rollingstone.com">{{cite web|url=https://www.rollingstone.com/music/lists/6027/32782|title=''RollingStone.com'' – 100 Greatest Singers of All Time|work=Rolling Stone|accessdate=27 September 2014}}</ref> Mercury wrote numerous hits for Queen, including "[[Bohemian Rhapsody]]", "[[Killer Queen]]", "[[Somebody to Love (Queen song)|Somebody to Love]]", "[[Don't Stop Me Now]]",  "[[Crazy Little Thing Called Love]]", and "[[We Are the Champions]]". He led a solo career while performing with Queen, and occasionally served as a producer and guest musician for other artists.
+
+Mercury was born of [[Parsi]] descent in the [[Sultanate of Zanzibar]], and grew up there and in India before moving with his family to [[Middlesex, England]], in his teens. He formed Queen in 1970 with guitarist [[Brian May]] and drummer [[Roger Taylor (Queen drummer)|Roger Taylor]]. Mercury died in 1991 at age 45 due to complications from [[HIV/AIDS#Acquired immunodeficiency syndrome|AIDS]], having confirmed the day before his death that he had contracted the disease.
+
+In 1992, Mercury was posthumously awarded the [[Brit Awards|Brit Award]] for Outstanding Contribution to British Music, and [[The Freddie Mercury Tribute Concert|a tribute concert]] was held at Wembley Stadium, London. As a member of Queen, he was inducted into the [[Rock and Roll Hall of Fame]] in 2001, the [[Songwriters Hall of Fame]] in 2003, and the [[UK Music Hall of Fame]] in 2004. In 2002, he was placed number 58 in the BBC's 2002 poll of the [[100 Greatest Britons]]. He is consistently voted one of the greatest singers in the history of [[popular music]].<ref>{{cite web|url=http://www.amiannoying.com/(S(wwb0os55dj4oeh45sg3hgt3g))/collection.aspx?collection=534|title=list|publisher=Amiannoying.com|accessdate=27 September 2014}}</ref><ref name=AFP>''[[Classic Rock (magazine)|Classic Rock]],'' "50 Greatest Singers in Rock," May 2009</ref><ref name="rollingstone.com"/><ref>{{cite web|last=Greg |first=Prato |url={{Allmusic|class=artist|id=p4899|pure_url=yes}} |title=Freddie Mercury biography |work=AllMusic |accessdate=24 January 2011}}</ref>
+
+== Early life ==
+[[File:Freddie Mercury's birthplace.jpg|thumb|upright|The house in [[Zanzibar]] where Mercury lived in his early years]]
+
+Mercury (born Farrokh Bulsara; {{lang-gu|ફારોખ બલસારા}}, ''Pharōkh Balsārā‌'') was born in the [[British protectorate]] of [[Sultanate of Zanzibar]], East Africa (now part of [[Tanzania]]).<ref name="mr-mercury.co.uk">[https://web.archive.org/web/20080228103923/http://mr-mercury.co.uk/Images/Birthcertificatefreddie.jpg Birth certificate] mr-mercury.co.uk</ref><ref name="inourstar.com">{{cite web|url=http://www.inoutstar.com/news/Freddie-Mercury-real-name-Farrokh-Bulsara-1876.html |title=Freddie Mercury (real name Farrokh Bulsara) Biography |publisher=Inout Star |accessdate=11 July 2010|archiveurl=https://web.archive.org/web/20110810151824/http://www.inoutstar.com/news/Freddie-Mercury-real-name-Farrokh-Bulsara-1876.html|archivedate=10 August 2011}}</ref> His parents, Bomi (1908–2003) and Jer Bulsara (1922–2016),{{efn|The Bulsara family gets its name from Bulsar, a city and district that is now in the Indian state of [[Gujarat]] and is today officially known as [[Valsad]]. In the 17th century, Bulsar was one of the five centres of the [[Zoroastrianism|Zoroastrian]] religion (the other four were also in what is today Gujarat) and consequently "Bulsara" is a relatively common name amongst Zoroastrians.}}<ref>{{cite web| url=http://www.brianmay.com/brian/brianssb/brianssbnov16a.html#07| title=Freddie's Mum - R.I.P.| author=Brian May| date=18 November 2016}}</ref> were [[Parsi]]s from the [[Gujarat]] region of the then province of [[Bombay Presidency]] in [[British Raj|British India]].{{efn|On Mercury's birth certificate,<ref name="LindaB_2000">{{harvnb|"Linda B"|2000}}.</ref> his parents defined themselves with "Nationality: British Indian" and "Race: [[Parsi people|Parsi]]". The Parsis are an originally [[Persian people|Persian]] ethnic group of the [[Indian subcontinent]] who follow [[Zoroastrianism]].}}<ref name = "LindaB_2000"/> The family surname is derived from the town of Bulsar (now known as [[Valsad]]) in southern Gujarat. As Parsis, Mercury and his family practised the [[Zoroastrianism|Zoroastrian]] religion.<ref name="Sky 1992 8–9">{{harvnb|Sky|1992|pp=8–9}}</ref> The Bulsara family had moved to [[Zanzibar Archipelago|Zanzibar]] so that his father could continue his job as a cashier at the [[Secretary of State for the Colonies|British Colonial Office]]. He had a younger sister, Kashmira.<ref>{{Cite web|url=http://www.queenonline.com/en/the-band/interviews/freddie-mercury-1/the-great-pretender/|title=The Great Pretender - Interview with Freddie's sister Kashmira (The Mail On Sunday, 26th November 2000)|last=|first=|date=|website=Queen Online|access-date=April 10, 2017}}</ref>
+
+Mercury spent most of his childhood in India and began taking piano lessons at the age of seven.<ref>[https://web.archive.org/web/20100808050139/http://www.queenonline.com/history/35 Queen Online – History: Freddie Mercury], Archived on 8 August 2010.</ref> In 1954, at the age of eight, Mercury was sent to study at [[St. Peter's Boys School|St. Peter's School]], a British-style boarding school for boys, in [[Panchgani]] near Bombay (now [[Mumbai]]).<ref name="Jones_1998" >{{harvnb|Jones|1998}}.</ref> At the age of 12, he formed a school band, [[The Hectics]], and [[cover version|covered]] [[rock and roll]] artists such as [[Cliff Richard]] and [[Little Richard]].<ref name="Hodkinson_2004">{{harvnb|Hodkinson|2004|pp=2,61}}.</ref> It has been said that one of his formative musical influences at the time was [[Bollywood]] singer [[Lata Mangeshkar]],<ref>{{cite news|last=Fitzpatrick|first=Liam|title=Farrokh Bulsara|url=http://www.time.com/time/asia/2006/heroes/at_bulsara.html|work=[[Time (magazine)|Time]]|accessdate=28 April 2012|archiveurl=https://web.archive.org/web/20110523230337/http://www.time.com/time/asia/2006/heroes/at_bulsara.html|archivedate=23 May 2011|year=2006}}</ref> but one of Mercury's former bandmates from the Hectics has said that "that is a lot of rubbish. The only music he listened to, and played, was Western pop music."<ref>{{cite web
+ | url = http://scroll.in/article/815380/freddie-bucky-mercury-the-12-year-old-rockstar-from-panchgani
+ | title = 'Freddie Mercury was a prodigy': Rock star's Panchgani school bandmates remember 'Bucky'
+ | last =Alikhan
+ | first =Anvar
+ | date =5 Sep 2016
+ | website =Scroll.in
+ | publisher =
+ | access-date =5 Sep 2016 }}</ref> A friend from the time recalls that he had "an uncanny ability to listen to the radio and replay what he heard on piano".<ref name="O'Donnell_2005">{{harvnb|O'Donnell|2005}}.</ref> It was also at St. Peter's where he began to call himself "Freddie", and in February 1963 he moved back to Zanzibar where he joined his parents at their flat.<ref>Lesley-Ann Jones (2012). "Mercury: An Intimate Biography of Freddie Mercury". p. 327. Simon and Schuster,</ref>
+
+[[File:FREDDIE_MERCURY_(FRED_BULSARA)_1946-1991_Singer_and_Songwriter_lived_here.jpg|thumb|upright|left|[[English Heritage]] [[blue plaque]] at 22 Gladstone Avenue, Feltham, London]]
+
+At the age of 17, Mercury and his family fled from Zanzibar for safety reasons due to the 1964 [[Zanzibar Revolution]],<ref name = "Januszczak_1996"/> in which thousands of Arabs and Indians were killed.<ref>{{Harvnb|Plekhanov|2004|p=91}}</ref> The family moved into a small house at 22 Gladstone Avenue, [[Feltham]], [[Middlesex]], England. Mercury enrolled at [[Isleworth]] Polytechnic (now [[West Thames College]]) in [[West (London sub region)|West London]] where he studied art. He ultimately earned a diploma in Art and Graphic Design at [[Ealing Art College]] (now the Ealing campus of [[University of West London]]), later using these skills to design the Queen heraldic arms. A British citizen at birth, Mercury remained so for the rest of his life.<ref name="Jones_1998" >{{harvnb|Jones|1998}}.</ref>
+
+Following graduation, Mercury joined a series of bands and sold second-hand clothes in the [[Kensington Market, London|Kensington Market]] in London with girlfriend Mary Austin. He also held a job at [[Heathrow Airport]]. Friends from the time remember him as a quiet and shy young man who showed a great deal of interest in music.<ref name=student>{{harvnb|Davis|1996|pp=1,10}}</ref> In 1969 he joined the [[Liverpool]]-based band Ibex, later renamed Wreckage. He lived briefly in a flat above the Liverpool pub, The Dovedale Towers.<ref>{{citation|last=Hodkinson|first=Mark|title=Queen The Early Years|publisher=Omnibus Press|year=1995|isbn=0-7119-6012-7|page=117}}</ref><ref>{{cite web|url=http://musicblog.merseyblogs.co.uk/2008/07/the-pub-that-hosted-john-lenno.html |title=The pub that hosted John lennon and Freddie Mercury needs your band... – Liverpool Echo – Jade's Music Blog |publisher=Musicblog.merseyblogs.co.uk |date=8 August 2008 |accessdate=8 February 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140202112938/http://musicblog.merseyblogs.co.uk/2008/07/the-pub-that-hosted-john-lenno.html |archivedate=2 February 2014 |df=dmy-all }}</ref> When this band failed to take off, he joined a second band called [[Sour Milk Sea (band)|Sour Milk Sea]]. However, by early 1970 this group had broken up as well.<ref name="Skala_2006">{{harvnb|Skala|2006}}.</ref>
+
+In April 1970 Mercury joined guitarist [[Brian May]] and drummer [[Roger Taylor (Queen drummer)|Roger Taylor]] who had previously been in a band called [[Smile (band)|Smile]]. In 1971 they were joined by bassist [[John Deacon]]. Despite reservations of the other members and [[Trident Studios]], the band's initial management, Mercury chose the name "Queen" for the new band. He later said, "It's very regal obviously, and it sounds splendid. It's a strong name, very universal and immediate. I was certainly aware of the gay connotations, but that was just one facet of it."<ref name="Highleyman_2005">{{harvnb|Highleyman|2005}}.</ref> At about the same time, he changed his surname, Bulsara, to Mercury.<ref>{{harvnb|SutcliffeHinceMack|2009|p=22}}</ref> Mercury designed Queen's logo, called the Queen crest, shortly before the release of the band's first album.<ref name="LOGO"/> The logo combines the [[zodiac]] signs of all four members: two lions for [[Leo (astrology)|Leo]] (Deacon and Taylor), a crab for [[Cancer (astrology)|Cancer]] (May), and two fairies for [[Virgo (astrology)|Virgo]] (Mercury).<ref name="LOGO"/> The lions embrace a stylised letter Q, the crab rests atop the letter with flames rising directly above it, and the fairies are each sheltering below a lion.<ref name="LOGO"/> There is also a crown inside the Q and the whole logo is over-shadowed by an enormous [[phoenix (mythology)|phoenix]]. The whole symbol bears a passing resemblance to the [[Royal coat of arms of the United Kingdom]], particularly with the lion supporters.<ref name="LOGO">{{cite web |url=http://www.famouslogos.net/queen-logo |title=Queen Logo|publisher=Famouslogos.net |accessdate=1 June 2016}}</ref>
+
+== Career ==
+=== Singer ===
+[[File:FreddieMercurySinging1977.jpg|thumb|left|180px|Freddie Mercury in 1977]]
+[[File:Freddie Mercury range (F2-F6, with falsetto).svg|thumb|right|130px|Mercury's known vocal range]]
+Although Mercury's speaking [[voice]] naturally fell in the [[baritone]] range, he delivered most songs in the [[tenor]] range.<ref>{{Citation |author1=Evans, David |author2=Peter Freestone |title=Freddie Mercury: an intimate memoir by the man who knew him best |publisher=Omnibus |location=London |year=2001 |url=https://books.google.com/?id=AH8zZsbmB98C&pg=PA108#v=onepage&q|pages= 108–9 |isbn=0-7119-8674-6 }}</ref> His known vocal range extended from [[Bass (voice type)|bass]] low F ([[Scientific pitch notation|F2]]) to [[soprano]] high F (F6).<ref name="soto">{{Citation|last=Soto-Morettini|first=D.|title=Popular Singing: A Practical Guide To: Pop, Jazz, Blues, Rock, Country and Gospel|year=2006|publisher=A & C Black|isbn=978-0713672664}}</ref> He could [[Belting (music)|belt]] up to [[tenor]] high F (F5).<ref name="soto"/> Biographer [[David Bret]] described his voice as "escalating within a few bars from a deep, throaty rock-growl to tender, vibrant tenor, then on to a high-pitched, perfect [[coloratura]], pure and crystalline in the upper reaches."<ref name="Bret_1996_26">{{harvnb|Bret|1996|p=26}}.</ref> Spanish [[soprano]] [[Montserrat Caballé]], with whom Mercury recorded an album, expressed her opinion that "the difference between Freddie and almost all the other rock stars was that he was selling the voice".<ref name="Cain_2006">{{harvnb|Cain|2006}}.</ref> She adds, <blockquote>His technique was astonishing. No problem of [[tempo]], he sang with an incisive sense of rhythm, his vocal placement was very good and he was able to glide effortlessly from a register to another. He also had a great musicality. His phrasing was subtle, delicate and sweet or energetic and slamming. He was able to find the right colouring or expressive nuance for each word.<ref name="soto"/></blockquote>
+
+[[The Who]] lead singer [[Roger Daltrey]] called Mercury "the best virtuoso rock 'n' roll singer of all time. He could sing anything in any style. He could change his style from line to line and, God, that's an art. And he was brilliant at it."<ref>O'Donnell, Jim (2013). Queen Magic: Freddie Mercury Tribute and Brian May Interview</ref>
