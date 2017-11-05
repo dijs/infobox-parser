@@ -8,6 +8,7 @@ import plainLists from './plainLists';
 import marriages from './marriages';
 import other from './other';
 import birthDates from './birthDates';
+import deathDates from './deathDates';
 import url from './url';
 import createDataTypeHandler from './dataType';
 
@@ -19,6 +20,7 @@ const dataTypes = [
   coords,
   marriages,
   birthDates,
+  deathDates,
   unbulletedLists,
   url,
   // other needs to always be after specific data dypes
