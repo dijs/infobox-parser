@@ -10,6 +10,7 @@ import other from './other';
 import birthDates from './birthDates';
 import deathDates from './deathDates';
 import url from './url';
+import website from './website';
 import createDataTypeHandler from './dataType';
 
 const dataTypes = [
@@ -22,6 +23,7 @@ const dataTypes = [
   birthDates,
   deathDates,
   unbulletedLists,
+  website,
   url,
   // other needs to always be after specific data dypes
   other,

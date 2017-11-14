@@ -1,0 +1,68 @@
+{{Geobox|Protected area
+| name = Cedar Bluff State Park
+| category = [[List of Kansas state parks|Kansas State Park]]
+| image = Cedarblufflimestone.jpg
+| image_caption = Limestone on the edge of Cedar Bluff
+| image_size = 280
+| country = {{flag|United States}}
+| state = {{flag|Kansas}}
+| region_type = County
+| region = Trego County, Kansas
+| location = 
+| elevation_imperial = 2185
+| elevation_round = 0
+| elevation_note = <ref name=gnis>{{cite gnis|2625190|Cedar Bluff State Park Office}}</ref>
+| coordinates = {{coord|38|48|41|N|99|43|57|W|region:US-KS_dim:3000|display=inline,title}}
+| coordinates_note = <ref name=gnis/>
+| highest_coordinates = 
+| lowest_coordinates = 
+| management_coordinates = 
+| government_coordinates = 
+| area_unit = acre
+| area_imperial = 850
+| area_round = 1
+| established_type = Established
+| established = 1962
+| management_body = Kansas Department of Wildlife, Parks and Tourism
+| map_locator = Kansas
+| map = Kansas Locator Map.PNG | <!-- for valid images, see Template:Geobox locator Kansas -->
+| map_caption = Location in Kansas
+| map_size = 280
+| website = [http://ksoutdoors.com/State-Parks/Locations/Cedar-Bluff Cedar Bluff State Park]
+}}
+
+'''Cedar Bluff State Park''' is a public recreation area located {{convert|21|mi}} southeast of [[WaKeeney, Kansas|WaKeeney]] and {{convert|23|mi}} southwest of [[Ellis, Kansas|Ellis]] in [[Trego County, Kansas|Trego County]], [[Kansas]], [[United States]].
+
+The [[state park]] is divided into two areas, comprising {{convert|850|acre|ha}}, straddling the {{convert|6800|acre|ha|adj=on}} [[Cedar Bluff Reservoir]]. The Bluffton Area—{{convert|300|acre|ha}} on the north shore—is the most developed and receives extensive use. The Page Creek Area—{{convert|500|acre|ha}} on the south shore—offers primitive camping as well as 36 utility sites.<ref name=kdwpt/> West of the Page Creek Area are the [[juniper]]-lined, {{convert|100|ft|m|adj=mid|-tall}} [[limestone]] [[Hill|bluffs]] from which the reservoir's name was derived (junipers were often misidentified as "cedars" by early settlers).
+
+Threshing Machine Canyon, the site of an 1850s Native American attack on a wagon train bearing a [[threshing machine]], is accessed by a road west of the park. In the historic [[canyon]] one can find carvings dating back to the mid-19th century.<ref name=kstourism/>
+
+==Gallery==
+<gallery mode=packed caption="Views of Cedar Bluff Reservoir">
+File:Cedarbluffmudflat.jpg
+File:Cedarbluffreservoir.jpg
+File:Cedarbluffreservoir2.jpg
+</gallery>
+
+==See also==
+* [[List of Kansas state parks]]
+* [[List of lakes, reservoirs, and dams in Kansas]]
+* [[List of rivers of Kansas]]
+
+==References==
+{{reflist|refs=
+<ref name=kdwpt>{{cite web |url=http://ksoutdoors.com/State-Parks/Locations/Cedar-Bluff |title=Cedar Bluff State Park |publisher=Kansas Department of Wildlife, Parks and Tourism |accessdate=November 22, 2012}}</ref>
+
+<ref name=kstourism>{{cite web |url=https://www.travelks.com/listing/cedar-bluff-reservoir-state-park-and-wildlife-area/665/ |title=Cedar Bluff Reservoir, State Park, and Wildlife Area |publisher=Kansas Office of Tourism & Travel |accessdate=May 24, 2017}}</ref>
+}}
+
+==External links==
+{{commons category|Cedar Bluff State Park}}
+*[http://ksoutdoors.com/State-Parks/Locations/Cedar-Bluff Cedar Bluff State Park] Kansas Department of Wildlife, Parks and Tourism
+*[http://ksoutdoors.com/State-Parks/Locations/Cedar-Bluff/Cedar-Bluff-Gallery/Cedar-Bluff-Reservoir-Map Cedar Bluff Reservoir Map] Kansas Department of Wildlife, Parks and Tourism
+
+
+{{Protected Areas of Kansas}}
+
+[[Category:State parks of Kansas]]
+[[Category:Protected areas of Trego County, Kansas]]
