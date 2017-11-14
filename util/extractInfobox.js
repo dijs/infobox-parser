@@ -25,8 +25,9 @@ const infoBoxStartPattern = /{{\w*box/;
 export default function extractInfobox(source) {
 	const startMatch = source.match(infoBoxStartPattern);
 	if (!startMatch) {
-		// May not have a infobox at all
-		return '';
+		// May not have a a proper infobox wrapper, let's use the entire source
+		// by default
+		return source;
 	}
 	const startIndex = startMatch.index;
 	const withStart = source.substring(startIndex);
