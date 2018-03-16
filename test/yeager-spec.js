@@ -9,7 +9,7 @@ describe('Should Parse Chuck Yeager\'s Information', () => {
     properties.should.have.property('alt', 'Brigadier General Charles Elwood Yeager');
   });
   it('age', () => {
-    properties.birthDate.should.have.property('age', 94);
+    properties.birthDate.should.have.property('age', 95);
   });
   it('birthPlace', () => {
     properties.should.have.property('birthPlace', 'Myra, West Virginia');
