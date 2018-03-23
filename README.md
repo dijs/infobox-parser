@@ -16,7 +16,12 @@ parseInfo(`
 |name      = Bruce Wayne
 |hero      = y
 }}`);
-// Outputs { hero: true, name: 'Bruce Wayne' }
+// Outputs {
+	general: {
+		hero: true,
+		name: 'Bruce Wayne'
+	}
+}
 ```
 
 #### Support

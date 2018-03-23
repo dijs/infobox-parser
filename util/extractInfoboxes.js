@@ -22,15 +22,34 @@ function findOuterIndex(source) {
 
 const infoBoxStartPattern = /{{\w*box/;
 
-export default function extractInfobox(source) {
+function parse(source) {
 	const startMatch = source.match(infoBoxStartPattern);
 	if (!startMatch) {
 		// May not have a a proper infobox wrapper, let's use the entire source
 		// by default
-		return source;
+		return { data: source, sourceLeft: null };
 	}
 	const startIndex = startMatch.index;
 	const withStart = source.substring(startIndex);
 	const outerIndex = findOuterIndex(withStart);
-	return withStart.substring(0, outerIndex);
+	if (!outerIndex) {
+		return { data: source, sourceLeft: null };
+	}
+	const data = withStart.substring(0, outerIndex);
+	const sourceLeft = source.substring(outerIndex);
+	const sourceLeftHasMatch = !!sourceLeft.match(infoBoxStartPattern);
+	return {
+		data,
+		sourceLeft: sourceLeftHasMatch ? sourceLeft : null
+	};
+}
+
+export default function extractInfoboxes(source) {
+  let parsed = parse(source);
+  const infoboxes = [parsed.data];
+  while(parsed.sourceLeft) {
+  	parsed = parse(parsed.sourceLeft);
+  	infoboxes.push(parsed.data);
+  }
+  return infoboxes;
 }

@@ -6,6 +6,6 @@ describe('Should Parse FC Copenhagen Information', () => {
   const source = fs.readFileSync('./data/fc-copenhagen.txt', 'utf8');
   const properties = parse(source);
   it('main image', () => {
-    properties.should.have.property('image', 'File:FC København.svg');
+    properties.general.should.have.property('image', 'File:FC København.svg');
   });
 });
