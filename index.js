@@ -6,22 +6,30 @@ import extractInfoboxes from './util/extractInfoboxes';
 import cleanSource from './util/cleanSource';
 
 export default function (source, options) {
-	const infoboxes = extractInfoboxes(source);
-  return infoboxes.map(infobox => {
+	const infoboxes = extractInfoboxes(source).map(infobox => {
 	  const cleanedSource = cleanSource(infobox);
 	  const data = extractData(cleanedSource);
 	  const props = extractProperties(data, options);
 	  return transformProperties(props);  	
-  }).reduce((info, next) => {
+  });
+
+  if (!infoboxes.length) return {};
+
+  const res = {
+  	// First infobox should be the main one
+  	general: infoboxes.shift()
+  };
+
+  infoboxes.forEach(next => {
   	const type = next.type;
 		if (type) {
-			delete next.type;
-			info[camelCase(type)] = next;
+			res[camelCase(type)] = next;
 		} else {
-			Object.assign(info, {
-				general: Object.assign({}, info.general, next)
+			Object.assign(res, {
+				general: Object.assign({}, res.general, next)
 			});
 		}
-		return info;
-	}, {});
+	});
+
+	return res;
 };
