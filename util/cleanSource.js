@@ -7,7 +7,7 @@ export default function cleanSource(source) {
     .replace(/<ref(\s\w+=[^>]+)?>.*<\/ref>/g, '')
     .replace(/<ref(\s\w+=[^>]+)?\s?\/>/g, '')
     // HTML comments
-    .replace(/<!--(.*?)-->/g, '')
+    .replace(/<!--([\s\S]*?)-->/g, '')
     .replace(/&nbsp;/g, ' ')
     .replace('|\'\'See list\'\'', '');
 }
