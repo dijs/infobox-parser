@@ -5,6 +5,10 @@ export default function cleanSource(source) {
     // This is a little iffy
     .replace(/<br\s?\/?>/g, ',')
     .replace(/<ref(\s\w+=[^>]+)?>.*<\/ref>/g, '')
+    .replace(/&minus;/g, '-')
+    .replace(/<sup>/g, '^')
+    .replace(/−/g, '-')
+    .replace(/<\/sup>/g, '')
     .replace(/<ref(\s\w+=[^>]+)?\s?\/>/g, '')
     // HTML comments
     .replace(/<!--([\s\S]*?)-->/g, '')
