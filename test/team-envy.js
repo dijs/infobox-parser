@@ -3,7 +3,7 @@ import fs from 'fs';
 import parse from '../index';
 
 // Source: https://github.com/dijs/wiki/issues/94
-describe('Tables', () => {
+describe('Table Parsing', () => {
   const source = fs.readFileSync('./data/team-envy.txt', 'utf8');
   it('should be parsed', () => {
     const data = parse(source)

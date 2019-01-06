@@ -1,7 +1,7 @@
 const headingPattern = /[^=]==\s?([\w\s]+)\s?==/g
 const subheadingPattern = /===([\w\s]+)===/g
-const tableStartPattern = /{{list.+Start.*}}/g
-const tableEndPattern = /{{list.+End.*}}/g
+const tableStartPattern = /{{list.+start.*}}/gi
+const tableEndPattern = /{{list.+end.*}}/gi
 const rowPattern = /{{(.*)}}/g
 const rowPatternSingle = /{{(.*)}}/
 
@@ -59,6 +59,9 @@ function getTables(text) {
 	const tableEnds = getMatches(text, tableEndPattern);
 	return tableStarts.map((tableStart, index) => {
 		const tableEnd = tableEnds[index];
+		if (!tableEnd) {
+			throw new Error('[Table Parsing] Failed to pair table');
+		}
 		const raw = text
 				.substring(tableStart.end, tableEnd.start)
 				.trim()
