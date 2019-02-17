@@ -5,6 +5,7 @@ import transformProperties from './util/transformProperties';
 import extractInfoboxes from './util/extractInfoboxes';
 import cleanSource from './util/cleanSource';
 import parseTables from './util/parseTables';
+import parseLists from './util/parseLists';
 
 export default function (source, options) {
 	const infoboxes = extractInfoboxes(source).map(infobox => {
@@ -33,6 +34,7 @@ export default function (source, options) {
 	});
 
 	res.tables = parseTables(source);
+	res.lists = parseLists(source);
 
 	return res;
 };

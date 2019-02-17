@@ -1,100 +1,138 @@
-const headingPattern = /[^=]==\s?([\w\s]+)\s?==/g
-const subheadingPattern = /===([\w\s]+)===/g
-const tableStartPattern = /{{list.+start.*}}/gi
-const tableEndPattern = /{{list.+end.*}}/gi
-const rowPattern = /{{(.*)}}/g
-const rowPatternSingle = /{{(.*)}}/
+import camelcase from 'camelcase';
 
-function getHeadings(text) {
-	let match;
-	const headings = [];
-	while ((match = headingPattern.exec(text)) !== null) {
-		headings.push({
-			heading: match[1].trim(),
-			start: match.index,
-			end: match.index + match[0].length
-		})
-	}
-	return headings;
+const tableStartPattern = /{\|(.*)\n?/;
+const tableEndPattern = /\n\|}/;
+const headersPattern = /!\s?(.*)/g;
+const rowPattern = /\|-/;
+const cellSeparatorPattern = /(?:\n\|)|(?:\|\|)/;
+const linkPattern = /\[\[([^\]]+)\]\]/g;
+const linkNamePattern = /^.*\|/;
+const inlineHeaderPattern = '!!';
+const actionPattern = /{{anchor\|(.*)}}/g;
+const ticks = /'''/g;
+const rowSpanCountPattern = /rowspan="(\d+)"/;
+
+const stripLinks = source => source.replace(linkPattern, (m, capture) => {
+    const result = capture.replace(linkNamePattern, '').trim();
+    return result || capture;
+})
+const removeActions = source => source.replace(actionPattern, '')
+const transformCell = source => stripLinks(removeActions(source || ''))
+    .replace(rowSpanCountPattern, '')
+    .replace(linkNamePattern, '')
+    .replace(ticks, '')
+    .trim()
+
+const transformCells = row => row.split(cellSeparatorPattern).map(transformCell)
+
+const findIndex = (t, p) => {
+    const m = t.match(p);
+    return m ? m.index : -1;
 }
 
-function getSubheadings(text) {
-	let match;
-	const subheadings = [];
-	while ((match = subheadingPattern.exec(text)) !== null) {
-		subheadings.push({
-			heading: match[1].trim(),
-			start: match.index,
-			end: match.index + match[0].length
-		})
-	}
-	return subheadings;
+const findTableStart = source => {
+    const m = source.match(tableStartPattern);
+    return m ? m.index + m[0].length : -1;
+}
+const findTableEnd = source => findIndex(source, tableEndPattern)
+
+const getHeaders = source => {
+    const headers = [];
+    let match;
+    while (match = headersPattern.exec(source)) {
+        headers.push(...match[1].split(inlineHeaderPattern).map(transformCell));
+    }
+    return headers;
 }
 
-function getMatches(text, pattern) {
-	let match;
-	const matches = [];
-	while ((match = pattern.exec(text)) !== null) {
-		matches.push({
-			value: match[1] && match[1].trim(),
-			start: match.index,
-			end: match.index + match[0].length
-		})
-	}
-	return matches;
+function transformRowSpan(rows) {
+    return rows
+        .map(transformCells)
+        .reduce((merged, cells, index) => {
+            const k = index === 0 ? 0 : 1;
+            for (let i = 0; i < cells.length; i++) {
+                if (!merged[i + k]) merged[i + k] = {};                        
+                if (cells[i]) {
+                    merged[i + k][cells[i]] = 1;
+                }
+            }
+            return merged;
+        }, [])
+        .map(o => Object.keys(o).join(','))
+        .join(' || ');
 }
 
-function parseTableData(raw) {
-	const matches = raw.match(rowPattern);
-	if (!matches) return [];
-	return matches.map(el => {
-		const [,text] = el.match(rowPatternSingle);
-		const columns = text.trim().split('|');
-		return columns.slice(1);
-	});
-}
+const getRows = source => {
+    const raw = source
+        .split(rowPattern)
+        .map(e => e.replace(/^.*\n+?\|/, '').trim())
+        .filter(e => e);
 
-function getTables(text) {
-	const tableStarts = getMatches(text, tableStartPattern);
-	const tableEnds = getMatches(text, tableEndPattern);
-	return tableStarts.map((tableStart, index) => {
-		const tableEnd = tableEnds[index];
-		if (!tableEnd) {
-			throw new Error('[Table Parsing] Failed to pair table');
-		}
-		const raw = text
-				.substring(tableStart.end, tableEnd.start)
-				.trim()
-				.replace(/'''/g, '');
-		return {
-			rows: parseTableData(raw),
-			start: tableStart.start,
-			end: tableEnd.end
-		}
-	});
-}
+    const rows = [];
+    let spanN = 0;
+    let spanCount = 0;
+    let rowsInSpan = [];
 
-function last(list) {
-	return list.length ? list[list.length - 1] : undefined;
+    for (const row of raw ){
+        const match = row.match(rowSpanCountPattern);
+        if (match) {
+            spanN = 0;
+            spanCount = parseInt(match[1]);
+            rowsInSpan = [];
+        }
+        if (spanN < spanCount) {            
+            rowsInSpan.push(row);
+            if (++spanN === spanCount) {
+                rows.push(transformRowSpan(rowsInSpan));
+            }
+        }else {
+            rows.push(row)
+        }
+    }
+
+    return rows;
+}
+    
+const getNextTable = source => {
+    let left = source;
+    const start = findTableStart(left);
+    
+    if (start === -1) return null;    
+    left = left.substring(start);
+    
+    const end = findTableEnd(left);
+
+    if (end === -1) return null;
+    left = left.substring(0, end);
+
+    const rows = getRows(left);
+
+    if (!rows.length) return null;
+    
+    const headers = getHeaders(rows[0]);
+
+    if (!headers.length) return null;
+
+    const data = rows.slice(1).map(transformCells).map(row => {
+        return headers.reduce((obj, key, index) => {
+            obj[camelcase(key)] = row[index];
+            return obj;
+        }, {});
+    });
+
+    return { data, end: start + end };
 }
 
 export default function (source) {
-	const headings = getMatches(source, headingPattern);
-	const subheadings = getMatches(source, subheadingPattern);
-	const tables = getTables(source);
-
-	tables.forEach(table => {
-		const headingsBefore = headings.filter(heading => {
-			return heading.end < table.start;
-		}).map(e => e.value)
-		table.heading = last(headingsBefore);
-		const subheadingsBefore = subheadings.filter(subheading => {
-			return subheading.end < table.start;
-		}).map(e => e.value)
-		table.subheading = last(subheadingsBefore);
-		delete table.start;
-		delete table.end;
-	});
-
+    const tables = [] ;
+    let left = source;
+    let result = null;
+    while(result = getNextTable(left)) {
+        if (!result) {
+            return tables;
+        }        
+        tables.push(result.data);
+        left = left.substring(result.end);
+    }
 	return tables;
 }

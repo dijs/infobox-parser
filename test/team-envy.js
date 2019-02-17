@@ -3,11 +3,11 @@ import fs from 'fs';
 import parse from '../index';
 
 // Source: https://github.com/dijs/wiki/issues/94
-describe('Table Parsing', () => {
+describe('List Parsing', () => {
   const source = fs.readFileSync('./data/team-envy.txt', 'utf8');
   it('should be parsed', () => {
     const data = parse(source)
-    data.tables[0].should.deepEqual({
+    data.lists[0].should.deepEqual({
     	heading: "Player Roster",
       subheading: "Active",
   		rows: [
@@ -18,7 +18,7 @@ describe('Table Parsing', () => {
 				['SiLLY','us','Justin Fargo-Palmer','SMG Support','joined=2018-09-22']
   		]
     });
-    data.tables[4].should.deepEqual({
+    data.lists[4].should.deepEqual({
       heading: "Organization",
       subheading: "Former",
       rows: [

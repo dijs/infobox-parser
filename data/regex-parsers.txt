@@ -1,0 +1,49 @@
+== Regular languages ==
+[[Regular language]]s are a category of languages (sometimes known as [[Chomsky_hierarchy|Chomsky Type 3]]) which can be matched by a state machine (more specifically, by a [[deterministic finite automaton]]) or, equivalently, by a [[regular expression]]. In particular, a regular language can match constructs like "A follows B", "Either A or B", "A, followed by zero or more instances of B", but cannot match constructs which require consistency between non-adjacent elements, such as "some instances of A followed by the same number of instances of B", and also cannot express the concept of recursive "nesting" ("every A is eventually followed by a matching B"). A classic example of a problem which a regular grammar cannot handle is the question of whether a given string contains correctly-nested parentheses. (This is typically handled by a Chomsky Type 2 grammar, also known as a [[context-free grammar]].)
+{{see also|List of lexer generators}}
+{| class="wikitable sortable" style="text-align: center; font-size: 85%; width: auto;"
+|-
+! Name !!Lexer algorithm !! [[programming language|Output languages]] !! Grammar, code !! Development platform !! [[software license|License]]
+|-
+| Alex || [[deterministic finite automaton|DFA]] || [[Haskell (programming language)|Haskell]] || mixed || all|| [[BSD licenses|BSD]]
+|-
+| AnnoFlex || [[deterministic finite automaton|DFA]] || [[Java (programming language)|Java]] || mixed || [[Java Virtual Machine]] || [[BSD licenses|BSD]]
+|-
+| AustenX || [[deterministic finite automaton|DFA]] || [[Java (programming language)|Java]] || separate || all || [[BSD licenses|BSD]]
+|-
+| [https://github.com/kjosib/booze-tools Booze-tools] || [[deterministic finite automaton|DFA]] || state machine is runtime-generated || mixed || [[Python (programming language)|Python]] || [[Public Domain]]
+|-
+| C# Flex || [[deterministic finite automaton|DFA]] || [[C Sharp (programming language)|C#]] || mixed || [[Common Language Runtime|.NET CLR]] || [[GNU General Public License|GNU GPL]]
+|-
+| C# Lex || [[deterministic finite automaton|DFA]] || [[C Sharp (programming language)|C#]] || mixed || [[Common Language Runtime|.NET CLR]] || ?
+|-
+| CookCC || [[deterministic finite automaton|DFA]] || [[Java (programming language)|Java]] || mixed || [[Java Virtual Machine]] || [[Apache License|Apache License 2.0]]
+|-
+| DFAlex || [[deterministic finite automaton|DFA]] || no code generation required || [[Java (programming language)|Java]] || [[Java (programming language)|Java]] || [[Apache License|Apache License 2.0]]
+|-
+| Dolphin || [[deterministic finite automaton|DFA]] || [[C++]] || separate || all || [[proprietary software|Proprietary]]
+|-
+| [[flex lexical analyzer|flex]] || [[deterministic finite automaton|DFA]] table driven || [[C (programming language)|C]], [[C++]] || mixed || all|| [[BSD licenses|BSD]]
+|-
+| gelex || [[deterministic finite automaton|DFA]] || [[Eiffel (programming language)|Eiffel]] || mixed || [[Eiffel (programming language)|Eiffel]] || [[MIT License|MIT]]
+|-
+| golex || [[deterministic finite automaton|DFA]] || [[Go (programming language)|Go]] || mixed || [[Go (programming language)|Go]]  || [[BSD licenses|BSD]]-style
+|-
+| gplex || [[deterministic finite automaton|DFA]] || [[C Sharp (programming language)|C#]] || mixed || [[Common Language Runtime|.NET CLR]] || [[BSD licenses|BSD]]-like
+|-
+| JFlex || [[deterministic finite automaton|DFA]] || [[Java (programming language)|Java]] || mixed || [[Java Virtual Machine]] || [[BSD licenses|BSD]]
+|-
+| JLex || [[deterministic finite automaton|DFA]] || [[Java (programming language)|Java]] || mixed || [[Java Virtual Machine]] || [[BSD licenses|BSD]]-like
+|-
+| [[lex programming tool|lex]]|| [[deterministic finite automaton|DFA]] || [[C (programming language)|C]] || mixed || [[POSIX]] || [[proprietary software|Proprietary]], [[CDDL]]
+|-
+| lexertl || [[deterministic finite automaton|DFA]] || [[C++]] || || all || [[GNU Lesser General Public License|GNU LGPL]]
+|-
+| LRSTAR || [[deterministic finite automaton|DFA]] || [[C++]] || separate || Windows || [[proprietary software|Proprietary]]
+|-
+| Quex || [[deterministic finite automaton|DFA]] direct code || [[C (programming language)|C]], [[C++]] || mixed || all || [[GNU Lesser General Public License|GNU LGPL]]
+|-
+| [[Ragel]] || [[deterministic finite automaton|DFA]] || [[C (programming language)|C]], [[C++]], [[Assembly language|Assembly]], [[Objective C]], [[D (programming language)|D]], [[Go (programming language)|Go]], [[Ruby (programming language)|Ruby]], [[Java (programming language)|Java]], [[C Sharp (programming language)|C#]], [[OCaml]], Crack, [[Rust (programming language)|Rust]], [[Julia (programming language)|Julia]] || mixed || all || [[GNU General Public License|GNU GPL]], [[MIT License|MIT<ref>http://www.colm.net/open-source/ragel/</ref>]][[Comparison of parser generators#cite%20note-1|<span class="mw-reflink-text">[1]</span>]][[Comparison of parser generators#cite note-1|<span class="mw-reflink-text">[1]</span>]][[Comparison of parser generators#cite note-1|<span class="mw-reflink-text">[1]</span>]]
+|-
+| [[re2c]] || [[deterministic finite automaton|DFA]] direct code || [[C (programming language)|C]] || mixed || all || [[Public domain]]
+|}
