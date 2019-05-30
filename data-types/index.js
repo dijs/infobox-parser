@@ -11,6 +11,7 @@ import birthDates from './birthDates';
 import deathDates from './deathDates';
 import url from './url';
 import website from './website';
+import convert from './convert';
 import createDataTypeHandler from './dataType';
 
 const dataTypes = [
@@ -25,6 +26,7 @@ const dataTypes = [
   unbulletedLists,
   website,
   url,
+  convert,
   // other needs to always be after specific data dypes
   other,
   // Lists should be last

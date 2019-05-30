@@ -7,6 +7,8 @@ export default function cleanSource(source) {
     .replace(/<ref(\s\w+=[^>]+)?>.*<\/ref>/g, '')
     .replace(/&minus;/g, '-')
     .replace(/<sup>/g, '^')
+    // Remove shortened footnote templates
+    .replace(/\{\{sfn\|([^\}\}]+)\}\}/g, '')
     .replace(/−/g, '-')
     .replace(/<\/sup>/g, '')
     .replace(/<ref(\s\w+=[^>]+)?\s?\/>/g, '')
