@@ -8,6 +8,7 @@ import plainLists from './plainLists';
 import marriages from './marriages';
 import other from './other';
 import birthDates from './birthDates';
+import labeledDates from './labeledDates';
 import deathDates from './deathDates';
 import url from './url';
 import website from './website';
@@ -22,6 +23,7 @@ const dataTypes = [
   coords,
   marriages,
   birthDates,
+  labeledDates,
   deathDates,
   unbulletedLists,
   website,

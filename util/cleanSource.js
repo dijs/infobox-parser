@@ -9,6 +9,8 @@ export default function cleanSource(source) {
     .replace(/<sup>/g, '^')
     // Remove shortened footnote templates
     .replace(/\{\{sfn\|([^\}\}]+)\}\}/g, '')
+    // Remove explanatory footnotes
+    .replace(/\{\{efn\|([^\}\}]+)\}\}/g, '')
     .replace(/−/g, '-')
     .replace(/<\/sup>/g, '')
     .replace(/<ref(\s\w+=[^>]+)?\s?\/>/g, '')
