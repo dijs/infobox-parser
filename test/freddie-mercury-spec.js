@@ -20,4 +20,9 @@ describe('Should Parse Freddie Mercury\'s Information', () => {
   it('associatedActs', () => {
     properties.general.associatedActs.should.containEql('Queen (band)');
   });
+  it('occupation', () => {
+    properties.general.occupation.should.containEql('Singer-songwriter');
+    properties.general.occupation.should.containEql('record producer');
+    properties.general.occupation.should.not.containEql('nowrap');
+  });
 });

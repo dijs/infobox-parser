@@ -14,6 +14,8 @@ export default function cleanSource(source) {
     .replace(/−/g, '-')
     .replace(/<\/sup>/g, '')
     .replace(/<ref(\s\w+=[^>]+)?\s?\/>/g, '')
+    // Replace nowrap template with its content
+    .replace(/\{\{\s*nowrap\s*\|([^\n\}]+)\}\}/g, "$1")
     // HTML comments
     .replace(/<!--([\s\S]*?)-->/g, '')
     .replace(/&nbsp;/g, ' ')
