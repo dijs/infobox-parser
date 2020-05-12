@@ -5,14 +5,15 @@ import transformProperties from './util/transformProperties';
 import extractInfoboxes from './util/extractInfoboxes';
 import cleanSource from './util/cleanSource';
 import parseTables from './util/parseTables';
+import parseBsTables from './util/parseBsTables';
 import parseLists from './util/parseLists';
 
 export default function (source, options) {
 	const infoboxes = extractInfoboxes(source).map(infobox => {
 	  const cleanedSource = cleanSource(infobox);
-	  const data = extractData(cleanedSource);
-	  const props = extractProperties(data, options);
-	  return transformProperties(props);  	
+		const data = extractData(cleanedSource);
+		const props = extractProperties(data, options);
+		return transformProperties(props);
   });
 
   if (!infoboxes.length) return {};
@@ -34,6 +35,7 @@ export default function (source, options) {
 	});
 
 	res.tables = parseTables(source);
+	res.bsTables = parseBsTables(source);
 	res.lists = parseLists(source);
 
 	return res;

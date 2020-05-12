@@ -1,0 +1,133 @@
+{{Infobox Ligne ferroviaire
+ | surtitre              = Ligne de
+ | nomligne              = Montluçon à Gouttières
+ | origine               = 
+ | destination           = 
+ | via                   = 
+ | via2                  = 
+ | image                 = NerisLesBainsGare.jpg
+ | image-desc            = Gare de Néris
+ | carte                 = 
+ | pays                  = France
+ | villes                = 
+ | mise en service       = 1931
+ | mise en service2      = 
+ | électrification       = 
+ | électrification2      = 
+ | fermeture             = 1969
+ | fermeture2            = 
+ | concessionnaire1      = [[Compagnie du chemin de fer de Paris à Orléans|PO]]
+ | dateconc1             = 1913
+ | finconc1              = 1937
+ | concessionnaire2      = [[Société nationale des chemins de fer français|SNCF]]
+ | dateconc2             = 1938
+<!--et ainsi de suite jusqu'à
+ | concessionnaire8      =
+ | dateconc8             = -->
+ | concessionnaireact    = Ligne déclassée
+ | dateconcact           = 1972
+ | numéro                = 708000
+ | longueur              = 43,327
+ | vitesse               =
+ | vitesse conception    =
+ | écartement            = normal
+ | électrifié            = 
+ | tension               = 
+ | fréquence             = 
+ | pente                 = 25
+ | nombre de voies act   = 
+ | nombre de voies hist  = 1
+ | signalisation         = 
+ | propriétaire          = 
+ | exploitants           = 
+ | trafic                = 
+ | schéma                =
+{{BS-table}}
+{{BSbis|LSTR|||''[[Ligne de Bourges à Miécaze]]''|vers [[Gare de Bourges|Bourges]]}}
+{{BS5bis|LSTRq|STRq|ABZg+r|||||''[[Ligne de Montluçon à Saint-Sulpice-Laurière|Ligne de Montluçon à St-Sulpice-Laurière]]''|vers [[Gare de Saint-Sulpice-Laurière|St-Sulpice-Laurière]]}}
+{{BS3bis|WASSERq|hKRZWae|WASSERq|327,269||''Viaduc sur le [[Cher (rivière)|Cher]]''|(100m)''}}
+{{BSbis|BHF|327,617|'''[[Gare de Montluçon-Ville|Montluçon-Ville]]'''|''(207m)''}}
+{{BS5bis|||ABZgl|STRq|STR+r|328,405||''Bif d'Eygurande''}}
+{{BS5bis|LSTRq|STRq|xABZgr||STR|||''[[Ligne de Bourges à Miécaze]]''|vers [[Gare d'Eygurande - Merlines|Eygurande-Merlines]]}}
+{{BS5bis|||exSTR||LSTR|||''[[Ligne de Montluçon à Moulins]]''|vers [[Gare de Moulins-sur-Allier|Moulins]]}}
+{{BS3ebis|WASSERq|exhKRZWae|WASSERq|332,721||''Viaduc de Sainte-Agathe (ruisseau)''|(165m)}}
+{{BS3ebis|WASSERq|exhKRZWae|WASSERq|334,043||''Viaduc de Perassier (ruisseau)''|(215m)}}
+{{BSebis|exhSTRae|334,759||''Viaduc des Arcades''|(133m)}}
+{{BSebis|exhSTRae|334,947||''Viaduc de Néris''|(113m)}}
+{{BSebis|exBHF|335,387|[[Gare de Néris-les-Bains|Néris-les-Bains]]|''(348m)''}}
+{{BSebis|exBHF|339,9xx|[[Durdat-Larequille]]|''(450m)''}}
+{{BSebis|exBHF|345,5xx|[[Terjat]]|''(515m)''}}
+{{BSebis|exBHF|351,9xx|[[Marcillat-en-Combraille|Marcillat]]|''(490m)''}}
+{{BSebis|exHST|355,6xx|[[Saint-Fargeol]]|''(478m)''}}
+{{BSebis|exBHF|360,9xx|[[Pionsat]]|''(549m)''}}
+{{BS3ebis|WASSERq|exhKRZWae|WASSERq|364,8xx||''Viaduc sur la Cellette''|(90m)}}
+{{BSebis|exTUNNEL1|367,5xx||''Tunnel des Bouchauds''|(585m)}}
+{{BS5ebis|||evSHI1+l-STR+l|STRq|LSTRq|||''[[Ligne de Lapeyrouse à Volvic]]''|vers [[Gare de Lapeyrouse|Lapeyrouse]]}}
+{{BSebis|vexBHF-eBHF|{{BSkm|372,2xx|378,931}}|'''[[Gare de Gouttières|Gouttières]]'''|''(658m)''}}
+{{BSebis|eSPLe||}}
+{{BSbis|LSTR|||''[[Ligne de Lapeyrouse à Volvic]]''|vers [[Gare de Volvic|Volvic]]}}
+{{BSbis|||}}
+{{BSbis||||'''Origine du chaînage :''' Paris-Austerlitz via Vierzon}}
+{{BS-table-fin}}
+}}
+La {{terme défini|ligne de Montluçon à Gouttières}} est une ancienne [[ligne de chemin de fer]] française à écartement standard et à voie unique non électrifiée. Elle est fermée, déferrée et partiellement aménagée en [[voie verte]].
+
+== Tracé ==
+Au lieu-dit ''Saint-Argier'' sur la commune de [[Durdat-Larequille]], l'ancien [[Aqueduc|aqueduc romain]] alimentant la cité antique de [[Néris-les-Bains|Néris]] est coupé par la construction de cette voie ferrée<ref>{{Article |langue=français |auteur1=Louis Laville |titre=Les aqueducs gallo-romains de Néris |périodique=[[Revue archéologique du Centre de la France]] |date=1964 |issn= |lire en ligne=https://www.persee.fr/doc/racf_0035-0753_1964_num_3_4_1176 |pages=323-339 }}</ref>.
+
+== Histoire ==
+La loi du {{date-|17 juillet 1879}} (dite [[plan Freycinet]]) portant classement de 181 lignes de chemin de fer dans le réseau des chemins de fer d’intérêt général retient en n° 106, une ligne de « Saint-Éloi au col de Vauriat et raccordement du col de Gouttières à la ligne de Montluçon à Eygurande »<ref>{{Article|langue=fr|titre=N° 8168 - Loi qui classe 181 lignes de chemin de fer dans le réseau des chemins de fer d'intérêt général|sous-titre=17 juillet 1879|périodique=Bulletin des lois de la République Française|lieu=Paris|éditeur=Imprimerie Nationale|série=XII|volume=19|numéro=456|année=1879|pages=6 - 12|url texte=https://gallica.bnf.fr/ark:/12148/bpt6k214107p/f41.image|consulté le=12 mars 2014}}.</ref>.
+
+La [[Compagnie du chemin de fer de Paris à Orléans]] obtient par une convention signée avec le ministre des Travaux publics le {{date-|17 juin 1892}} la concession à titre définitif de la ligne à voie métrique de Gouttières à Létrade. Cette convention a été entérinée par une loi le {{date-|20 mars 1893}}<ref>{{Article|langue=fr|titre=N°26346 - Loi qui concède diverses lignes de chemin de fer à la Compagnie du chemin de fer de Paris à Orléans|sous-titre=20 mars 1893|périodique=Bulletin des lois de la République Française|lieu=Paris|éditeur=Imprimerie Nationale|série=XII|volume=46|numéro=1546|année=1893|pages=841-846|lire en ligne = https://gallica.bnf.fr/ark:/12148/bpt6k214788p/f860.image}}.</ref>. Toutefois, ce projet ne sera pas réalisé, remplacé par une liaison directe entre Montluçon et Gouttières.
+
+Dans les [[années 1880]], la station thermale de [[Néris-les-Bains|Néris]], qui reçoit<ref name="Malleret20061">Maurice Malleret, 2006, p. 1</ref> {{formatnum:3200}} curistes pour {{formatnum:2200}} habitants, n'a pas de station de chemin de fer proche. Les curistes doivent descendre<ref name="Malleret20061"/> en [[Gare de Montluçon-Ville|gare de Montluçon]] ou à celle de [[Gare de Chamblet|Chamblet - Néris]], toutes deux nécessitant de prendre la route sur plusieurs kilomètres pour arriver à destination. Cette situation suscite plusieurs projets avant celui d'un chemin de fer de [[Montluçon]] à [[Gouttières (Puy-de-Dôme)|Gouttières]], par Néris, dont l'intérêt est souligné par la chambre de commerce dans sa séance du {{date-|14 mai 1900}}<ref name="Malleret20061"/>. Ce projet prend forme en 1910, permettant après enquête d'être déclaré d'utilité publique par une loi le {{date-|7 juillet 1913}}<ref>{{Article|langue=fr|titre=Loi portant, 1° Déclaration d'utilité publique de diverse lignes de chemin de fer d'intérêt général ; 2° approbation d'une convention provisoire, passée avec la compagnie du chemin de fer de Paris à Orléans, pour la concession d'un certain nombre de lignes d'intérêt général|périodique=Journal officiel de la République Française|lieu=Paris|éditeur=Imprimerie Nationale|numéro=184|jour=9|mois=juillet|année=1913|pages=6022 - 6023|url texte=https://gallica.bnf.fr/ark:/12148/bpt6k63607445/f2.image|consulté le=13 septembre 2014}}.</ref> et attribué à la Compagnie du chemin de fer de Paris à Orléans par la convention du {{date-|20 février 1913}}<ref name="Malleret20061"/>. Cette même convention concède à titre éventuel à la compagnie une ligne de Gouttières à Eygurande qui ne sera pas réalisée.
+
+Néanmoins il faut attendre le {{date-|16 décembre 1919}}<ref name="Malleret20061"/> pour que son tracé définitif soit approuvé, ce retard étant dû à la [[Première Guerre mondiale]]. La concession prévoyant qu'une partie des travaux – plate-forme de la voie, ouvrages d'art et maisons des gardes barrières – sont à la charge de l'État, son service des Ponts et chaussées adjuge, le {{date-|28 juillet 1919}}<ref name="Malleret20061"/>, l'ensemble de ces réalisations à l'entrepreneur [[François Mercier (entrepreneur)|François Mercier]], originaire de [[Tronget]] et établi à [[Moulins (Allier)|Moulins]]. L'entreprise exécute l'ensemble des travaux entre 1921 et 1926, la remise de ces infrastructures, à la compagnie d'Orléans, étant consignée par le procès-verbal du {{date-|11 mai 1929}}<ref name="Malleret20061"/>, établi par Rambaud, l'ingénieur chargé de superviser la ligne, et signifié à la compagnie par l'ingénieur en chef Gerdes. La compagnie, qui a la charge de réaliser les superstructures, voie ferrée et gares dont les plans ont été approuvés le {{date-|23 novembre 1928}}<ref name="Malleret20061"/>, les exécute entre 1929 et 1931.
+
+Après une circulation de reconnaissance de la ligne le {{date-|5 mai 1931}}<ref name="Malleret20062">Maurice Malleret, 2006, p. 2</ref>, la mise en service a lieu, le {{date-|15 mai 1931}}<ref name="Malleret20062"/>, bien qu'il reste encore des travaux à terminer, notamment la [[Gare de Néris-les-Bains|gare de Néris]], car l'ouverture<ref name="Malleret20062"/> de la station pour la saison thermale est un moment à ne pas manquer pour ce nouveau chemin de fer. Du fait de l'indisponibilité des autorités, une inauguration officielle a lieu en {{date-|juillet 1931}}<ref name="Malleret20063">Maurice Malleret, 2006, p. 3</ref>.
+
+La section de Pionsat à Gouttières (PK 361,300 à 372,210) est déclassée par décret le {{date-|12 novembre 1954}}<ref>{{article|titre=Décret {{n°}}54-1099 du 12 novembre 1954 portant déclassement de certaines lignes et sections de lignes de chemin de fer d’intérêt général|périodique=Journal officiel de la République Française|lien périodique=Journal officiel de la République française|jour=13|mois=11|année=1954|pages=10676-10677|issn=0373-0425|url texte=http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19541113&pageDebut=10676&pageCourante=10677}}.</ref>. La section de Montluçon à Pionsat (PK 328,713 à 361,300) est déclassée par décret le {{date-|14 janvier 1972}}<ref>{{Article|langue=fr|titre=Décret du 14 janvier 1972 portant déclassement de lignes, sections de lignes ou raccordements de chemin de fer d'intérêt général|périodique=Journal officiel de la République Française|lieu=Paris|éditeur=Imprimerie Nationale|numéro=27|jour=2|mois=février|année=1972|pages=1277 - 1278|url texte=https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000000860111&pageCourante=01277|consulté le=28 février 2016}}.</ref>.
+
+== Infrastructures ==
+
+=== Voie ferrée ===
+
+=== Ouvrages d'art ===
+[[Fichier:Néris - Viaduc -1.jpg|thumb|<center>Viaduc</center>]]
+* Viaduc de Sainte-Agathe (7 arches de 16 m)
+* Viaduc de Pérassier (9 arches de 18 m)
+* Viaduc des Arcades (13 arches)
+* Viaduc de Néris (7 arches de 10 m)
+* Viaduc de la Celette
+* Tunnel de Bouchauds (585 m)
+
+=== Gares ===
+* Montluçon
+* Néris
+* Durdat-Larequille
+* Terjat
+* Marcillat
+* Saint-Fargeol
+* Pionsat
+
+== Notes et références ==
+{{Références|colonnes=2}}
+
+== Bibliographie ==
+* « Une réalisation du P. O. : La nouvelle ligne de Montluçon à Gouttières », dans ''Le P.O. Illustré'', revue bimestriel, [[Compagnie du chemin de fer de Paris à Orléans|Compagnie d'Orléans]], {{date-|mai 1931}}. ([http://fifideneris.canalblog.com/archives/2010/08/20/7896423.html lire en ligne]) (consulté le {{date-|6 octobre 2010}}).
+* Maurice Malleret, ''La voie ferrée Montluçon-Gouttières - La voie piétonne de Montluçon à Néris-les-Bains'', compte rendu de la séance mensuelle du {{date-|11 mars 2006}}, La lettre des Amis de Montluçon, n° 106, Société d'histoire et d'archéologie, 2006 ([http://docs.google.com/viewer?a=v&q=cache:rDrAnoNXU10J:www.amis-de-montlucon.com/lettres/106-mars-2006.pdf+a+voie+ferr%C3%A9e+Montlu%C3%A7on-Goutti%C3%A8res&hl=fr&gl=fr&pid=bl&srcid=ADGEESh7LTspiKu-7NM9v5l9KLUMxRUNsZF9E_if2IPuZWXcKGoyGKhXyWEL4YbuPrnvIMvc0Jwgaub9Ka7wbtjLDvCcxeHvU54t3eTGilJ16SDDb84REnSAI8d2XkaAeQ7opzR0ZTC0&sig=AHIEtbQKplJDY2jjnkODvybAu9pOxwQhEw lire en ligne]) (consulté le {{date-|6 octobre 2010}}).
+
+== Voir aussi ==
+=== Articles connexes ===
+* [[Gare de Néris-les-Bains]]
+* [[Liste des lignes de chemin de fer de France]]
+
+
+
+
+{{Portail|Chemin de fer|Allier|Puy-de-Dôme|Auvergne}}
+
+{{DEFAULTSORT:Montlucon a Gouttieres}}
+[[Catégorie:Ligne ferroviaire dans l'Allier]]
+[[Catégorie:Ligne ferroviaire dans le Puy-de-Dôme]]
+[[Catégorie:Gouttières (Puy-de-Dôme)]]
