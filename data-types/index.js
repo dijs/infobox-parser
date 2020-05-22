@@ -28,9 +28,9 @@ const dataTypes = [
   deathDates,
   unbulletedLists,
   website,
+  hlist,
   url,
   convert,
-  hlist,
   // other needs to always be after specific data dypes
   other,
   // Lists should be last
