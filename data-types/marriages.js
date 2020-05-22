@@ -1,5 +1,5 @@
-const marriageGlobalPattern = /\{\{Marriage\|([^\}\}]+)\}\}/gi;
-const marriagePattern = /Marriage\|([^|]+)\|(.*)\}\}/i;
+const marriageGlobalPattern = /\{\{Marriage\|([^\}\}]+)\}\}/g;
+const marriagePattern = /Marriage\|([^|]+)\|(.*)\}\}/;
 
 export default {
   globalPattern: marriageGlobalPattern,
