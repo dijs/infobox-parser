@@ -6,6 +6,7 @@ import unbulletedLists from './unbulletedLists';
 import unmarkedLists from './unmarkedLists';
 import plainLists from './plainLists';
 import marriages from './marriages';
+import nbay from './nbay';
 import other from './other';
 import birthDates from './birthDates';
 import labeledDates from './labeledDates';
@@ -29,6 +30,7 @@ const dataTypes = [
   website,
   url,
   convert,
+  nbay,
   // other needs to always be after specific data dypes
   other,
   // Lists should be last
