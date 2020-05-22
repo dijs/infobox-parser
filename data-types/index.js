@@ -7,6 +7,7 @@ import unmarkedLists from './unmarkedLists';
 import plainLists from './plainLists';
 import marriages from './marriages';
 import other from './other';
+import hlist from './hlist';
 import birthDates from './birthDates';
 import labeledDates from './labeledDates';
 import deathDates from './deathDates';
@@ -29,6 +30,7 @@ const dataTypes = [
   website,
   url,
   convert,
+  hlist,
   // other needs to always be after specific data dypes
   other,
   // Lists should be last
