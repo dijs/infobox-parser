@@ -27,4 +27,9 @@ describe('Should Parse Batman\'s Information', () => {
     properties.general.powers.should.containEql('Expert detective');
     properties.general.powers.should.containEql('Genius-level intellect');
   });
+  it('creators', () => {
+    properties.general.creators.should.containEql('Bill Finger <small>(developer)</small>');
+    properties.general.creators.should.containEql('Bob Kane <small>(concept)</small>');
+    properties.general.creators.should.not.containEql('Bill Finger <small>nowrap</small>');
+  });
 });

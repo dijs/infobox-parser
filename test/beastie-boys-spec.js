@@ -17,6 +17,8 @@ describe('Should Parse Beastie Boys\'s Information', () => {
   it('genre', () => {
     properties.general.genre.should.containEql('Hip hop music');
     properties.general.genre.should.containEql('rap rock');
+    properties.general.genre.should.containEql('alternative hip hop');
+    properties.general.genre.should.not.containEql('nowrap');
   });
   it('label', () => {
     properties.general.label.should.containEql('Rat Cage Records');
