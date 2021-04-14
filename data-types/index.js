@@ -8,6 +8,7 @@ import plainLists from './plainLists';
 import marriages from './marriages';
 import nbay from './nbay';
 import other from './other';
+import hlist from './hlist';
 import birthDates from './birthDates';
 import labeledDates from './labeledDates';
 import deathDates from './deathDates';
@@ -28,6 +29,7 @@ const dataTypes = [
   deathDates,
   unbulletedLists,
   website,
+  hlist,
   url,
   convert,
   nbay,
