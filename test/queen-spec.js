@@ -81,7 +81,7 @@ describe("Should Parse Queen's Information", () => {
       'Elizabeth II signature 1952.svg'
     );
   });
-  it.skip('reg-type', () => {
-    properties.general.should.have.property('reg-type', 'Prime Ministers');
+  it('reg type', () => {
+    properties.general.should.have.property('regType', 'Prime Ministers');
   });
 });
