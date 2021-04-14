@@ -2,20 +2,29 @@ require('should');
 import fs from 'fs';
 import parse from '../index';
 
-describe('Should Parse Chuck Yeager\'s Information', () => {
+describe("Should Parse Chuck Yeager's Information", () => {
   const source = fs.readFileSync('./data/yeager.txt', 'utf8');
   const properties = parse(source);
   it('alt', () => {
-    properties.general.should.have.property('alt', 'Brigadier General Charles Elwood Yeager');
+    properties.general.should.have.property(
+      'alt',
+      'Brigadier General Charles Elwood Yeager'
+    );
   });
   it('age', () => {
-    properties.general.birthDate.should.have.property('age', 97);
+    properties.general.birthDate.should.have.property('age', 98);
   });
   it('birthPlace', () => {
-    properties.general.should.have.property('birthPlace', 'Myra, West Virginia');
+    properties.general.should.have.property(
+      'birthPlace',
+      'Myra, West Virginia'
+    );
   });
   it('allegiance', () => {
-    properties.general.should.have.property('allegiance', 'United States of America');
+    properties.general.should.have.property(
+      'allegiance',
+      'United States of America'
+    );
   });
   it('nickname', () => {
     properties.general.should.have.property('nickname', 'Chuck');
