@@ -16,6 +16,10 @@
   "bugs": {
     "url": "https://github.com/dijs/infobox-parser/issues"
   },
+  "funding": {
+    "type": "individual",
+    "url": "https://www.buymeacoffee.com/2tmRKi9"
+  },
   "devDependencies": {
     "babel-core": "^6.24.1",
     "babel-preset-es2015": "^6.24.1",
