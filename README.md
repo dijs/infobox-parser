@@ -1,6 +1,8 @@
 [![NPM Version](https://img.shields.io/npm/v/infobox-parser.svg)](https://www.npmjs.com/package/infobox-parser)
 [![Build Status](https://travis-ci.org/dijs/infobox-parser.svg)](https://travis-ci.org/dijs/infobox-parser)
 
+<a href="https://www.buymeacoffee.com/2tmRKi9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## Infobox Parser
 
 This was originally written as a companion module for `wikijs`. But it can work great on it's own as well. The main function of this module is parsing wikipedia article's infobox data. The infobox source is in wikitext format and
