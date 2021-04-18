@@ -2,9 +2,13 @@ require('should');
 import fs from 'fs';
 import parse from '../index';
 
-describe('Should Parse Batman\'s Information', () => {
+describe("Should Parse Batman's Information", () => {
   const source = fs.readFileSync('./data/batman.txt', 'utf8');
-  const properties = parse(source, { simplifyDataValues: false });
+  const properties = parse(source, {
+    simplifyDataValues: false,
+    removeSmall: true,
+  });
+
   it('publisher', () => {
     properties.general.should.have.property('publisher', 'DC Comics');
   });
@@ -28,8 +32,7 @@ describe('Should Parse Batman\'s Information', () => {
     properties.general.powers.should.containEql('Genius-level intellect');
   });
   it('creators', () => {
-    properties.general.creators.should.containEql('Bill Finger <small>(developer)</small>');
-    properties.general.creators.should.containEql('Bob Kane <small>(concept)</small>');
-    properties.general.creators.should.not.containEql('Bill Finger <small>nowrap</small>');
+    properties.general.creators.should.containEql('Bill Finger');
+    properties.general.creators.should.containEql('Bob Kane');
   });
 });

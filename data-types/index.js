@@ -16,10 +16,15 @@ import url from './url';
 import website from './website';
 import convert from './convert';
 import createDataTypeHandler from './dataType';
+import filmDates from './filmDates';
+import ref1 from './ref1';
+import ref2 from './ref2';
 
 const dataTypes = [
   // Order is very important here...
   instances,
+  ref1,
+  ref2,
   small,
   flag,
   coords,
@@ -33,6 +38,7 @@ const dataTypes = [
   url,
   convert,
   nbay,
+  filmDates,
   // other needs to always be after specific data dypes
   other,
   // Lists should be last
@@ -40,7 +46,7 @@ const dataTypes = [
   unmarkedLists,
 ];
 
-export default dataTypes.map(type => {
+export default dataTypes.map((type) => {
   return {
     handler: createDataTypeHandler(type),
     name: type.name,
