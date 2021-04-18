@@ -4,7 +4,10 @@ import parse from '../index';
 
 describe("Should Parse The Lego Batman Movie's Information", () => {
   const source = fs.readFileSync('./data/the-lego-batman-movie.txt', 'utf8');
-  const properties = parse(source, { simplifyDataValues: false });
+  const properties = parse(source, {
+    removeReferences: false,
+    simplifyDataValues: false,
+  });
   it('country', () => {
     properties.general.country.should.be.an.Array();
     properties.general.country.length.should.equal(3);
@@ -18,5 +21,10 @@ describe("Should Parse The Lego Batman Movie's Information", () => {
       .toDateString()
       .should.equal('Thu Mar 30 2017');
     properties.general.released[3].location.should.equal('Australia');
+    properties.general.released[3].ref.should.deepEqual({
+      attributes: {
+        name: 'RTEWinPassPremiere',
+      },
+    });
   });
 });

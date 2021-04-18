@@ -17,10 +17,14 @@ import website from './website';
 import convert from './convert';
 import createDataTypeHandler from './dataType';
 import filmDates from './filmDates';
+import ref1 from './ref1';
+import ref2 from './ref2';
 
 const dataTypes = [
   // Order is very important here...
   instances,
+  ref1,
+  ref2,
   small,
   flag,
   coords,

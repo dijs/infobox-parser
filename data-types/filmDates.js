@@ -1,6 +1,6 @@
 const filmDatesPattern = /\{\{film\sdate([^\}\}]+)\}\}/gi;
-const filmDatePatternGlobal = /(\d+)\|?(\d+)\|?(\d+)\|?([^\|\}]*)/g;
-const filmDatePattern = /(\d+)\|?(\d+)\|?(\d+)\|?([^\|\}]*)/;
+const filmDatePatternGlobal = /(\d+)\|?(\d+)\|?(\d+)\|?([^\|\}]*)\|?(ref\d+=([^\|\}]*))?/g;
+const filmDatePattern = /(\d+)\|?(\d+)\|?(\d+)\|?([^\|\}]*)\|?(ref\d+=([^\|\}]*))?/;
 
 // Format documented here:
 // https://en.wikipedia.org/wiki/Template:Film_date/doc
@@ -13,11 +13,14 @@ export default {
   parsePattern: filmDatePatternGlobal,
   parse: (results) => {
     return results.map((result) => {
-      const [_, year, month, day, location] = result.match(filmDatePattern);
+      const [_, year, month, day, location, _ref, ref] = result.match(
+        filmDatePattern
+      );
       const date = new Date(year, month && month - 1, day);
       return {
         date,
         location,
+        ref,
       };
     });
   },
