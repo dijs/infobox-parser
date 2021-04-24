@@ -19,6 +19,7 @@ import createDataTypeHandler from './dataType';
 import filmDates from './filmDates';
 import ref1 from './ref1';
 import ref2 from './ref2';
+import formatNum from './formatNum';
 
 const dataTypes = [
   // Order is very important here...
@@ -26,6 +27,7 @@ const dataTypes = [
   ref1,
   ref2,
   small,
+  formatNum,
   flag,
   coords,
   marriages,

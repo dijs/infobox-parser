@@ -14,7 +14,8 @@ export default function cleanSource(
 
   return (
     source
-      .replace(/''/g, '')
+      // Remove ticks
+      .replace(/'''?/g, '')
       .replace(/\|display=inline/g, '')
       // This is a little iffy
       .replace(/<br\s?\/?>/g, ',')
