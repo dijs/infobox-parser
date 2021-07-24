@@ -1,12 +1,12 @@
 const hlistGlobalPattern = /\{\{hlist\|([^\}\}]+)\}\}/gi;
-const hlistPattern = /hlist\|(.*)\}\}/i;
+const hlistPattern = /hlist\|(.*)\n?\}\}/i;
 
 export default {
   globalPattern: hlistGlobalPattern,
   parsePattern: hlistPattern,
-  parse: results => {
+  parse: (results) => {
     let [, elements] = results;
-    return elements.split('|')
+    return elements.split('|');
   },
   variable: 'HLIST',
   name: 'hlists',
