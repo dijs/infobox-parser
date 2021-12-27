@@ -14,6 +14,7 @@ import labeledDates from './labeledDates';
 import deathDates from './deathDates';
 import url from './url';
 import website from './website';
+import extra from './extra';
 import convert from './convert';
 import createDataTypeHandler from './dataType';
 import filmDates from './filmDates';
@@ -43,6 +44,7 @@ const dataTypes = [
   filmDates,
   // other needs to always be after specific data dypes
   other,
+  extra,
   // Lists should be last
   plainLists,
   unmarkedLists,
