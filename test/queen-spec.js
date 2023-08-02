@@ -69,7 +69,7 @@ describe("Should Parse Queen's Information", () => {
   });
   it('birth date', () => {
     // Will just update this every year :)
-    properties.general.birthDate.should.have.property('age', 95);
+    properties.general.birthDate.should.have.property('age', 97);
     properties.general.birthDate.date.should.be.instanceOf(Date);
     properties.general.birthDate.date.getFullYear().should.equal(1926);
     properties.general.birthDate.date.getMonth().should.equal(3);
