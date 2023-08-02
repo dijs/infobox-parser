@@ -1,0 +1,107 @@
+{{Infobox settlement
+| name               = Cincinnati
+| settlement_type    = [[City]]
+| image_skyline      = {{multiple image
+| border                   = infobox
+| perrow                   = 1/2/2/2
+| total_width              = 300
+| caption_align = center
+| image1  = Downtown Cincinnati viewed from Mt. Adams (cropped).jpg     
+| caption1 = [[Downtown Cincinnati]] skyline
+| image2  = Roebling Suspension Bridge at night.jpg
+| caption2 = [[John A. Roebling Suspension Bridge|Roebling Bridge]]
+| image3  = Cincinnati Union Terminal principal facade.jpg
+| caption3 = [[Cincinnati Union Terminal|Union Terminal]]
+| image4  = Over-the-Rhine near Findlay Market.jpg
+| caption4 = [[Over-the-Rhine]]
+| image5  = Great American Ball Park (15550307823).jpg
+| caption5 = [[Great American Ball Park]] 
+| image6  = Renovated Cincinnati Music Hall 2.jpg
+| caption6 = [[Cincinnati Music Hall|Music Hall]]
+| image7  = The Genius of Water - panoramio (cropped).jpg
+| caption7 = [[Tyler Davidson Fountain]] }}
+| image_flag         = Flag of Cincinnati, Ohio.svg
+| image_seal         = Seal of Cincinnati, Ohio.svg
+| blank_emblem_type  = Logo
+| image_blank_emblem = City of Cincinnati logo.png
+| pushpin_map        = USA Ohio#USA#North America
+| nicknames          = The Birthplace of Professional Baseball, The Queen City of the West, Athens of the West,<ref name="Luten 1970" /> Cincy, Little Paris,<ref name="Luten 1970">{{cite news |last=Luten |first=Winifred |date=January 11, 1970 |title=How Losantiville Became The Athens of the West |url=https://www.nytimes.com/1970/01/11/archives/how-losantiville-became-the-athens-of-the-west.html |access-date=June 18, 2020 |newspaper=The New York Times |via=The New York Times Archive |page=411}}</ref> Paris of America, Porkopolis, The Queen City, The Nati, The "513"{{citation needed|date=November 2022}}
+| motto              = {{nowrap|''Juncta Juvant'' {{smaller|([[Latin]])}}<br />{{smaller|"Strength in Unity"}}}}
+| image_map          = {{Maplink|frame=yes|plain=y|frame-width=300|frame-height=300|frame-align=center|stroke-width=2|zoom=10|type=shape-inverse|stroke-color=#808080|fill=#808080|title=Cincinnati|id=Q43196|fill-opacity=0.4|frame-coordinates={{Coord|39.125|-84.5325}}}}
+| map_caption        = Interactive map of Cincinnati
+| coordinates        = {{Coord|39|06|00|N|84|30|45|W|region:US-OH_type:city(309,000|display=inline}}
+| subdivision_type   = [[List of Sovereign states|Country]]
+| subdivision_name   = {{flag|United States}}
+| subdivision_type1  = [[U.S. state|State]]
+| subdivision_name1  = {{flag|Ohio}}
+| subdivision_type2  = [[List of counties in Ohio|County]]
+| subdivision_name2  = [[Hamilton County, Ohio|Hamilton]]
+| subdivision_name3  = [[East North Central states|East North Central]]
+| subdivision_type3  = [[List of regions of the United States|Region]]
+| established_title  = Settled
+| established_date   = {{start date and age|1788}}
+| established_title2 = [[Municipal corporation|Incorporated]] (town)
+| established_date2  = {{start date and age|1802|01|01|mf=y}}{{sfn|Greve|1904|p=27|ps=: "The act to incorporate the town of Cincinnati was passed at the first session of the second General Assembly held at Chillicothe and approved by Governor St. Clair on January 1, 1802."}}
+| established_title3 = Incorporated (city)
+| established_date3  = {{start date and age|1820|03|01|mf=y}}<ref>{{harvnb|Greve|1904|pp=507–508}}: "This act was passed February 5, 2851, and by virtue of a curative act passed three days later took effect on March 1, of the same year."</ref>
+| named_for          = [[Society of the Cincinnati]]
+| government_type    = [[Mayor–council government|Mayor–council]]
+| leader_title       = [[List of mayors of Cincinnati|Mayor]]
+| leader_name        = [[Aftab Pureval]] ([[Democratic Party (United States)|D]])
+| leader_title1      = City Manager
+| leader_name1       = Sheryl Long
+| leader_title2      = Body
+| leader_name2       = [[Cincinnati City Council]]
+| area_footnotes     = <ref name="TigerWebMapServer">{{cite web|title=ArcGIS REST Services Directory|url=https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer|publisher=United States Census Bureau|access-date=September 20, 2022}}</ref>
+| unit_pref          = Imperial
+| area_total_sq_mi   = 79.64
+| area_total_km2     = 206.26
+| area_land_sq_mi    = 77.91
+| area_land_km2      = 201.80
+| area_water_sq_mi   = 1.72
+| area_water_km2     = 4.46
+| area_metro_sq_mi   = 4,808
+| area_metro_km2     = 12,450
+| elevation_ft       = 482
+| elevation_m        = 147
+| elevation_max_ft   = 959
+| elevation_max_m    = 293
+| elevation_max_point = [[Mount Airy, Cincinnati, Ohio|Mount Airy]]
+| population_total   = 309317
+| population_as_of   = [[2020 United States census|2020]]
+| population_footnotes = 
+| population_density_sq_mi = 3969.98
+| population_density_km2 = 1532.81
+| population_urban   = 1,686,744 ([[List of United States urban areas|US: 33rd]])
+| population_density_urban_km2 = 865.7
+| population_density_urban_sq_mi = 2,242.2
+| population_est     = 309513
+| pop_est_as_of      = 2022
+| pop_est_footnotes  = <ref name="CINCINNATI POP EST 2022">{{cite web|title=City and Town Population Totals |url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html#tables|publisher=United States Census Bureau|access-date=May 18, 2023}}</ref>
+| population_metro   = 2,265,051 (US: [[List of Metropolitan Statistical Areas|30th]])
+| population_rank    = US: [[List of United States cities by population|65th]]
+| population_blank1_title = [[Demonym]]
+| population_blank1  = Cincinnatian
+| postal_code_type   = [[ZIP Code]]s
+| postal_code        = {{collapsible list
+|title = 452XX, 45999<ref>{{cite web |url=https://tools.usps.com/go/ZipLookupAction!input.action |publisher=USPS |title=Zip Code Lookup |access-date=May 14, 2021}}</ref>
+|frame_style = border:none; padding: 0;
+|list_style = text-align:center;display:none
+|45201–45209, 45211–45227, 45229-45255, 45258, 45262–45264, 45267–45271, 45273–45275, 45277, 45280, 45296, 45298–45299, 45999}}
+| area_code          = [[Area codes 513 and 283|513 and 283]]
+| area_code_type     = [[North American Numbering Plan|Area code]]
+| website            = {{URL|cincinnati-oh.gov}}
+| footnotes          = 
+| pushpin_label      = Cincinnati
+| timezone           = [[Eastern Standard Time Zone|EST]]
+| utc_offset         = −5
+| timezone_DST       = [[Eastern Daylight Time|EDT]]
+| utc_offset_DST     = −4
+| blank_name         = [[Federal Information Processing Standard|FIPS code]]
+| blank_info         = 39-15000<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=January 31, 2008 |title=U.S. Census website}}</ref>
+| blank1_name        = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info        = 1066650<ref name="GR3">{{cite web |url=http://geonames.usgs.gov|access-date=January 31, 2008 |title=US Board on Geographic Names |publisher=[[United States Geological Survey]] |date=October 25, 2007|archive-url=https://web.archive.org/web/20120212191832/http://geonames.usgs.gov/|archive-date=February 12, 2012|url-status=live}}</ref>
+| blank2_name        = [[GDP]]
+| blank2_info        = $141.6&nbsp;billion USD (2021)<ref>{{cite web |url=https://fred.stlouisfed.org/series/RGMP17140 |title=Total Real Gross Domestic Product for Cincinnati, OH-KY-IN (MSA) |date=January 2001 |publisher=Federal Reserve Bank of St. Louis |access-date=December 5, 2022}}</ref>
+| total_type         = Total
+}}
