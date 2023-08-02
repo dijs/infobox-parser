@@ -12,7 +12,7 @@ describe("Should Parse Chuck Yeager's Information", () => {
     );
   });
   it('age', () => {
-    properties.general.birthDate.should.have.property('age', 98);
+    properties.general.birthDate.should.have.property('age', 100);
   });
   it('birthPlace', () => {
     properties.general.should.have.property(
