@@ -1,3 +1,11 @@
+# BIG WARNING
+
+This version fixes the [_Infobox Parser_ ](https://github.com/dijs/infobox-parser) Issue: [#40](https://github.com/dijs/infobox-parser/issues/40)
+
+When this issue is fixed, switch back to the original _Infobox Parser_ at wikihooku [package.json](https://github.com/xcarol/wikihooku/blob/9dee6d1d3b2a449e64ca7907490e29f426ed9cbf/package.json#L23)
+
+# BIG WARNING
+
 [![NPM Version](https://img.shields.io/npm/v/infobox-parser.svg)](https://www.npmjs.com/package/infobox-parser)
 [![Build Status](https://travis-ci.org/dijs/infobox-parser.svg)](https://travis-ci.org/dijs/infobox-parser)
 
