@@ -1,6 +1,6 @@
 {
   "name": "infobox-parser-xcarol",
-  "version": "3.6.3",
+  "version": "3.6.3-b",
   "description": "Parse Wikipedia Infobox Source",
   "main": "build/bundle.min.js",
   "scripts": {
