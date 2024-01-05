@@ -5,6 +5,9 @@ export default {
   globalPattern: hlistGlobalPattern,
   parsePattern: hlistPattern,
   parse: (results) => {
+    if (!results) {
+      return [];
+    }
     let [, elements] = results;
     return elements.split('|');
   },
