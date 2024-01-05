@@ -6,35 +6,32 @@ describe("Should Parse Queen's Information", () => {
   const source = fs.readFileSync('./data/queen.txt', 'utf8');
   const properties = parse(source);
   const propertiesNonSimple = parse(source, { simplifyDataValues: false });
+
+  console.log(properties, JSON.stringify(properties, null, 2));
+
   it('reign', () => {
     properties.general.should.have.property(
       'reign',
-      '6 February 1952 – present'
+      '6 February 1952–8 September 2022'
     );
   });
   it('image', () => {
     properties.general.should.have.property(
       'image',
-      'Queen Elizabeth II March 2015.jpg'
+      'Queen Elizabeth II official portrait for 1959 tour (retouched) (cropped) (3-to-4 aspect ratio).jpg'
     );
   });
   it('image caption', () => {
-    properties.general.should.have.property('caption', 'Elizabeth in 2015');
+    properties.general.should.have.property('caption', 'Formal portrait, 1959');
   });
   it('coronation', () => {
     properties.general.should.have.property('coronation', '2 June 1953');
-  });
-  it('sucType', () => {
-    properties.general.should.have.property('sucType', 'Heir apparent');
   });
   it('issue', () => {
     properties.general.issue.should.containEql('Anne, Princess Royal');
   });
   it('successor', () => {
-    properties.general.should.have.property(
-      'successor',
-      'Charles, Prince of Wales'
-    );
+    properties.general.should.have.property('successor', 'Charles III');
   });
   it('spouse', () => {
     properties.general.spouse.should.have.property(
@@ -64,12 +61,12 @@ describe("Should Parse Queen's Information", () => {
   it('birth place', () => {
     propertiesNonSimple.general.should.have.property(
       'birthPlace',
-      '17 Bruton Street, Mayfair, London, England, UK'
+      'Mayfair, London, England'
     );
   });
   it('birth date', () => {
     // Will just update this every year :)
-    properties.general.birthDate.should.have.property('age', 95);
+    properties.general.birthDate.should.have.property('age', 97);
     properties.general.birthDate.date.should.be.instanceOf(Date);
     properties.general.birthDate.date.getFullYear().should.equal(1926);
     properties.general.birthDate.date.getMonth().should.equal(3);
@@ -80,8 +77,5 @@ describe("Should Parse Queen's Information", () => {
       'signature',
       'Elizabeth II signature 1952.svg'
     );
-  });
-  it('reg type', () => {
-    properties.general.should.have.property('regType', 'Prime Ministers');
   });
 });

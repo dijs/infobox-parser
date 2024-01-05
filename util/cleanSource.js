@@ -20,6 +20,7 @@ export default function cleanSource(
       // This is a little iffy
       .replace(/<br\s?\/?>/g, ',')
       .replace(/&minus;/g, '-')
+      .replace(/{{Sndash}}/g, '–')
       .replace(/<sup>/g, '^')
       // Remove shortened footnote templates
       .replace(/\{\{sfn\|([^\}\}]+)\}\}/g, '')
@@ -27,8 +28,9 @@ export default function cleanSource(
       .replace(/\{\{efn\|([^\}\}]+)\}\}/g, '')
       .replace(/−/g, '-')
       .replace(/<\/sup>/g, '')
-      // Replace nowrap template with its content
+      // Replace wrap templates with its content
       .replace(/\{\{\s*nowrap\s*\|([^\n\}]+)\}\}/gi, '$1')
+      .replace(/\{\{\s*Avoid\swrap\s*\|([^\n\}]+)\}\}/gi, '$1')
       // HTML comments
       .replace(/<!--([\s\S]*?)-->/g, '')
       .replace(/&nbsp;/g, ' ')
