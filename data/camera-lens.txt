@@ -1,0 +1,62 @@
+{{Infobox photographic lens
+|name         = Sony FE 200-600mm F5.6-6.3 G OSS
+|image        = Sony FE 200-600mm G and FE 100-400mm GM + 1.4x TC (51419168214).jpg
+|caption      = Sony FE 200-600mm G (left) and FE 100-400mm GM with 1.4x TC (right)
+|maker        = Sony
+|mount        = [[Sony E-mount]]
+|focusdrive   = Stepper motor
+|feat-ws      = y
+|feat-sbf     = 
+|feat-is      = y
+|feat-ar      = n
+|feat-mfo     = y
+|feat-special = ''G''-series lens
+|application  = Sports, Wildlife
+|type         = z
+|flength      = 200-600mm
+|flength-eq   = <!-- equivalent focal length, nominally for a 35 mm sensor size (range for a zoom lens)
+                (not relevant for systems with multiple sensor sizes) -->
+|image-format = [[35mm full-frame]]
+|aperture     = {{f/}}5.6 (32.0) - 6.3 (36.0)
+|elements     = 24
+|groups       = 17
+|diaphragm    = 11
+|close-dist   = {{convert|2.4|m|ft}}
+|max-dist     = Infinity
+|max-mag      = (0.2x)
+|max-diameter = {{convert|111.5|mm|in}}
+|max-length   = {{convert|318|mm|in}}
+|weight       = {{convert|2115|g|lb}}
+|filter       = 95mm
+|hood         = ALC-SH157
+|case         =
+|av-horiz     =
+|av-vert      = 
+|av-diag      = 
+|start        = 2019
+|stop         = 
+|replace      = 
+|msrp         = 
+}}
+The '''Sony FE 200-600mm F5.6-6.3 G OSS''' is a premium, variable maximum aperture full-frame [[telephoto lens|telephoto]] [[zoom lens]] for the [[Sony E-mount]], announced by [[Sony]] on June 11, 2019.<ref name="sony">{{cite web|url=https://www.sony.com/content/sony/en/en_us/SCA/company-news/press-releases/sony-electronics/2019/sony-announces-new-fe-200600mm-f5663-g-oss-supertelephoto-zoom-lens.html|publisher=sony.com|author=Sony Electronics|title=Sony Announces New FE 200-600mm F5.6-6.3 G OSS Super-telephoto Zoom Lens|accessdate=2019-06-11|archive-date=2020-10-22|archive-url=https://web.archive.org/web/20201022232747/https://www.sony.com/content/sony/en/en_us/SCA/company-news/press-releases/sony-electronics/2019/sony-announces-new-fe-200600mm-f5663-g-oss-supertelephoto-zoom-lens.html|url-status=live}}</ref><ref name="DPReview">{{cite web|url=https://www.dpreview.com/news/4842214179/sony-announces-200-600mm-f5-6-6-3-g-oss-and-600mm-f4-gm-oss-lenses|title=Sony announces 200-600mm F5.6-6.3 G OSS and 600mm F4 GM OSS lenses|author=DPreview|accessdate=2019-06-11|archive-date=2019-06-12|archive-url=https://web.archive.org/web/20190612150742/https://www.dpreview.com/news/4842214179/sony-announces-200-600mm-f5-6-6-3-g-oss-and-600mm-f4-gm-oss-lenses|url-status=live}}</ref>
+
+The Sony 200-600mm lens is currently the longest focal length native zoom lens offered for the Sony E-mount. Though designed for Sony's [[Full-frame digital SLR|full frame]] E-mount cameras, the lens can be used on Sony's [[APS-C]] E-mount camera bodies, with an equivalent full-frame field-of-view of 300-900mm.<ref name="sony" /><ref name="DPReview" />
+
+==Build quality==
+The lens showcases an off-white [[weather resistance|weather resistant]] plastic and metal exterior with a rubber focus and zoom ring. The lens features external controls for enabling [[image stabilization]], [[focal length|limiting the focal range of the lens]], and changing [[Focus (optics)|focusing modes]]. It also features three external focus-hold buttons for locking in focus on a subject in motion. The lens does not change its physical length throughout its zoom range.<ref name="sony" /><ref name="DPReview" />
+
+The Sony FE 200-600mm G lens is one of Sony's few telephoto lenses that are compatible with their own dedicated '''1.4x and 2.0x lens teleconvertors'''. When equipped, the combination yields an effective focal length of 280-840mm and 400-1200mm, respectively.<ref name="sony" />
+
+==See also==
+*[[List of Sony E-mount lenses]]
+*[[Sony FE 70-200mm F2.8 GM OSS]]
+*[[Sony FE 70-300mm F4.5-5.6 G OSS]]
+*[[Sony FE 100-400mm F4.5-5.6 GM OSS]]
+
+==References==
+{{Reflist}}
+
+[[Category:Camera lenses introduced in 2019]]
+[[Category:Sony E-mount lenses|200-600]]
+
+{{photography-stub}}
