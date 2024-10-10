@@ -1,0 +1,248 @@
+{{short description|Thai rapper, singer and dancer}}
+{{pp-vandalism|small=yes}}
+{{Use mdy dates|date=December 2019}}
+{{Infobox person
+| name               = Lisa
+| image              = Blackpink Lisa Vogue 2021.png<!-- Please do NOT change the image.-->
+| image_upright      = 1.2
+| alt                = 
+| caption            = Lisa for ''[[Vogue (magazine)|Vogue Taiwan]]'' in June 2021
+| native_name        = 
+| birth_name         = Pranpriya Manoban
+| alias              = 
+| birth_date         = {{birth date and age|1997|3|27}}
+| birth_place        = [[Buriram Province|Buriram]], Thailand
+| occupation         = {{hlist|Rapper|singer|dancer}}<!-- Being a celebrity with endorsements doesn't make you a model. -->
+| years_active       = 2016–present
+| module             = {{Infobox musical artist
+| embed                = yes
+| website              = <!-- {{URL|example.com}} -->
+| genre                = {{hlist|[[K-pop]]|[[dance-pop]]|[[Hip hop music|hip hop]]}}
+| instrument           = Vocals
+| label                = {{hlist|[[YG Entertainment|YG]]|[[Interscope Records|Interscope]]<ref>{{cite news|url=https://www.billboard.com/articles/columns/pop/8481273/blackpink-interscope-records-umg-global-deal-yg-entertainment|title=BLACKPINK Sign With Interscope Records & UMG in Global Partnership With YG Entertainment: Exclusive|work=[[Billboard (magazine)|Billboard]]|date=October 22, 2018|access-date=November 23, 2018|last=Herman|first=Tamar}}</ref>
+}}
+| associated_acts      = {{hlist|[[Blackpink]]|[[YG Family]]}}
+| module2            = {{Infobox YouTube personality
+ | embed                = yes
+ | channel_direct_url   = /channel/UC35HKvKYPkri4Grd5KXl3wQ
+ | channel_display_name = Lilifilm Official
+ | subscribers          = 7.71 million<!--please update date in stats_update field when you update this-->
+ | views                = 299.7 million<!--please update date in stats_update field when you update this-->
+ | stats_update         = July 1, 2021
+ }}
+| module3               = {{Infobox Chinese/Thai|child=yes
+| tha                  = ลลิษา มโนบาล<br>Lalisa Manoban
+}}
+{{Infobox Chinese/Korean|child=yes
+| header               = Korean stage name
+| hangul               = 리사
+| rr                   = Risa
+| mr                   = Risa
+}}
+}}
+| signature          = File:Signature of Lisa.svg
+}}
+'''Lalisa Manoban'''<ref name=moon_04042019/><ref name=li_03272019/><ref>{{cite web |title=BLACKPINK LISA Deceiving Other Members with Her Real Name??? |url=https://mnews.joins.com/article/22677888?IgnoreUserAgent=y#home |author=voomvoom|website=mnews.joins.com|date=July 1, 2018|access-date=March 17, 2021}}</ref> ({{lang-th|ลลิษา มโนบาล}}; born '''Pranpriya Manoban''' ({{lang-th|ปราณปรียา มโนบาล}}); March 27, 1997), better known by the [[mononym]] '''Lisa''' ({{Korean|hangul=리사}}), is a Thai rapper, singer, and dancer based in [[South Korea]]. She is a member of the South Korean girl group [[Blackpink]] under [[YG Entertainment]].<ref>{{cite web |title=BLACKPINK |url=http://www.ygfamily.com/artist/main.asp?LANGDIV=K&ATYPE=2&ARTIDX=70 |website=YG Family |access-date=May 18, 2019}}</ref>
+
+== Life and career ==
+=== Early life and career beginnings ===
+
+Born as Pranpriya Manoban on March 27, 1997<ref name=li_03272019>{{cite news|url=https://www.scmp.com/magazines/style/news-trends/article/3003466/4-reasons-why-we-love-lisa-k-pop-girl-group-blackpinks|first=Caspar|last=Li|title=4 reasons why we love Lisa, BLACKPINK's youngest member|date=March 27, 2019|work=South China Morning Post|access-date=May 21, 2019}}</ref> in [[Buriram Province]], Thailand,<ref>{{cite news |last1=Thaitrakulpanich |first1=Asaree |title=Black Pink to Light Bangkok on Fire This Summer |url=http://www.khaosodenglish.com/life/entertainment/2019/05/02/black-pink-to-light-bangkok-on-fire-this-summer/ |access-date=May 21, 2019 |work=Khaosod English |date=May 2, 2019}}</ref> she later legally changed her name to Lalisa, meaning praised, on the advice of a fortune teller in order to bring in prosperity.<ref name="scmp">{{cite news | url=https://www.scmp.com/culture/music/article/2157040/lisa-blackpink-thailand-raised-k-pop-singer-who-groups-main-dancer |website=[[South China Morning Post]] | title=Lisa from Blackpink – Thailand-raised K-pop singer who is the group's main dancer and speaks four languages | access-date=May 18, 2019}}</ref> As an only child, she was raised by her [[Thai people|Thai]] mother and [[Swiss people|Swiss]] stepfather.<ref>{{cite web|url=https://www.bangkokbiznews.com/news/detail/823866|title=เปิดชีวิต! 'ลิซ่า BlackPink' ล่าฝันสู่ซุปเปอร์สตาร์|date=January 11, 2019|website=Bangkokbiznews|language=th|access-date=September 29, 2019}}</ref> Lisa's mother is named Chitthip Brüschweiler. Her stepfather is Marco Brüschweiler, a renowned chef, currently active in Thailand. Lisa completed secondary education at Praphamontree School I and II.<ref name="sng">{{Cite web|url=https://theindependent.sg/lisa-of-blackpink-donates-to-help-flood-victims-in-thailand/|title=Lisa of BLACKPINK donates to help flood victims in Thailand|website=[[The Independent|The Independent Singapore]]|language=en|access-date=January 31, 2021|date=September 22, 2019}}</ref>
+
+After starting dance classes at the age of four, she competed regularly in dance contests throughout her childhood, including in "To Be Number One",<ref>{{Cite web|url=http://www.hallyukstar.com/2016/06/08/lisa-yg-new-girlgroup-stories/|title='LISA' YG New Girl Group : ลลิษา มโนบาล กับเรื่องราวที่เล่าโดยพี่สาวถ|website=hallyukstar|language=th|access-date=June 8, 2016|date=July 4, 2019}}</ref> and joined the eleven-member dance crew We Zaa Cool alongside [[BamBam (singer)|BamBam]] of [[Got7]]. In September 2009, the group entered the competition'' LG Entertainment Million Dream Sanan World'' broadcast on [[MCOT HD|Channel 9]] and won the "Special Team" Award.<ref>{{cite web|url=http://en.yibada.com/articles/151438/20160814/blackpink-lisa-manoban-and-got7-bambam-childhood-friends.htm|first=Katreena|last=Gadong|website=YIBADA|title=BLACKPINK Lisa Manoban and Got7 Bambam childhood friends?|date=August 14, 2016|access-date=November 2, 2016}}</ref> Lisa also participated in a singing contest as a school representative for "Top 3 Good Morals of Thailand", hosted by the Moral Promotion Center in early 2009, where she finished as a runner-up.<ref name="sng"></ref>
+
+In 2010, 13-year-old Lisa auditioned to join South Korean record label [[YG Entertainment]] in Thailand. From a young age, Lisa gained an interest in the K-Pop industry, namely admiring artists [[Big Bang (band)|Big Bang]] and [[2NE1]], and wished to someday follow a similar path.<ref>{{cite news|url=https://moneys.mt.co.kr/news/mwView.php?no=2020041715278063351|title='블랙핑크' 리사 국적은 어디? |trans-title=What is Blackpink Lisa's Nationality?|date=April 17, 2020|access-date=April 29, 2021|language=ko|author=Kim Yu-rim|work=MoneyS}}</ref> Among the 4,000 applicants, she was the only individual to qualify, which prompted then CEO, [[Yang Hyun-suk]] into offering Lisa a chance to become a YG Entertainment trainee.<ref>{{cite web|url=https://stylecaster.com/how-blackpink-members-discovered/#slide-2|title=BLACKPINK's 4 Members Were Discovered in Completely Different Ways|date=January 1, 2020|website=Stylecaster|author=Jason Pham|access-date=January 30, 2021}}</ref> Lisa also impressed one of the judges, [[Taebin|Danny Im]] of [[1TYM]], at the auditions, with him later praising her on-stage confidence and her off-stage attitude.<ref>{{cite episode |title=Danny Im (1TYM) - Ep. 39 |series=Fun With Dumb |url=https://www.youtube.com/watch?v=0kfNTlUBmRo&ab_channel=FunWithDumb|date=May 22, 2019}}</ref> 
+
+In 2011, Lisa moved to South Korea to begin her formal training as a trainee, which lasted five years. She officially joined the label as their first non-ethnically Korean trainee on April 11, 2011.<ref name="D">{{Cite web|url=https://praew.com/beauty/177960.html|title=มากกว่าสวยคือความทุ่มเท "ลิซ่า BLACKPINK" มีวันนี้ได้เพราะความสามารถ|date=July 4, 2019|website=Praew|language=th|access-date=June 14, 2018}}</ref> In November 2013, she appeared in [[Taeyang]]'s music video for the single "[[Ringa Linga]], where she was one of the background dancers, alongside members of [[iKon]] and [[Winner (band)|Winner]].<ref>{{Cite web|url=https://praew.com/beauty/177960.html|title=8 songs BLACKPINK members appeared in before debut|date=August 8, 2018|website=SBS|language=en|access-date=January 30, 2021}}</ref> In March 2015, Lisa undertook her first modelling job for street-wear brand [[YG Entertainment#Nona9on|Nona9on]], following South Korean cosmetics brand [[YG Entertainment#Moonshot|Moonshot]] in 2016.<ref>{{cite web|url=http://news.donga.com/3/07/20160811/79708918/4|title=[블랙핑크 VS 투애니원③] 블랙핑크는 누구?|date=August 12, 2016|website=Donga News|access-date=June 4, 2019}}</ref>
+
+=== 2016–present: Debut with Blackpink and solo ventures===
+{{Main|Blackpink}}
+
+[[File:180819 블랙핑크 팬싸인회 코엑스 라이브프라자 리사.jpg|thumb|left|upright|Lisa at a fansigning event in August 2018]]
+
+In August 2016, Lisa debuted as one of four members of South Korean girl group [[Blackpink]], as well as the first non-ethnically Korean to debut under the agency.<ref>{{cite web|url=http://kpopherald.koreaherald.com/view.php?ud=201608091630134122942_2|title=YG Entertainment unveils K-pop group BLACKPINK|author=Kim Yu-young|date=August 9, 2016|website=Kpop Herald|access-date=May 20, 2017}}</ref><ref name="scmp"/> Blackpink debuted with single album ''Square One'' with lead singles "[[Whistle (Blackpink song)|Whistle]]" and "[[Boombayah]]". "Whistle" achieved a perfect "all-kill", topping all South Korean charts upon debut.<ref>{{cite web|url=http://www.osen.co.kr/article/G1110475781|title=[뮤직톡톡] 마성의 '휘파람'…블랙핑크, 전 음원차트 1위 탈환|date=August 14, 2016|website=Osen|access-date=July 4, 2019}}</ref> As of October 2020, the group has released two studio albums, ''[[Blackpink in Your Area]]'' and ''[[The Album (Blackpink album)|The Album]]'', three extended plays, ''[[Blackpink (EP)|Blackpink]]'', ''[[Square Up (EP)|Square Up]]'' and ''[[Kill This Love]]'', and two single albums, ''Square One'' and ''Square Two''.
+
+Lisa was cast by the [[Munhwa Broadcasting Corporation|MBC]] military variety program ''[[Real Man 300]]'' as a permanent member on the show as part of the [[Korea Army Academy at Yeongcheon|Korea Army Academy]] edition from September 21, 2018 onward. The show marked her first permanent role on a television program since debut.<ref name=":0">{{cite web|url=https://www.yna.co.kr/view/AKR20180928107900005?input=1195m|title=[시청자가 찜한 TV] 돌아온 '진사'·'알쓸신잡' 역시 화제|date=September 28, 2018|website=Yonhap News|language=ko|access-date=August 1, 2019}}</ref> Her appearance earned her an unofficial award titled "Character of the Year" through the [[2018 MBC Entertainment Awards]].<ref>{{cite web|url=https://post.naver.com/viewer/postView.nhn?volumeNo=17440121&memberNo=16220685|title=[2018 MBC 방송연예대상] 연구원이 뽑아본 올해의 캐릭터!|date=December 27, 2018|website=Naver|language=ko|access-date=August 1, 2019}}</ref> 
+
+On November 5, 2018, she unveiled her [[YouTube]] channel, ''Lilifilm Official'', focusing on travelling and lifestyle alongside dance performances.<ref>{{cite web|url=https://www.insight.co.kr/news/189170|title='유튜버'로 깜짝 변신한 블랙핑크 리사가 올린 첫번째 영상|date=November 6, 2018|website=Insight|language=ko|access-date=July 5, 2019}}</ref><ref>{{cite web|url=https://www.billboard.com/articles/columns/k-town/8544483/lisa-blackpink-dances-danileigh-g-eazy-cravin-video|title=Watch Blackpink's Lisa Dance it Out to DaniLeigh and G-Eazy's 'Cravin'|last1=Rowley|first1=Glenn|date=November 21, 2019|website=[[Billboard (magazine)|Billboard]]|access-date=June 26, 2021}}</ref> As of July 2019, she had over 1.3 million subscribers, and had received a YouTube [[YouTube Play Buttons|Gold Play Button]].<ref>{{cite web|url=https://news.sbs.co.kr/news/endPage.do?news_id=N1005336864|title=[SBS Star] BLACKPINK LISA Receives the 'Gold Play Button' with Only 4 Videos|date=July 2, 2019|website=SBS News|language=en|access-date=July 5, 2019}}</ref> One of the dance performance videos went viral in 2020 due to a meme where screencaps of her legs were juxtaposed onto a character or public figure's torso, often with the caption "Did it work?". Celebrities including [[Dolly Parton]], [[Stephen Colbert]]. [[James Corden]], [[Luke Evans]], and [[Lil Nas X]] participated in the meme as well, posting photos of themselves with Lisa's legs.<ref>{{cite web|url=https://www.billboard.com/articles/columns/pop/9368681/blackpinks-lisa-meme-did-it-work-explained|title=Blackpink's Lisa Lends Her Legs to the Latest Quarantine Meme: 'Did It Work?' Explained|last1=Aniftos|first1=Rania|date=April 29, 2020|website=[[Billboard (magazine)|Billboard]]|access-date=June 26, 2021}}</ref> 
+
+In March 2020, Lisa served as the dance mentor throughout the [[iQIYI]]'s Chinese girl group survival program ''[[Youth With You (season 2)|Youth With You Season 2]]''.<ref name=":1">{{cite web|url=http://osen.mt.co.kr/article/G1111241466|title=블랙핑크 리사, 中판 프듀 '청춘유니' 시즌2 새 멘토 출연 확정 [Oh! 차이나]|date=October 15, 2019|website=Osen|language=ko|access-date=October 15, 2019}}</ref> In February 2021, she returned as the dance mentor in the Chinese boy group survival show ''[[Youth With You (season 3)|Youth With You Season 3]].''<ref>{{Cite web|last=|first=|date=2021-01-08|title=블랙핑크 리사, 中 오디션 프로그램 '청춘유니3' 멘토 확정|url=https://www.donga.com/news/Entertainment/article/all/20210108/104825695/1|access-date=2021-01-27|website=DongA|language=kr}}</ref>
+
+On April 19, 2021 an official from [[YG Entertainment]] revealed to South Korean media outlet ''[[The Korea Herald]]'' that Lisa would debut as the third soloist from her group with schedules later to be officially announced through a notice.<ref>{{cite web|url=http://www.koreaherald.com/view.php?ud=20210419001026&np=1&mp=1|title=[Exclusive] Blackpink Lisa's solo debut expected in June|date=April 19, 2021|website=The Korea Herald|language=en|access-date=April 28, 2021}}</ref> On July 12, through ''Star News'', her label revealed filming for her music video is going underway.<ref>{{cite web|url=https://star.mt.co.kr/stview.php?no=2021071213004437355|title=블랙핑크 리사, 솔로 앨범 발매 "뮤직비디오 촬영 준비"[공식]|date=July 12, 2021|website=Star News|language=ko|access-date=July 12, 2021}}</ref>
+
+==Personal life==
+Lisa is [[multilingual]] and speaks fluent Thai, English, Korean, along with basic Japanese and Chinese.<ref name=moon_04042019>{{cite web|last=Moon|first=Kat|date=April 4, 2019|title=Everything to Know About K-Pop Group BLACKPINK|url=http://time.com/5562946/blackpink-k-pop-everything-to-know/|access-date=May 22, 2019|work=[[Time (magazine)|Time]]}}</ref>
+
+==Other ventures==
+=== Endorsements ===
+
+Through her work as a model for the South Korean cosmetics brand [[YG Entertainment#Moonshot|Moonshot]], she became their brand ambassador in China on March 21, 2018.<ref>{{Cite web|url=http://www.topstarnews.net/news/articleView.html?idxno=380224|title=블랙핑크(BLACKPINK) 리사, 문샷 모델로 중국 대륙 홀린다…글로벌 K뷰티 부활 신호탄|website=Topstarnews|language=ko|access-date=July 30, 2019|date=March 21, 2018}}</ref>
+
+On July 25, 2019 Lisa became the brand ambassador and presenter exclusively for the new collection launched in Thailand where six of the products include Manoban's signature as part of the packaging.<ref>{{Cite web|url=https://www.harpersbazaar.co.th/BEAUTY/NEWS/lisa-blackpink-moonshot-brandambassador|title=สิ้นสุดการรอคอย ! Moonshot เผยแคมเปญโฆษณาสุดเปรี้ยว LISA'S PICK SPECIAL EDITION บลิ้งค์ทุกคนรอลุ้น meet & greet กับเธอได้เลย !|website=Harpersbazaar|language=th|access-date=July 30, 2019|date=July 26, 2019}}</ref> On March 28, 2019 Lisa signed her first solo endorsement deal for [[Advanced Info Service|AIS Thailand]], the largest GSM mobile phone operator in Thailand. Lisa became the highest paid brand presenter for AIS. Furthermore, her advertising campaign became the highest rated commercial in Thailand.<ref>{{Cite web|url=https://positioningmag.com/1221970|title=AIS คว้า "ลิซ่า BlackPink" พรีเซ็นเตอร์คนล่าสุด หวังกวาดตลาดสาวก Blinks ทั่วไทย|website=positioningmag.com|language=th|access-date=May 21, 2019|date=March 28, 2019}}</ref> On May 11, 2019, Lisa became the brand presenter for the [[Samsung Galaxy S10]] in Thailand. Her first promotional material for the brand was released on May 14.<ref>{{Cite web|url=https://positioningmag.com/1229304|title=Samsung คว้า "ลิซ่า BlackPink" เป็นพรีเซนเตอร์ Galaxy S10 ไทย หวังสู้ศึกแบรนด์จีน|website=positioningmag.com|language=th|access-date=May 21, 2019|date=May 11, 2019}}</ref> The mobile game ''Ragnarok M: Eternal Love'' uses Lisa as their endorsement model and appears as a character on their "Midnight Party" server from July 24, 2019 onward.<ref>{{cite web|url=http://www.kstreetmanila.com/2019/07/blackpinks-lisa-to-star-in-ragnarok-m/|title=BLACKPINK's Lisa to star in Ragnarok M|date=July 20, 2019|website=Kstreet Manila|language=en|access-date=July 31, 2019}}</ref>
+
+In January 2020, Lisa joined labelmate [[Winner (band)|Winner]]'s [[Mino (rapper)|Mino]] as an endorsement model for sportswear brand [[Adidas]]'s SS20 season ''My Shelter'' clothing range.<ref>{{cite web|url=http://pop.heraldcorp.com/view.php?ud=202001270746204894499_1|title=위너 송민호X블랙핑크 리사, 감각적인 트렌디 케미..커플 촬영도 완벽[화보]|date=January 27, 2020|website=Heraldpop|language=ko|access-date=January 31, 2020}}</ref> Through Lisa's newfound popularity in China through her appearance on [[iQIYI]]'s [[Idol Producer (season 3)|Youth With You 2]] as a dance mentor, she was revealed to be the new brand spokesperson in China for the [[fabric softener]] company [[Downy|D&G Downy]] on May 13.<ref name="a">{{cite web|url=https://www.yna.co.kr/view/AKR20200513050800005?input=1195m|title=지드래곤 이어 블랙핑크 리사도 中브랜드 모델 기용|date=May 13, 2020|website=YNA|language=ko|access-date=May 20, 2020}}</ref> She soon went on to become the new brand spokesperson for one of China's largest dairy companies, [[Mengniu Dairy]]'s Chinese yoghurt brand, Zhengouli.<ref name="a" /> On June 27, [[Tencent Games]] announced Lisa as [[Supercell (video game company)|Supercell]]'s newest spokesperson in China for their [[Mobile game|mobile]] video game, [[Brawl Stars]].<ref>{{cite web|url=https://chuansongme.com/n/3177666352832|title=舞蹈、身材屡屡出圈，歌谣、时尚界宠儿，这次她的影响力拓展到…了？|date=June 27, 2020|website=chuansongme|access-date=June 28, 2020}}</ref> In October 2020, Lauder-owned [[MAC Cosmetics|MAC]] had named Lisa as their newest global brand ambassador. She became the face of their renowned collections and key campaigns as well as muse for innovation projects. "Always confident and never one to shy away from risks, she embodies our commitment to celebrating individuality and self-expression above all else," explained Senior Vice President and Global Creative Director, [[Drew Elliott]]. "We can't wait for her fans to see what she has in store for them through our collaboration".<ref>{{cite web|url=https://www.refinery29.com/en-us/2020/10/10101687/blackpink-lisa-mac-global-ambassador-interview|title=Blackpink's Lisa Stars In MAC's Holiday Makeup Campaign|date=November 2, 2020|website=Refinery29|access-date=January 29, 2021}}</ref><ref>{{cite web|url=https://vogue.sg/first-look-blackpink-lisa-manoban-mac-cosmetics-new-global-brand-ambassador/|title=First look: Blackpink's Lisa Manoban is MAC Cosmetics' new global brand ambassador
+|date=October 19, 2020|website=Vogue|access-date=January 29, 2021}}</ref><ref>{{cite web|url=https://www.maccosmetics.co.uk/favourites/lisa-blackpink|title=FOR THE LOVE OF LISA!|date=October 19, 2020|website=MAC Cosmetics|access-date=January 29, 2021}}</ref>
+
+On February 22, 2021, Lisa was announced as the endorser of the [[Vivo (technology company)|Vivo]] S9 smartphone.<ref>{{Cite web|url=https://www.kpopstarz.com/articles/297437/20210222/blackpink-lisa-official-vivo-s9-endorser-idols-youtube-channel-projected.htm |title=BLACKPINK Lisa is the Official Vivo S9 Endorser + Idol's YouTube Channel Projected to Surpass 6 Million Subscribers Soon|last=Vaughn |first=Nica | website=KpopStarz|language=En| date=February 22, 2021|access-date=February 25, 2019}}</ref> She was also an endorser of the Vivo S7 smartphone in 2020.<ref>{{Cite web|url=https://gadgetpilipinas.net/2020/08/vivo-s7-lisa-manoban/|title=Blackpink's Lisa Manoban is the Endorser for the New vivo S7 |last=Tortoza |first=Emman | website=Gadget Pilipinas|language=En| date=August 5, 2020|access-date=February 25, 2019}}</ref>
+
+===Fashion and photography===
+[[File:Blackpink Lisa 190621 2.png|thumb|Lisa at Incheon Airport in June 2019]]
+
+In January 2019, Lisa became the muse of [[Hedi Slimane]], the artistic, creative and image director for [[Celine (brand)|Celine]], a French luxury brand.<ref>{{cite web |author1=Aref Omar |title=BlackPink's Lisa is Muse for Hedi Slimane's Céline campaign! |url=https://www.nst.com.my/lifestyle/groove/2019/01/451957/showbiz-blackpinks-lisa-muse-hedi-slimanes-c%C3%A9line-campaign |website=nst.com.my |access-date=May 18, 2019 |date=January 18, 2019}}</ref> In September 2020, she was announced as their global ambassador. She was featured in the brand’s Essentials campaign in June 2020, shot by creative director Hedi Slimane and has been widely photographed in Celine outfits and accessories. In a statement, the brand said, “We are pleased to announce the continued collaboration of Celine with Lisa, who will represent the house as Global Ambassador”.<ref>{{Cite web|url=https://cnalifestyle.channelnewsasia.com/trending/k-pop-star-lisa-blackpink-global-ambassador-celine-13133142|title=K-pop star Lisa of Blackpink named global ambassador for fashion brand Celine|website=CNA Lifestyle |date=September 22, 2020 |access-date=January 30, 2021}}</ref>
+
+The same year, in November, [[Penshoppe]] revealed Lisa had joined the Penshoppe family as their newest ambassador.<ref>{{Cite web|url=https://preen.ph/102310/blackpink-lisa-ambassador-local-brand|title=BLACKPINK's Lisa is now an ambassador of this local brand|website=preen.ph|date=November 6, 2019}}</ref> Furthermore, on July 24, 2020 Lisa was officially selected as the newest brand ambassador representing [[Bulgari]], an Italian luxury brand. As an ambassador for Bulgari, she participated in the digital campaigns for the "Serpenti" and "Bzero One" collections.<ref>{{cite web|url=http://star.mk.co.kr/new/view.php?mc=ST&year=2020&no=757478|title=블랙핑크 리사, 불가리 브랜드 앰버서더 발탁|date=July 24, 2020|website=Star MK|language=ko|access-date=July 24, 2020}}</ref>
+
+On February 16, 2021, Lisa joined the guest jury for the French fashion award [[ANDAM]].<ref>{{cite web|url=https://wwd.com/fashion-news/designer-luxury/blackpink-lisa-manoban-fashion-prize-jury-andam-1234730407/|title=Blackpink's Lisa Is on the Jury for ANDAM Fashion Prize: Exclusive|last=Socha |first=Miles| date=February 16, 2021| language=en| website=WWD|access-date=February 21, 2021}}</ref>
+
+Through [[YG Entertainment]], Lisa released a limited edition photobook entitled "0327" composed entirely with self-taken photographs through a film camera. The photobook was released on her birthday in 2020.<ref>{{cite web|url=http://osen.mt.co.kr/article/G1111330116|title=블랙핑크 리사, 오늘(27일) 생일 맞이 한정판 포토북 출시..온라인 이미 매진|date=March 27, 2020|website=Osen|language=ko|access-date=May 21, 2020}}</ref> The second volume was released the following year on March 27, 2021.<ref>{{cite web|url=https://www.harpersbazaar.com/tw/celebrity/celebritynews/g35860203/blackpink-lisa-2nd-edition-photobook/|title=Blackpink最美攝影師Lisa再推攝影集！沒搶到《0327》的Blink這次必須預購！|last=Lee|first=Eachen|date=March 17, 2021|website=harpersbazaar.com.tw|language=zh-tw|access-date=March 17, 2021}}</ref>
+
+===Philanthropy===
+
+On September 17, 2019, after torrential rain brought by a [[monsoon]] caused flooding across 32 Thai provinces, Thai beauty blogger Koi Onusa, a relative of Lisa, revealed that Lisa had donated [[฿]]100,000 to Thai actor [[Bin Bunluerit]]'s fund to help those evacuated in the floods as disaster relief.<ref>{{cite web|author1=Asaree Thaitrakulpanich|date=September 17, 2019|title=Lisa Blackpink Donates 100K Baht To Flood Victims|url=http://www.khaosodenglish.com/culture/net/2019/09/17/lisa-blackpink-donates-100k-baht-to-flood-victims/|access-date=October 2, 2019|website=Khaosodenglish}}</ref><ref name="sng"></ref>
+
+==Impact and influence==
+[[File:(180624) BLACKPINK fansign event at the AK Plaza in Bundang 017.jpg|upright|thumb|Lisa at a fansign event at the AK Plaza in 2018.]]
+
+Lisa has often been cited as an influence to other individuals working in the same field as a musician within the South Korean music industry. Through interviews, former [[Nature (group)|Nature]] girl group member, Gaga and Hot Issue girl group member, Mayna revealed Lisa as their role models.<ref>{{cite web|url=http://www.mydaily.co.kr/new_yk/html/read.php?newsid=201808131453856931&ext=na|title="트와이스→현아" 네이처가 꼽은 8인 롤모델 [MD인터뷰②]|author=Myeong Hee-suk|date=August 13, 2018|website=MyDaily|language=ko|access-date=June 13, 2020}}</ref><ref>{{cite news|url=http://sports.khan.co.kr/entertainment/sk_index.html?art_id=202104281511003&sec_id=540301&pt=nv|title=핫이슈 "하니·씨엘·블랙핑크·아이유·제시 롤모델" |trans-title=Trending "do-Ciel, Black, Pink, IU, suggested a role model."|date=April 28, 2021|access-date=April 28, 2021|language=ko|author=Kim Won-hee|work=Sports Khan}}</ref>
+
+In April 2019, she became the most followed K-pop idol on [[Instagram]], with 17.4<!--This is how many followers Lisa had at the time, NOT an updated follower count. Please do not change this.--> million followers at the time.<ref>{{cite web |author=Pakkee Tan|title=BLACKPINK's Lisa is Now Officially the Most Followed K-Pop Idol on Instagram |url=https://www.eonline.com/ap/news/1032645/blackpink-s-lisa-is-now-officially-the-most-followed-k-pop-idol-on-instagram |website=E! News |access-date=May 18, 2019|date=April 15, 2019}}</ref> As of April 2021, she became the first and only K-pop idol to amass 50 million followers, as she continues to set engagement and follower count records on the platform.<ref>{{cite web |author=Kevin Miller|title=Lalisa Manoban Is The First K-pop Idol To Reach 50 Million Followers On Instagram|url=https://www.jazminemedia.com/2021/04/blackpink-lisa-is-the-first-kpop-idol-to-reach-50-million-followers-on-instagram/ |access-date=April 10, 2021|date=April 10, 2021}}</ref>
+
+While Lisa landed her first solo magazine cover for ''[[Harper's Bazaar]]'' Thailand's May 2019 issue, MEI, a distributor of ''Harper's Bazaar'', reported that all 120,000 printed copies in stock were sold out. It was reported that, on average, 30,000 copies are normally printed, and well-known celebrities have an average of 60,000 copies printed. However, despite selling 120,000 copies, the public's demand was still not met.<ref>{{cite web|url=https://www.eonline.com/ap/news/1034816/lisa-looks-gorgeous-on-her-first-solo-magazine-cover|title=Lisa Looks Gorgeous on Her First Solo Magazine Cover in Thailand|author=Pakkee Tan|date=April 22, 2019|website=E! News|language=en|access-date=August 1, 2019}}</ref><ref>{{cite web|url=https://dudeplace.co/2019/05/05/blackpinks-lisa-graces-front-cover-harpers-bazaar-thailand/|title=ยอดจองซื้อ Harper's BAZAAR ฉบับปก ลิซ่า BlackPink ทุบสถิติใหม่ พิมพ์ 120,000 เล่มก็ยังไม่พอ|author=Kong Dudeplace|date=May 5, 2019|website=Dudeplace|language=th|access-date=August 1, 2019}}</ref>
+
+Following Lisa's attendance at the [[Celine (brand)|Celine]] Fashion Show for Men's Spring Summer 2020 collection in [[Paris]], France, during [[Paris Fashion Week]], Lyst reported that global searches for Celine's Triomphe bag leapt 66% on June 28, 2019, after she published an image of the style on her social media, in result garnering attention of many among the general public.<ref>{{cite web|url=https://www.wsj.com/articles/are-k-pop-stars-the-worlds-biggest-influencers-11563204671|title=Are K-Pop Stars the World's Biggest 'Influencers'?|date=July 15, 2019|website=The Wall Street Journal|language=en|access-date=July 31, 2019}}</ref>
+
+On April 20, 2020, Lisa released a third dance performance video on her YouTube channel in which she dances to "Mushroom Chocolate" by QUIN and [[6lack|6LACK]].<ref>{{cite web|url=https://www.insider.com/sexy-legs-meme-thigh-high-lisa-blackpink-twitter-2020-4|title=Celebrities like Dolly Parton are using a k-pop idol's 'sexy legs' in the latest meme taking over the internet|last1=Haasch|first1=Palmer|date=April 30, 2020|website=[[Insider Inc.]]|access-date=June 26, 2021}}</ref> The video went viral due to a meme where sensual screencaps of her legs in thigh-high boots were juxtaposed onto a character or public figure's torso, often with the caption "Did it work?". Celebrities including [[Dolly Parton]], [[Stephen Colbert]]. [[James Corden]], [[Luke Evans]], and [[Lil Nas X]] participated in the meme as well, posting photos of themselves with Lisa's legs.<ref>{{cite web|url=https://www.billboard.com/articles/columns/pop/9368681/blackpinks-lisa-meme-did-it-work-explained|title=Blackpink's Lisa Lends Her Legs to the Latest Quarantine Meme: 'Did It Work?' Explained|last1=Aniftos|first1=Rania|date=April 29, 2020|website=[[Billboard (magazine)|Billboard]]|access-date=June 26, 2021}}</ref> The video became her first to cross over 60 million views on YouTube in 2021.{{cn|date=July 2021}}
+
+According to the "2021 Overseas Korean Wave Survey" conducted by the organizations Ministry of Culture, Sports and Tourism and Korea Foundation for International Cultural Exchange, Lisa was listed as one of twenty "Most Popular Korean Singers Abroad" alongside South Korean musicians [[G-Dragon]], [[IU (singer)|IU]], [[Psy]], [[Blackpink]] and more. The survey collected data throughout 18 countries worldwide including China, India, Australia, South Africa and Russia. A total of 8,500 men and women aged between 15 and 59 participated in the survey.<ref>{{cite web|url=https://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pDataCD=0417000000&pSeq=1448|title=2021 해외한류실태조사|date=January 28, 2021|website=Ministry of Culture, Sports and Tourism|language=ko|access-date=January 30, 2021}}</ref>
+
+Lisa's announcement as [[MAC Cosmetics]]’ first female K-pop idol to be appointed as a Global Brand Ambassador generated $1.83M in MIV®,<ref group="note">Media Impact Value is a proprietary algorithm developed by Launchmetrics to measure the impact of placements and mentions across different voices in the Fashion, Luxury, and Cosmetics (FLC) industry.</ref> with MAC’s announcement post generating $506K in MIV® – representing their top branded post of 2020 and making them one of the top beauty collaborations of the year.<ref name=":2">{{cite web|url=https://www.launchmetrics.com/resources/blog/top-beauty-collaborations?utm_source=twitter&utm_medium=social&utm_campaign=21-bbmoment_en|title=#BBMoment: The Top Beauty Collaborations of 2020|date=January 6, 2021|website=Launchmetrics|language=en|access-date=January 30, 2021}}</ref> Her announcement post on Instagram as a Global Ambassador for MAC Cosmetics received more than 5.6 million likes and 74,000 comments.<ref>{{Cite instagram |user=lalalalisa_m |postid=CHK0ArSj1b5 |date=November 4, 2020 |title=#AD I am over the moon to share that I am the newest Global Brand Ambassador for @maccosmetics! I’ll be POPPING off with @maccosmetics this holiday season💥💜. #MACLOVESLISA #MACFrostedFirework #MACambassador |access-date=January 30, 2020}}</ref> Her partnerships have been noted to feel genuine<ref name=":2"/>as she frequently features the same brands across her social media channels. The success of her endorsements and partnerships has been partially attributed to this authenticity.<ref name=":2"/>Because of her influencing power and marketing potential, Lisa has been used as an example of changing promotional strategies in the fashion and makeup industry.<ref>{{cite web|url=https://www.voguebusiness.com/fashion/the-long-view-by-vogue-business-fashions-new-outliers|title=The Long View by Vogue Business: Fashion's new outliers|date=December 11, 2020|website=Vogue Business|language=en|access-date=January 30, 2021}}</ref>
+
+Her impact extends to other artists in the music industry. [[Destiny Rogers]]' song "Tomboy" had a 1939% increase in streams on the daily [[Spotify]] update following a dance performance video by Lisa on her YouTube channel using it. Shortly after the performance was uploaded to Youtube, Rogers' song and EP Tomboy entered iTunes and Apple Music charts in numerous countries and, on Spotify, the song reached the Top 200 and the top 10 of the Philippines Viral 50 playlist.<ref>{{Cite web|date=February 15, 2021|title=Đẳng cấp Lisa: Hiệu ứng từ MV dance giúp bài nhạc nền tăng 1939% lượt stream, đến chính chủ cũng choáng váng|url=https://kenh14.vn/dang-cap-lisa-hieu-ung-tu-mv-dance-giup-bai-nhac-nen-tang-1939-luot-stream-den-chinh-chu-cung-choang-vang-20210215023735467.chn|access-date=March 16, 2021|website=|language=vi}}</ref> Rogers herself acknowledged the situation on [[Twitter]]<ref>{{Cite tweet |user=destinyrogers |number=1360686245395918848|title=this is amazing 🥺🥺🥺🥺🥺|archive-url=https://archive.today/20210404150503/https://twitter.com/destinyrogers/status/1360686245395918848|url-status=live|archive-date=April 4, 2021}}</ref> and thanked Lisa for revitalizing the song.<ref>{{Cite tweet |user=destinyrogers |number=1372760103951069188|title=finally got to personally thank #LISA for this new tomboy wave and even sent her the remix last week 🤪🤪 #TOMBOY FT. @coi_leray OUT NOW!!!! LETS RUN IT UP 🔥|archive-url=https://archive.today/20210404150417/https://twitter.com/destinyrogers/status/1372760103951069188|url-status=live|archive-date=April 4, 2021}}</ref>
+
+== Filmography ==
+{{for|her appearances as a member of Blackpink|Blackpink#Filmography}}
+{{see also|Blackpink videography}}
+
+=== Television show ===
+{| class="wikitable sortable plainrowheaders" 
+|-
+! scope="col" rowspan="2" | Year
+! scope="col" colspan="2" | Title
+! scope="col" rowspan="2" | Network
+! scope="col" rowspan="2" | Role
+! scope="col" rowspan="2" | Notes
+! scope="col" rowspan="2" class="unsortable" | {{abbr|Ref.|Reference(s)}}
+|-
+! scope="col" | English
+! scope="col" | Original
+|-
+! scope="row"| 2017 
+| ''Lisa TV'' 
+| 리사 TV
+| [[OnStyle]] 
+| rowspan="2"| Cast member 
+| 3 episodes 
+| style="text-align:center" |
+|-
+! scope="row"| 2018 
+| ''[[Real Man 300]]'' 
+| 진짜사나이 300
+| [[Munhwa Broadcasting Corporation|MBC]] 
+| 6 episodes 
+| style="text-align:center" | <ref name=":0"/>
+|-
+! scope="row"| 2020
+| ''[[Youth With You (season 2)|Youth With You 2]]'' 
+| 青春有你 2
+| rowspan="2"| [[iQIYI]] 
+| rowspan="2"| Dance mentor 
+| rowspan="2" {{n/a}}
+| style="text-align:center" | <ref name=":1"/>
+|-
+! scope="row"| 2021
+| ''[[Youth With You (season 3)|Youth With You 3]]'' 
+| 青春有你 3
+| style="text-align:center" | <ref>{{cite web|url=https://www.newsen.com/news_view.php?uid=202101071422200410|title=블랙핑크 리사, 中 서바이벌 '청춘유니' 시즌3 멘토 출연 확정(공식)|date=January 7, 2021|website=Newsen|language=ko|access-date=January 7, 2021}}</ref>
+|-
+|}
+
+== Awards and nominations ==
+{{Main|List of awards and nominations received by Blackpink}}
+
+{| class="wikitable sortable plainrowheaders" style="width: 85%; text-align: center;"
+|- style="background:#ccc; text-align:center;"
+|+Name of the award ceremony, year presented, award category, nominee(s) of the award, and the result of the nomination
+! scope="col" | Award ceremony
+! scope="col" | Year
+! scope="col" | Category
+! scope="col" | Nominee(s) / work(s)
+! scope="col" | Result
+! scope="col" class="unsortable" | {{Abbr|Ref.|Reference(s)}}
+|-
+! scope="row" rowspan="2"| The Standard
+| 2018
+| rowspan="2"| Person of the Year
+| rowspan="7" | Lisa
+| {{won}}
+|style="text-align:center;"| <ref>{{cite web |title=ทีมถ้ำหลวง-ลิซ่า คว้ารางวัล THE STANDARD PERSON OF THE YEAR 2018 คนไทยผู้สร้างปรากฏการณ์แห่งปี |url=https://thestandard.co/personoftheyear2018/ |website=The Standard|access-date=May 18, 2019}}</ref>
+|-
+| 2019
+| {{won}}
+| style="text-align:center;"| <ref>{{cite web|title=อเล็กซ์ เรนเดลล์ – ลิซ่า BLACKPINK คว้ารางวัล THE STANDARD Person of the Year 2019|url=https://thestandard.co/the-standard-person-of-the-year-2019-winner-2/|website=The Standard|access-date=December 19, 2019|date=December 19, 2019}}</ref>
+|-
+! scope="row"| Joox Thailand Music Awards
+| rowspan="2" | 2020
+| Social Superstar
+| {{nom}}
+| style="text-align:center;"| <ref>{{cite web |title=Sanook x JOOX Thailand Music Awards 2020|url= https://season.sanook.com/sanookxjtma2020/ |access-date= February 14, 2020}}</ref>
+|-
+! scope="row"| Prêmio Annual K4US
+| Favorite News From The Hwstar
+| {{won}}
+| style="text-align:center;"| <ref>{{cite web|title=#PAK2020 - Programa de Encerramento|url= https://www.youtube.com/watch?v=rwSgF_M4ECo&ab_channel=HighwayStar |access-date= January 30, 2021|date=December 20, 2020}}</ref>
+|-
+! scope="row"| Thailand Master Youth Club
+| rowspan="3" | 2021
+| Inspirational Role Model for Youth
+| {{won}}
+| style="text-align:center;"| <ref>{{cite web|title=เคียงข้างลิซ่า-แบมแบม 3 นักกีฬาไทย มีชื่อรับรางวัลเยาวชนต้นแบบ สร้างแรงบันดาลใจ
+|url= https://www.thairath.co.th/sport/thaifootball/changsuek/2050587|website=[[Thai Rath]]|access-date= April 4, 2021|date=March 15, 2021|language=th}}</ref>
+|-
+! rowspan="2" scope="row"| Weibo Starlight Awards
+| Popular Artist of the Year
+| {{won}}
+| rowspan="2" style="text-align:center;"| <ref>{{cite web|title=微博星耀盛典
+|url=https://m.weibo.cn/detail/4639054240941698|website=[[Sina Weibo|Weibo]]|access-date= May 20, 2021|date=May 20, 2021|language=zh}}</ref>
+|-
+| Starlight Hall of Fame (Malaysia, Singapore, Thailand)
+| {{won}}
+|}
+
+== References ==
+{{Reflist}}
+{{reflist|group=note}}
+
+== External links ==
+{{Commons category|Lisa (Thai singer)}}
+* [http://www.blackpinkofficial.com/ Blackpink official website]
+* {{HanCinema person}}
+* {{IMDb name}}
+{{Portal bar|Music|Thailand|Korea}}
+{{Blackpink}}
+{{Authority control}}
+
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:People from Buriram Province]]
+[[Category:Thai female singers]]
+[[Category:K-pop singers]]
+[[Category:21st-century South Korean women singers]]
+[[Category:21st-century Thai singers]]
+[[Category:Korean-language singers]]
+[[Category:Korean-language singers of Thailand]]
+[[Category:Thai rappers]]
+[[Category:South Korean female pop singers]]
+[[Category:South Korean female idols]]
+[[Category:YG Entertainment artists]]
+[[Category:Blackpink members]]
+[[Category:Thai expatriates in South Korea]]

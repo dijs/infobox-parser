@@ -1,0 +1,37 @@
+{{Infobox Person
+| name = 林淑如
+| image = 
+| width = 
+| caption = 
+| gender = 女
+| birth_date = 1950年
+| death_date = {{death date and age|2005|3|12|1950}}
+| nationality = {{ROC}}
+| birth_place = {{ROC}}[[苗栗縣]]
+| death_place = {{ROC}}[[台北市]]
+| education = [[台北醫學院]]（今[[台北醫學大學]]）藥學系
+| 死因 = [[乳癌]]轉移
+| 墓地 = 台北市三峽區愛物園
+| occupation = 
+| 語言 = [[國語]] 
+| spouse = [[郭台銘]]（1974年結婚）
+| children = 女兒：[[郭曉玲]] <br>兒子：郭守正
+| footnotes =
+}}
+
+'''林淑如'''（{{bd|1950年||2005年|3月12日|}}），生於[[台灣]][[苗栗]]，為[[鴻海科技集團]]董事長[[郭台銘]]的首任妻子。
+
+==生平==
+林淑如畢業於[[台北醫學院]]（今[[台北醫學大學]]）藥學系。畢業後在三重紐約製藥廠實習，於1971年與一同工作的郭台銘認識。1974年，與郭台銘結婚，同年，郭台銘創立鴻海塑膠，兩人一同創業。婚後，兩人生下郭守正與[[郭曉玲]]<ref>{{cite news |title=郭台銘兩任妻子 一個沒得選一個沒錢味 |url=https://tw.news.yahoo.com/郭台銘兩任妻子-個沒得選-個沒錢味-富豪列傳郭台銘10-181600072.html|work=壹週刊 |date=2019-03-08}}</ref>。
+
+2005年3月12日，因[[乳癌]]轉移，病逝於台北。墓園位於台北市三峽區愛物園<ref>{{cite news |title=郭董哽咽憶往事…摸黑、翻牆祭亡妻 |url=https://ec.ltn.com.tw/article/breakingnews/2210760|work=自由時報 |date=2017-10-02}}</ref>。
+
+==參考資料==
+{{reflist}}
+{{DEFAULTSORT:L林}}
+
+[[Category:林姓|S]]
+[[Category:苗栗人]]
+[[Category:臺北醫學院校友]]
+[[Category:鸿海集团人物]]
+[[Category:罹患乳腺癌逝世者]]

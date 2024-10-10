@@ -2,29 +2,37 @@ require('should');
 import fs from 'fs';
 import parse from '../index';
 
-describe('Should Parse Batman\'s Information', () => {
+describe("Should Parse Batman's Information", () => {
   const source = fs.readFileSync('./data/batman.txt', 'utf8');
-  const properties = parse(source, { simplifyDataValues: false });
+  const properties = parse(source, {
+    simplifyDataValues: false,
+    removeSmall: true,
+  });
+
   it('publisher', () => {
-    properties.should.have.property('publisher', 'DC Comics');
+    properties.general.should.have.property('publisher', 'DC Comics');
   });
   it('hero', () => {
-    properties.hero.should.be.true();
+    properties.general.hero.should.be.true();
   });
   it('partners', () => {
-    properties.partners.length.should.equal(5);
-    properties.partners.should.containEql('Superman');
+    properties.general.partners.length.should.equal(5);
+    properties.general.partners.should.containEql('Superman');
   });
   it('aliases', () => {
-    properties.aliases.should.containEql('Matches Malone');
-    properties.aliases.should.containEql('Lefty Knox');
+    properties.general.aliases.should.containEql('Matches Malone');
+    properties.general.aliases.should.containEql('Lefty Knox');
   });
   it('alliances', () => {
-    properties.alliances.should.containEql('Justice League');
-    properties.alliances.should.containEql('Batman Incorporated');
+    properties.general.alliances.should.containEql('Justice League');
+    properties.general.alliances.should.containEql('Batman Incorporated');
   });
   it('powers', () => {
-    properties.powers.should.containEql('Expert detective');
-    properties.powers.should.containEql('Genius-level intellect');
+    properties.general.powers.should.containEql('Expert detective');
+    properties.general.powers.should.containEql('Genius-level intellect');
+  });
+  it('creators', () => {
+    properties.general.creators.should.containEql('Bill Finger');
+    properties.general.creators.should.containEql('Bob Kane');
   });
 });

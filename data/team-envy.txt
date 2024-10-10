@@ -1,0 +1,397 @@
+{{Infobox Team
+|isdisbanded=
+|name=Team Envy
+|country=
+|orgcountry=United States
+|region=North America
+|image=Team Envylogo square.png
+|rosterphoto=TeamEnvy Vegas 2019.png
+|sponsor=[http://www.scufgaming.com/ Scuf Gaming] <br> [http://www.monsterenergy.com/ Monster Energy] <br> [https://www.twitch.tv/ Twitch] <br> [https://www.jackinthebox.com/ Jack In The Box]
+|swatches=
+<!-- Staff -->
+|headcoach=Embry “Bevils” Bevil
+|owner=Matthew "'''TazMo'''" Taylor <br> Marcus "'''Elumnite"''' Lovejoy
+<!-- Social Media -->
+|website=http://www.teamenvyus.com/
+|youtube=https://www.youtube.com/user/TeamEnVyUs
+|facebook=https://www.facebook.com/TeamEnVyUs
+|twitter=EnVy
+|discord=
+|snapchat=
+|instagram=teamenvyus
+|reddit=
+<!-- History -->
+|created= 
+|disbanded= 
+<!-- Other Teams Wikis -->
+|otherwikis=lol,halo,gears,smite
+}}{{TOCRWI}}
+
+'''{{FULLPAGENAME}}''', also known as Team EnVyUs, is an esports organization based in the United States that currently has teams in Call of Duty, Counter Strike: Global Offensive, Overwatch, PUBG, Paladins, and Fortnite.
+
+== History ==
+===Beginnings===
+Team Envy was established in 2007. [[FoRePLayy]] and [[StaiNViLLe]] created the team during the Call of Duty 4: Modern Warfare season. Due to the eSports scene still being rather small, especially for Call of Duty at the time, the team was able to begin cementing their name as one to remember. The team managed an impressive 2nd place finish at the [[MLG National Championship 2008]] with the roster of FoRePLayy, StaiNViLLe, [[Nemesis]], and [[Fierce]]. While the 2nd place finish was something certainly to be proud of, the team was of course looking to go one better. Going into the [[MLG National Championship 2009]] the roster shuffled around with only StaiNViLLe and Fierce staying, to be joined by [[Hastr0]] and [[SiDRoC]]. SiDRoC was considered one of the better players in the game thus raising the team hopes in one-upping their performance from the previous year. However, it was not to be. The team once again fell short, losing out to [[Xtravagant]] in the finals and once again taking 2nd place.
+
+===Modern Warfare 2===
+Going into Call of Duty: Modern Warfare 2, the team was shaping themselves into one of the more recognizable organizations in the game, following the two strong placings in the previous title. Unfortunately, things got off to a shaky start, as they finished a disappointing 6th at the Gamestop 10K. Disappointed with the placing, the team made some roster changes, with [[FoRePLayy]] making his return to join [[StaiNViLLe]] and [[ProoFy]], and [[Sharp]] joining the team. The team proved their worth, taking 1st place at the [[MLG Online National Championship]] - taking out [[Xtravagant]]; the team that had beaten them out the previous year. While the victory was the first major win in the team's history, they were more concerned with proving themselves on LAN at the upcoming [[MLG National Championship 2010]] in Dallas, Texas. The event was only a week after EnVyUs had secured the first place finish online and the team was coming in on a high. However, they were unable to replicate the same results and finished a surprising 7th to close out the season.
+
+===Black Ops===
+With a new game in Call of Duty: Black Ops also came brand new support for the Call of Duty scene. The game was put on the MLG circuit which would bring consistent events throughout the year. With this announcement, teams were looking assert themselves quickly. Going into the first event, [[MLG Dallas]], the team was looking to redeem their performance from the last time they were in Dallas. Unfortunately, the team finished a disappointing 6th place. Following the event, Hastr0 fell back to his ownership role in the team, and [[FEARS]] and [[Terror]] left leaving the team with only StaiNViLLe. With [[MLG Anaheim 2011]] on the horizon, the team decided to add [[Dedo]], [[NaDeSHoT]], and [[Bobby]] to the roster. They were hoping to make amends following the previous disappointing finishes with this new roster, but it was not to be. The team earned their worst placing to date coming in at 8th and taking only $800.
+
+The team decided to remain with this roster, and were awarded with a solid 3rd place finish at [[MLG Raleigh]]. Despite the improvement, Nadeshot and Bobby were replaced by [[Lyar]] and [[Saints]]. The two were proven players in the game and were looking to showcase their talent for one of the bigger organizations. The roster change didn't result in immediate success however, as the team once more fell short of winning, with another 3rd place at [[MLG Orlando]]. This was the last regular event of the year with only the [[MLG National Championship 2011]] left. The roster stayed the same, hoping they could make the necessary improvements to take the thus far elusive 1st place finish. However it was not to be. The team once more fell short of grabbing their first major LAN title, losing out to NexT Threat in the final. This loss lead to what would become known as the "nV Curse" - due to their inability to win a major LAN event.
+
+===Black Ops II===
+Unfortunately for most Call of Duty players, Call of Duty: Modern Warfare 3 didn't have the necessary LAN support that was needed to run proper events. This led to many players taking the entire year off including EnVyUs. Following the break, the release of Call of Duty: Black Ops 2 brought on the most supported Call of Duty title to date in the competitive scene. Not only were MLG events back, but new companies came up such as UMG also provided. [[UMG Chicago]] was held 2 days before the New Year and only a month after the release of the game. With many teams still getting to grips with the new game, the event was anyones to win. For EnVy, [[Stainville]] was still on the team, along with [[ProoFy]] who was making his return and two fresh faces to the organization in [[Censor]] and [[JKap]]. [[Censor]] was on the [[Quantic Nex-TT-hreat]] team that had won the National Championship in Call of Duty: Black Ops and [[JKap]] was regarded as having one of the better assault rifle shots in that same game. With a roster full of great players, the team was in a great position to have a good showing at the first event of the year. However, they had an underwhelming performance coming in 4th and falling outside of the prize pool. The team was not satisfied and decided to make a change, releasing [[Censor]] to bring on [[Rambo]], a proven veteran in the community. This was the roster that the team took into the [[MLG Winter Championship]], which was sporting a significantly larger prize pool and a greater number of teams competing. The pressure was definitely on the team to perform well and prove that they were still capable of winning events. However, it once again wasn't to be, as they placed 5th and took $2,300 in prize money. The team did not adjust despite this placing, keeping the same roster going into the biggest event in Call of Duty eSports history at the [[Call of Duty Championship]]. The event had a $1,000,000 prize pool - nearly 10 times more than any previous event. The team played one of their finest tournaments as they went through the winners bracket all the way to the grand finals. In the finals they matched up against [[Fariko Impact]] who they had previously knocked into the losers bracket. This time however, Fariko Impact got their revenge, with the series going all the way to a game 11 Search & Destory with [[Fariko Impact|Impact]] taking it 6-5. Despite the loss, the team still walked away with an impressive $200,000.
+
+Even though they fell just short of the victory, the team kept the same roster moving forward in hopes that they could possibly get over the hump and finally win a LAN event. At [[UMG St. Louis]], the team once more had to go up against [[Fariko Impact|Impact]] in the finals and again fell short as Impact completed their 4 event win streak. EnVy were finally able to win at [[UGC Niagara 2013]], and while the win was a nice relief for the team, it came up against mainly pick-up teams that weren't as practiced as them. While the win was supposed to relieve the pressure and allow the team to start bringing in more victories, it didn't quite work out that way. At the [[MLG Spring Championship]], the team finished with one of the worst placings in the team's history, as they came in 9th. Following the event, the team looked to turn things round abroad in London for the inaugural [[Gfinity]] event. The event was invite-only and brought the 16 best teams from America and Europe together. The results didn't get any better as the team finished 9th again. Following this event, Impact began to fall apart and [[Karma]] decided to leave. Karma was regarded as one of the best players, if not the best, in the game at the time. EnVyUs took this as the perfect opportunity to fix their poor showings by releasing [[Stainville]] and recruiting Karma. Despite the new roster, the results continued to worsen as they placed a very disappointing 13th-16th at [[UMG Atlanta]]. The [[MLG PAX Prime Invitational]] also marked the last event for [[JKap]], as he left to join [[OpTic]] who had dropped [[MerK]]. With this change, [[MerK]] quickly filled the void left by [[JKap]] and joined the team. However the results remained poor as they finished 5th and 6th respectively at the last two events of the year.
+
+===Ghosts===
+The roster of [[Rambo]], [[MerK]], [[ProoFy]], and [[Karma]] stuck together going into Call of Duty: Ghosts, however it was clear that there was tension among the team due to the poor results. The [[MLG Fall Championship]] was the first event of the new game and the team didn't perform up to standards once more, finishing 6th. The event got even worse for the team, with [[Karma]] deciding to leave to join [[compLexity]] in hopes that he could start winning once more. The team was left with a huge hole to fill. They hoped to find a solution in [[Goonjar]], who left [[Team Kaliber]] to join. With over a month until the next event at [[UMG Philadelphia]] to perfect their game and finally get out of the slump, the team was happy and excited for the event. However, once again, it ended with disappointment, finishing 9-12th. The team announced shortly after that [[Scump]] had left [[OpTic Gaming]] to join the team. This left Rambo in a tight position, because he didn't want to leave the team and so fell back to a coaching role. The roster of [[ProoFy]], [[Goonjar]], [[MerK]], and [[Scump]] with [[Rambo]] coaching was supposed to be the roster to finally put an end to all their troubles and start bringing in the titles.
+
+However, only a few weeks after joining, [[Scump]] admitted he had made a rash decision, returning to [[OpTic Gaming]]. [[Rambo]] came out of coaching to assume his previous position on the team. However, more difficulty arose as [[Goonjar]] decided to go back to [[Team Kaliber]] and [[ProoFy]] finally left the team to join [[FaZe Clan]]. [[Rambo]] and [[MerK]] were left searching to fill the roster spots, deciding to go with [[NAMELESS]] and [[StuDyy]], both who were dropped by their previous teams, and forming a team somewhat of unwanted players. Wanting to prove their doubters wrong, the team managed 2nd in the online [[Call of Duty Winter Invitational]], losing out to [[Curse LV]]. With this, they were able to qualify for the [[Call of Duty Championship 2014]] getting through the online and regional qualifiers without much trouble. At the championship, the team got off to a shaky start falling to Immunity from Australia in pool play which forced them to play a round-robin tie breaker to get into bracket play, following a 3-way tie between Immunity, nV, and [[TCM Gaming]], all with a record of 2-1. EnVyUs got through in 2nd place, matching up against [[Strictly Business]] in the first round. This proved too tough an opponent, as EnVy were beaten and dropped to the losers bracket. With their backs against the wall, the team went on a remarkable run through the losers bracket, beating all the top teams as they made their way to the finals. The team now faced the powerhouse [[compLexity]]. Their remarkable run was ended, as they were swept 3-0. Even with the loss, the team left with a substantial $200,000 and satisfied with ending the adversity they had faced for the past 2 months. 
+
+After [[Call of Duty Championship 2014]], EnVy decided a change was necessary, in order to finally start winning events. This resulted in the addition of [[Parasite]] to the roster and once again moving [[Rambo]] to a coaching role. Their next event was [[UGC Niagara 2014]], where EnVy steamrolled through the winners bracket into the finals. All looked positive, but [[compLexity]] was coming through the losers bracket. The final match between EnVyUs and [[compLexity]] was extremely one sided, as Complexity won 6 maps in a row to claim victory, putting EnVyUs in a familiar 2nd. The team was largely satisfied with the placement considering it was their first event as a team. In the time after this even and before the [[MLG X Games Invitational]], the team worked very hard to improve. However, they didn't get the placing expected, finishing 4th place, meaning they did not medal in the event. When the event came around, many people expected big things from EnVyUs. All the hard work and training looked as if it had paid off as they beat [[Team Kaliber]] in the first round with a 3-0. Their next match was against [[OpTic Gaming]], and a huge crowd gathered to see the action. It came as a shock to everyone when the match against ended in a demoralizing 0-3 loss for EnVy. They subsequently lost their losers bracket match against [[Curse Black]] 2-3, finishing in 5-6th.
+
+After the poor performances at the last 2 events, the team knew it was time for a change. [[StuDyy]] was released and [[Parasite]] declared himself a free agent. EnVy added [[Formal]], and former EnVy member [[JKap]]. The new team made their debut at [[Gfinity 3]] in London. The team came out strong, winning their group without dropping a single map. Following group play, they were drawn to face [[Curse]] in the first round of the single elimination playoff; they ran through [[Curse]] taking a 3-0 win. They next defeated [[OpTic Nation]] 3-1 in the semi-finals and finally [[Epsilon]] 3-0 in the finals to win the event. This was the first major LAN event win since [[UGC Niagara 2013]]. Team EnVyUs continued to prove they were a top team, placing 2nd at [[UMG Dallas]], and later became the MLG Columbus champions in the [[MLG CoD League Season 3 Playoffs]]. 
+
+For the last major event for Call of Duty: Ghosts, EnVyUs looked to finish it off with a 1st place victory at [[ESWC 2014|Electronic Sports World Cup 2014]] in Paris after qualifying by winning [[Gfinity 3]]. However, conflicts within the team arose. After advancing through Group Play, it was announced by both Nameless and JKap on Twitter that they would no longer be part of EnVy after the event, due to  speculation that [[Formal]] wanted to team with [[Crimsix]] and [[Karma]] for the next Call of Duty game. This led to a demoralizing 1-3 loss to [[TCM]], and finishing off Ghosts with a disappointing 8th place finish.
+
+===Advanced Warfare===
+With a new game, also came a new roster for EnVy heading into Call of Duty: Advanced Warfare. After the rumoured speculation that [[Nameless]] and [[JKap]] would be leaving the team, a turn of events occurred, with instead [[FormaL]] leaving EnVy to join [[OpTic Gaming]]. This resulted in [[Nameless]] and [[JKap]] staying, and their search for a 4th player didn't last long, as they soon picked up [[Clayster]], who was surprisingly dropped from [[OpTic Gaming]] in order to make room for FormaL. With this new roster, there was high expectations for EnVy going into Call of Duty: Advanced Warfare.
+
+At the first LAN event for Call of Duty: Advanced Warfare in [[MLG Columbus 2014]], the team qualified into the Winner's Bracket. However, they were swept 0-3 to [[OpTic Gaming]], sending them to the Loser's Bracket. From there, they were yet again, swept 0-3 to [[Team KaLiBeR]], finishing the event with a 5th place finish. In the next event at [[UMG Orlando 2015]], it would prove to be another uphill battle for EnVy. After going 1-3 in Pool Play, the team would have to start in the Loser's Bracket. In their first match in the Loser's Bracket, they came out with a close 3-2 win over [[FaZe]]. However, they were unable to pull off another close match against [[Strictly Business]], falling 2-3, and finishing the event in 9th-12th place.
+
+Due to the recent performances, EnVyUs decided that the current team was simply not meshing well, and that another roster change was in order. During the [[MLG Pro League CoD AW Season 1]], EnVyUs traded [[Clayster]] and [[JKap]] to [[Denial]] for [[Saints]] and [[ZooMaa]]. Their first event with this new roster came at the [[MLG Pro League CoD AW Season 1|MLG Pro League CoD AW Season 1 Playoffs]], after qualifying by finishing 7th during the season. They came out firing against [[Denial]] in a highly anticipated grudge match, beating them 3-1. In the next round against [[Team KaLiBeR]] however, they lost a heartbreaking series 2-3, and were sent to the Losers Bracket. From there, they lost another close match, this time to [[FaZe]] 1-3, finishing out the playoffs in 6th place.
+
+The team would redouble their efforts toward qualifying for [[Call_of_Duty_Championship_2015_Tournament|Call of Duty Championship]]. At the [[Regional Finals|Call of Duty Championship 2015 NA Regional Finals]], the team secured qualification, winning their first three matches. In the fourth round, however, they were swept 0-3 by [[OpTic Gaming]] and sent to the Losers Bracket. From there, they were eliminated by [[OpTic Nation]], finishing in 5th-6th place. 
+
+At the [[Call_of_Duty_Championship_2015_Tournament|Call of Duty Championship]], they went undefeated in group play, and qualified into the winners bracket. In the first round, they were upset by [[Aware Gaming]] 1-3, and were sent to the losers bracket. Here, they rallied back from an 0-2 deficit against [[OpTic Nation]], winning 3-2. However, they were unable to sustain the momentum in their next match against [[FaZe_Red]], quickly falling 0-3 to them, finishing the event just out of the top 8 with a 9th-12th place finish. Shortly after the event, roster changes were inevitable. The team first traded [[Nameless]] to [[Team KaLiBeR]] for [[Loony]]. [[Merk]] became a substitute player for the time being. They were later involved in a 3-way trade with [[FaZe]] and [[OpTic Nation]], eventually acquiring [[TeePee]] and EnVy veteran, [[ProoFy]]. [[ZooMaa]] was traded to [[FaZe]]. A few days later, [[Merk]] was loaned to [[Team JusTus]] for the remainder of the [[MLG Pro League/CoD AW/Season 2/Regular Season|MLG Pro League CoD AW Season 2]]. 
+
+EnVy participated in [[UGC Niagara 2015]], however, due to [[Saints]] not having a visa to travel out of the United States, [[Merk]] took his spot for the event as a substitute. They cruised through the winners bracket, but In the finals against [[Team KaLiBeR]], they were swept 0-3 and sent to the loser's finals. They were quickly down 0-2 against [[3sUP Enterprises]], before rallying three straight games to make it to the Grand Finals. In their rematch against [[Team KaLiBeR]], they reset the bracket with a 3-0 sweep. However, [[Team KaLiBeR]] quickly responded with a 3-0 sweep of their own, and EnVy finished in 2nd place.
+
+The team was invited to compete in the [[Gfinity Spring Masters 1]]. With [[Saints]] still not having a visa, [[Merk]] again substituted for him. The team qualified into the knockout stage after winning their group. EnVy were surprisingly taken out by [[TCM Gaming]] in a 0-3 sweep in the first round, finishing in 5th-8th place.  EnVy qualified for [[UMG California 2015]] after being in the top 8 overall Pro Points. Shortly after qualifying into the winners bracket, they were quickly swept by [[OpTic Gaming]], and they would yet again, have to fight through the losers bracket. After sweeping [[iSolation]], they survived two close series against [[vVv Gaming]] and [[eLevate NA|Elevate]]. In loser's semi-finals, they were eliminated with a 0-3 sweep by [[FaZe]], and finished in 4th place. 
+
+EnVy finished the Season 2 of the MLG Pro League with a 22-22 record and finished the league in 7th place, thus qualifying for [[MLG Pro League/CoD AW/Season 2/Playoffs|MLG Pro League CoD AW Season 2 Playoffs]] at the X Games in Austin, Texas. However, this was a short-lived event for the team. In the first round, they lost 1-4 to [[FaZe]], and were then eliminated by [[Rise Nation]] in a close 3-4 series loss, finishing in a disappointing 7th-8th place finish.
+
+Shortly before [[MLG Pro League/CoD AW/Season 3/Regular Season|MLG Pro League CoD AW Season 3]], [[TeePee]] and [[Saints]] both decided to leave, and [[ProoFy]] was released soon after. EnVy picked up rising prospects in [[Octane]] and [[AquA]], who both recently left [[Prophecy NA]]. JKap also returned to the team. This roster competed under EnVy for the majority of the remainder of the season, but failed to win an event. After placing 7-8th yet again at [[MLG Pro League Season 3 Playoffs|Season 3 Playoffs]], Aqua and Octane both decided to leave the team. For the final event of the season [[MLG World Finals 2015]], [[Jurd]] and Goonjar replaced them, and the team played well, but ultimately fell short to Denial, finishing 4th.
+
+===Black Ops 3===
+For the new season, only JKap remained on the team. EnVy recruited long time partnership [[ACHES]] and [[TeePee]], as well as breakout player from Advanced Warfare, [[SlasheR]].  However the team fell short, after qualifying for the [[2016 NA CWL Stage 1 Regular Season]], the team finished a disappointing 5th, and then 5-8th at the [[2016 NA CWL Stage 1 Playoffs]]. Following the retirement of TeePee, [[ACHES]] was traded to new organisation [[100 Thieves]], and EnVy picked up [[Apathy]] and [[John]]. Despite a slow start, finishing 7-8th at [[MLG Anaheim Open 2016]], this team found consistency, coming 1st in both the [[2016 NA CWL Stage 2 Regular Season]] (although this was only due to [[OpTic|OpTic Gaming]] forfeiting 4 series due to CWL rulings and suspensions), and the [[2016 NA CWL Stage 2 Playoffs]]. At [[MLG Orlando Open 2016]], the final event before champs, the team finished 2nd to [[OpTic|OpTic Gaming]]. 
+
+====Winning the 2016 World Championship====
+Team EnVyUs were placed in Group G with fellow NA team [[Cloud 9]], EU squad [[Team Vitality]] and the Australian arm of [[Orbit]] - [[Team Orbit ANZ]]. The team won the group finishing 3-0 series count, and 9-3 map count. Due to [[OpTic]] finishing 2nd in group H, the teams met in winner's bracket round 1. EnVy took the match 3-1, winning the final map (Fringe CTF) 1-0, after [[Karma]] made a notoriously questionable play with a dart, taking him out of the action while [[SlasheR]] made the only flag cap of the game. In winner's bracket round 2, the team faced [[FaZe]], and won the series convincingly 3-0, scoring 18 points to 8 in the Uplink on Evac. In the 3rd round of winners, they came up against the surprise package of the tournament, [[FAB Games eSports]], in what was a closer contest than the FaZe match. EnVy won the Hardpoint and Uplink comfortably, but dropped the Search and Destroy 5-6. However they closed out to win the series 3-1 in the end, winning the Game 4 CTF 3-2, after John secured the match with a capture with only 22 seconds remaining. Apathy got both the other caps for the team. They now faced [[Elevate NA|Elevate]] in winners finals. EnVyUs took the first map comfortably, winning Evac Hardpoint 250-100, notably all players on the team had over 1 minute in the Hardpoint. Elevate won the Search and Destroy and the Uplink though, leaving the team fighting for their tournament life. Apathy and John performed very well on Stronghold CTF, going 26-13 and 24-13 (k/d) respectively, and Apathy secured 2 captures for his team. With the series now tied 2-2 going into Infection Search and Destroy, Apathy once again performed strongly finish with 10 kills and only 3 deaths, leading his team to a 6-2 victory against a team renowned for Search and Destroy. Now in Grand Finals, they faced EU team [[Splyce]]. Surprisingly, EnVy lost the Hardpoint, a mode they had only lost twice previously in the tournament. However they won the next 3 maps with reasonable ease, and won the series 3-1, crowning them Champions for [[2016 Call of Duty World League Championship]]. John was named the tournament MVP for his combination map winning plays and general slaying skill.
+
+===Infinite Warfare===
+Due to Apathy's marriage and JKap's and SlasheR's school commitments, the team were less practiced than normal and placed uncharacteristically poorly at the first event of the season [[2017 CWL Las Vegas Open]], finishing in 9-12th place. As a result of this, and poor placing's in the the online MLG GameBattles 2K Series tournaments, EnVy's place in pools at the next event, [[2017 CWL Atlanta Open]] was far from secure. However, after winning a 2K tournament, the team just managed to have enough pro points to make pool play. They played well at the event, but fell just short, finishing 3rd. The team then flew to Paris to compete at the [[2017 CWL Paris Open]]. Surprisingly, the team finished as poorly as they had done back in Vegas, placing 9-12th, following back to back 3-0 losses to [[OpTic Gaming]] and [[Splyce]]. The team practiced heavily after the event, knowing that their placing in Paris was well below their expected standard, and placed top 4 at both of the subsequent online 2K series. The next event for the squad was the [[2017 CWL Dallas Open|Dallas Open]], and the team did fair slightly better. Losses in pool play to OpTic, and the surprisingly strong [[GosuCrew]] who came from the Open Bracket, meant EnVy had to play through losers bracket. The team made an admirable run, beating [[SetToDestroyX]], [[Cloud 9]] and [[Luminosity]], before eventually being beating in a map 5 by eventual runners up [[eUnited]], placing 5-6th for the event.
+
+Despite their relatively poor placings at the first 4 events, EnVy were still high enough in the pro points rankings to qualify as the 5th seed for the [[2017 CWL Global Pro League Stage 1]]. EnVy were placed into group red with the top EU team [[Splyce]], the top APAC team [[Mindfreak]], as well as fellow NA Squad [[Cloud 9]], to compete in week 1. They began the weekend up against the overall 4th seed Splyce, and lost a close match 3-1. They won the remainder of their matches over the weekend against Cloud 9 and Mindfreak, but so did Splyce, which meant the final match between the two would decide who would top the group. However, EnVy would have to win the match 3-0 to do so, in order to better the map count of Splyce. EnVy surprised many to do just that, winning the Hardpoint and Search and Destroy narrowly, before completing the clean sweep in a more comfortable Uplink. Apathy was awarded the All Star for EnVy for the group stages. Following their 1st place in the group stages, EnVy went to [[2017 CWL Global Pro League Stage 1|Stage 1 playoffs]] as a top seed. They drew the 2nd place team from the Yellow Group, [[Luminosity]] in Winners round 1. Despite being the higher seed and winning the first map, EnVy dropped the series 1-3, with [[Luminosity|LG]] showing their new found strength in Infinite Warfare. Falling into loser's bracket, EnVy came up against [[OpTic Gaming]], following their own surprise defeat at the hands of [[FaZe]]. OpTic proved simply too strong for EnVy, and after winning a close map 1, they closed out the series 3-0, placing EnVy 7-8th for the event. 
+
+The EnVy squad were disappointed with their placing at playoffs, but having lost to arguably the top 2 teams in Infinite Warfare, the team was still hopeful of improvement at the [[2017 CWL Anaheim Open]]. However the event was to be EnVy's worst of the year so far. After a poor performance in pool play, where they lost to [[Epsilon eSports]], [[Luminosity]] and even the team from open bracket, [[Rogue]]. Despite winning their match against [[Red Reserve EU]], EnVy still finished last in the group as Rogue and a superior map count. Falling immediately to loser's bracket round 1, they faced [[Team Allegiance]]. Given that the Allegiance squad was up and coming players, the veterans EnVy were heavy favourites to win the match up. In a shock defeat though, EnVy's weekend hit its lowest point, as they fell 3-2, losing the game 5 Retaliation Search and Destroy in a crushing round 11, 5-6. EnVyUs placed 21st-24th, the lowest placement in the organisations history at a major tournament.
+
+As a result of the poor placing, it was expected by many that a roster change was imminent. Numerous rumours involving a number of players were linked with moves to the nV roster, but ultimately, no deals were struck. The roster, that had now been together over a year, decided to bootcamp for 2 weeks prior to their group weekend at [[2017 CWL Global Pro League Stage 2|Stage 2]] of the Global Pro League. The consensus in the community was that EnVy had been drawn into the toughest pool, with [[OpTic Gaming]], [[Epsilon eSports]], and [[Cloud 9]], and many polls suggested fans didn't expect them to qualify for playoffs. However, the team proved the doubters wrong, beating all the opposition except OpTic, to manage 2nd place in the group, and qualify for [[2017 CWL Global Pro League Stage 2|Playoffs]], which took place only a week later. Again EnVy surprised, and went unbeaten all the way to the Grand Final's, taking out top opposition in [[FaZe Clan]], [[Luminosity Gaming]] and [[eUnited]] on their way. Meeting them in the final was the squad they had failed to overcome in the group stage, [[OpTic Gaming]]. Coming from the losers bracket however, OpTic had to win 2 best of 5 series. To EnVy's disappointment, they did just that, winning both series 3-1. Despite missing out on the trophy, the improvement from their top 24 placing at [[2017 CWL Anaheim Open|Anaheim]] was impressive on all counts, and the team hoped to continue this going into the final event of the year.
+
+====2017 World Championship====
+Despite the rollercoaster year, Team EnVyUs had a very impressive resume at previous Call of Duty Championships, reaching the Grand Finals 3 out of 4 years. They were also the only squad to return with the same roster to two Championships in an attempt to defend their title. Placed in a pool with [[Team eLevate NA|Elevate]], [[Mindfreak.Black]] and [[Projekt Evil]], the team expected to, and ultimately did, cruise through to bracket play. Dropping only one map in pool play, EnVy went in as 1st seed in their group, to face against the second place team from Group A, [[Epsilon eSports]]. A familiar match up from Stage 2 of the Pro League, EnVy overcame this first hurdle with relative ease, despite dropping first map, winning 3-1. Moving on to saturday, the team came up against one of the suggested dark horses for the tournament in [[Ghost Gaming]]. Again however, EnVy proved too experienced for this newly composed squad, and won a tight match 3-0.
+ 
+'''The Uplink Comeback'''
+
+Now in Winner's semis, EnVy would face their toughest opponents thus far, [[eUnited]]. This team, with [[Clayster]]'s lead, had so far looked near flawless in the tournament, particularly in respawn modes, and were favourites to beat EnVy. But EnVy surprised once more, again despite dropping the first map, tied the series up 1-1 winning the Search and Destroy. Next up was precinct uplink, and given eUnited's record in respawn modes, EnVy would have to be at their very best to take the map. However, after a perfect first half from eUnited, EnVy were down 0-9, and looked out of the map completely. eUnited added another point just before the 4 minutes remaining mark, and for many, that was map over. In a move that bemused the spectators, it was decided to do a listen in to EnVy's communication. The squad seemed fairly unfazed by the deficit however, and with a little over 3 and half minutes left, proceeded to make what many called the greatest comeback in competitive Call of Duty. The team rallied 12 unanswered points, and had 3 members, John, JKap and Apathy gain full streaks. An unprecedented comeback, which was followed by another in the Map 4 hardpoint, after being down 20-121, EnVy took the map 250-240. It was a huge victory for the team, one that guaranteed a top 3 finish.
+
+The team would face their so far unbeatable foe in [[OpTic Gaming]] in the Winners final, for a spot in the Grand Final. Again, despite an impressive 42 kills from SlasheR, OpTic took the first map, off the back of double 40+ kill games from [[Scump]] and [[FormaL]]. However, EnVy continued to show strength in Search & Destroy and Uplink, winning the next 2 maps. With the momentum with them, they completed the victory on Map 4 hardpoint, securing a place in the Grand Final - the organization's 4th in 5 years. After beating [[Luminosity Gaming|Luminosity]] in the Loser's final, it was once again OpTic Gaming who EnVy would face in the final. Like Stage 2 Playoffs, OpTic would again have to beat EnVy in 2 best of 5 series. EnVy suffered a heart breaking defeat however, dropping the first series 3-1, before completely running out of momentum and being swept 3-0 by OpTic in the second. It was a case of OpTic being at their very best while on the hunt for their first World Championship, and Team EnVyUs simply seeming devoid of the spark which they had shown throughout the tournament. Despite the loss, once again the roster of [[JKap]], [[Apathy]], [[SlasheR]] and [[John]], had shown their resilience and composure, and the future remained very bright for these 4 players. Their performance also cemented the organization with the best cumulative record at multiple Call of Duty Championships.
+
+===Black Ops 4===
+For the upcoming 2019 CWL season, on September 22, 2018, '''Envy''' announced that they acquired the former '''[[Evil Geniuses]]''' roster of [[ACHES]], [[Apathy]], [[Assault]], and [[SiLLY]], alongside their coach, [[Bevils]] to join [[Huke]] on the roster. With this move, it resulted in [[Classic]], [[Chino]], and [[Decemate]] to become restricted Free Agents. Classic later joined [[Luminosity]], with Chino and Decemate traded to [[G2 Esports]].
+
+After performing well online, Envy attended the first event of the Black Ops 4 season, [[CWL/2019_Season/Las_Vegas_Open|CWL Las Vegas]] anticipating a strong performance. A lacklustre showing in Pool C, losing to [[Str8 Rippin]], [[FaZe Clan]] and open bracket team [[Mazer Gaming]] meant Envy dropped straight to losers. Three successive wins in losers bracket secured top 12, but Envy would go no further, as [[Lightning Pandas]] got revenge from their earlier pool play match, winning 3-1 and eliminating Envy.
+
+== Trivia ==
+*The organization has 4 [[Call of Duty Championship]] grand final appearances in 2013, 2014, 2016, and 2017; earning 2nd, 2nd, 1st, and 2nd respectively.
+**This is the most grand finals appearances from a single organization in [[Call of Duty Championship]] history.
+
+== Timeline ==
+{{TDRight
+|name1=2007
+|content1=
+* Team is '''founded''' by {{bl|FoRePLayy}} and {{bl|StaiNViLLe}}. {{bl|Nemesis}} and {{bl|Fierce}} join. 
+
+|name2=2009
+|content2=
+* [[FoRePLayy]] and [[Nemesis]] leave. {{bl|Hastr0}} and {{bl|SiDRoC}} join.
+
+|name3=2011
+|content3=
+* Winter, {{bl|Hastr0}}, {{bl|FEARS}}, and {{bl|Terror}} join. [[ProoFy]], [[Sharp]], and [[FoRePLayy]] leave.
+* Spring, {{bl|Bobby}}, {{bl|NaDeSHoT}}, and {{bl|Dedo}} join. [[Hastr0]], [[FEARS]], and [[Terror]] leave.
+* Fall, {{bl|Lyar}} and {{bl|Saints}} join. [[Bobby]] and [[NaDeSHoT]] leave.
+* Fall, team '''disbands''' because of lack LAN support in Modern Warfare 3.
+
+|name4=2012
+|content4=
+* Fall, team '''reforms''' with roster of {{bl|JKap}}, {{bl|StaiNViLLe}}, {{bl|ProoFy}}, and {{bl|Rambo}}.
+
+|name5=2013
+|content5=
+* Summer, {{bl|Karma}} joins. [[StaiNViLLe]] leaves.
+* Fall, {{bl|Merk}} joins. [[JKap]] leaves. 
+* Fall, {{bl|Goonjar}} joins.[[Karma]] leaves.
+
+|name6=2014
+|content6=
+* Winter, {{bl|StuDyy}} and {{bl|NAMELESS}} join. [[Goonjar]] and [[ProoFy]] leave.
+* April 14, {{bl|Parasite}} joins. [[Rambo]] leaves.
+* June 25, {{bl|Formal}} and {{bl|JKap}} join. [[StuDyy]] and [[Parasite]] leave.
+* November 1, [[Formal]] leaves.
+* November 6, {{bl|Clayster}} joins.
+
+|name7=2015
+|content7=
+* January 17, [[JKap]] and [[Clayster]] '''traded''' to [[Denial eSports]] for {{bl|ZooMaa}} and {{bl|Saints}}.
+* April 7, [[ZooMaa]] and [[Aqua]](Substitute) '''traded''' to [[FaZe Clan]] for {{bl|ACHES}} and {{bl|TeePee}}. [[NAMELESS]] is '''traded''' to [[Team Kaliber]] for {{bl|Loony}}.
+* April 8, [[ACHES]] '''traded''' to [[Prophecy]] for {{bl|StuDyy}}.
+* April 10, [[StuDyy]] '''traded''' to [[Team JusTus]]. [[Merk]] '''loaned''' to [[Team JusTus]] for the rest of [[MLG Pro League Season 2 Regular Season]].
+* June 24, [[ProoFy]], [[TeePee]] and [[Saints]] released.
+* June 25, {{bl|AquA}}, {{bl|Octane}} {{bl|JKap}} join.
+* October 26, [[Loony]] and [[Goonjar]] leave. {{bl|ACHES}} and {{bl|Slasher}} join.
+* November 10, {{bl|TeePee}} rejoins.
+
+|name8=2016
+|content8=
+* April 16, [[ACHES]] and [[TeePee]] leave. {{bl|Apathy}} and {{bl|John}} join.
+
+|name9=2017
+|content9=
+* August 26, [[John]], [[Apathy]] and [[JKap]] leave. <ref> [https://twitter.com/envy_j0hn/status/901558307793588224 I'm no longer a part of @TeamEnVyUs.  It was fun while it lasted] - ''twitter.com'' </ref> <ref> [https://twitter.com/envy_apathy/status/901597716740022274 I want to thank @TeamEnVyUs for everything they've done for me.] - ''twitter.com'' </ref> <ref> [https://twitter.com/JKap415/status/901549585084108801 I'm no longer a part of @TeamEnVyUs. It was a good run] - ''twitter.com'' </ref>
+* November 4, {{bl|Classic}}, {{bl|Huke}} and {{bl|Temp}} join. <ref> [https://twitter.com/teamenvyus/status/926866772145385472 We're happy to officially announce #EnVyCOD for WWII!] - ''twitter.com'' </ref>
+* November 11, '''Elumnite''' joins as manager.<ref>[https://twitter.com/Elumnite/status/929419976246743040 I will be working with our Call of Duty team] - ''twitter.com''</ref>
+
+|name10=2018
+|content10=
+* April 7, [[SlasheR]] leaves. <ref> [https://twitter.com/EnVy_SlasheR/status/982693452843544576 F/A] - ''twitter.com'' </ref>
+* April 12, [[Temp]] leaves. {{bl|Chino}} and {{bl|Decemate}} join. <ref> [https://twitter.com/TeamEnVyUs/status/984557010397130752 📣 Welcome Martin "Chino" Chino & Jacob "Decemate" Cato to #EnvyCOD!] - ''twitter.com'' </ref>
+* September 22, [[Chino]], [[Classic]] and [[Decemate]] become restricted Free Agents. {{bl|ACHES}}, {{bl|Apathy}}, {{bl|Assault}}, and {{bl|SiLLY}} join. {{bl|Bevils}} joins as coach.<ref>[https://envy.gg/2018/09/22/team-envy-signs-2018-world-champions/ Team Envy Signs 2018 World Champions] - ''envy.gg''</ref> 
+* October 16, [[Classic]] leaves.<ref>[https://twitter.com/Luminosity/status/1052328889458933761 Luminosity's Tweet] </ref>
+* October 25, [[Chino]] and [[Decemate]] leave.<ref>[https://www.g2esports.com/g2-esports-black-ops-4-squad/ ANNOUNCING G2 ESPORTS’ TALENTED CALL OF DUTY: BLACK OPS 4 SQUAD] - ''g2esports.com''</ref>
+}}
+
+== Player Roster ==
+===Active===
+{{listplayer/Current/Start|dates=yes}}
+{{listplayer/Current|Huke|sa|Cuyler Garland|SMG Slayer|joined=2017-11-04}}
+{{listplayer/Current|ACHES|us|Patrick Price|Flex|joined=2018-09-22}}
+{{listplayer/Current|Apathy|us|Bryan Zhelyazkov|SMG Slayer|joined=2018-09-22}}
+{{listplayer/Current|Assault|us|Adam Garcia|Main AR|joined=2018-09-22}}
+{{listplayer/Current|SiLLY|us|Justin Fargo-Palmer|SMG Support|joined=2018-09-22}}
+{{listplayer/Current/End}}
+
+===Temporary Subs===
+{{listplayer/Start}}
+! Replacing
+! Tournament
+{{listplayer|MerK|us|Joe DeLuca|Objective}}
+|{{flag|us}} '''[[Saints]]'''
+|[[UGC Niagara 2015]]<br>[[Gfinity Spring Masters]]
+{{listplayer|NAMELESS|us|Anthony Wheeler|Support}}
+|{{flag|us}} '''[[Saints]]'''
+|[[DreamHack Invitational 2015]]
+{{listplayer|MerK|us|Joe DeLuca|Objective}}
+|{{flag|us}} '''[[AquA]]'''
+|[[MES Detroit 25k]]
+{{listplayer|Jurd|ie|Jordan Crowley|SMG Slayer}}
+|{{none}}
+|[[MLG World Finals 2015]]
+{{listplayer/End}}
+
+===Former===
+{{listplayer/Start|newteam=yes|dates=yes}}
+{{listplayer|Chino|us|Martin Chino|AR Slayer|newteam=G2 Esports|joined=2018-04-12|left=2018-10-25}}
+{{listplayer|Decemate|us|Jacob Cato|Support SMG|newteam=G2 Esports|joined=2018-04-12|left=2018-10-25}}
+{{listplayer|Classic|us|Nicholas DiCostanzo|Flex|newteam=Luminosity|joined=2017-11-04|left=2018-10-16}}
+{{listplayer|Temp|us|Donovan Laroda|Flex|newteam=Echo Fox|joined=2017-11-04|left=2018-04-12}}
+{{listplayer|SlasheR|us|Austin Liddicoat|AR Slayer|newteam=Rise Nation|joined=2015-10-26|left=2018-04-07}}
+{{listplayer|JKap|us|Jordan Kaplan|AR Slayer|newteam=Luminosity Gaming|joined=2015-06-25|left=2017-08-26}}
+{{listplayer|John|us|Johnathon Perez|Flex|newteam=Luminosity Gaming|joined=2016-04-16|left=2017-08-26}}
+{{listplayer|Apathy|us|Bryan Zhelyazkov|Flex|newteam=Evil Geniuses|joined=2016-04-16|left=2017-08-26}}
+{{listplayer|TeePee|us|Tyler Polchow|SMG Support|newteam=Luminosity Gaming|joined=2015-11-10|left=2016-04-16}}
+{{listplayer|ACHES|us|Patrick Price|Slayer|newteam=Counter Logic Gaming|joined=2015-10-26|left=2016-04-16}}
+{{listplayer|Goonjar|ca|Jevon Gooljar-Lim|Support AR|newteam=Team Kaliber|joined=2015-09-20|left=2015-10-26}}
+{{listplayer|Loony|us|Daniel Loza|Slayer|newteam=Rise Nation|joined=2015-04-07|left=2015-10-26}}
+{{listplayer|Aqua|us|Ulysses Silva|Objective|newteam=Epsilon eSports.NA|joined=2015-06-25|left=2015-09-20}}
+{{listplayer|Octane|us|Sam Larew|Slayer|newteam=Elevate NA|joined=2015-06-25|left=2015-09-20}}
+{{listplayer|MerK|us|Joe DeLuca|Objective|newteam=Nation|joined=2015-08-20|left=2015-08-23}}
+{{listplayer|ProoFy|us|Jordan Cannon|Slayer|newteam=Enigma6 Group|joined=2015-04-07|left=2015-06-24}}
+{{listplayer|TeePee|us|Tyler Polchow|SMG Support|newteam=TCM-Gaming|joined=2015-04-07|left=2015-06-24}}
+{{listplayer|Saints|us|Renato Forza|Slayer|newteam=Elevate NA|joined=2015-01-17|left=2015-06-24}}
+{{listplayer|StuDyy|us|Jeremy Astacio|Support|newteam=Team JusTus|joined=2015-04-08|left=2015-04-10}}
+{{listplayer|MerK|us|Joseph Deluca|Objective|newteam=Team JusTus|joined=2013-09-04|left=2015-04-10}}
+{{listplayer|ACHES|us|Patrick Price|Slayer|newteam=Prophecy|joined=2015-04-07|left=2015-04-08}}
+{{listplayer|ZooMaa|us|Thomas Paparatto|Slayer|newteam=FaZe Clan|joined=2015-01-17|left=2015-04-07}}
+{{listplayer|NAMELESS|us|Anthony Wheeler|Support|newteam=Team Kaliber|joined=2014-10-31|left=2015-04-07}}
+{{listplayer|Clayster|us|James Eubanks|Support|newteam=Denial eSports NA|joined=2014-11-06|left=2015-01-17}}
+{{listplayer|JKap|us|Jordan Kaplan|AR Slayer|newteam=Denial eSports NA|joined=2014-10-31|left=2015-01-17}}
+{{listplayer|FormaL|us|Matthew Piper|Slayer|newteam=OpTic Gaming|joined=2014-06-25|left=2014-11-01}}
+{{listplayer|JKap|us|Jordan Kaplan|AR Slayer|newteam=Team EnVyUs|joined=2014-06-25|left=2014-10-31}}
+{{listplayer|NAMELESS|us|Anthony Wheeler|Support|newteam=Team EnVyUs|joined=2014-01-23|left=2014-10-31}}
+{{listplayer|StuDyy|us|Jeremy Astacio|Support|newteam=Denial eSports NA|joined=2014-01-20|left=2014-06-25}}
+{{listplayer|Parasite|us|Christopher Duarte|Objective|newteam=FaZe Clan|joined=2014-04-14|left=2014-06-25}}
+{{listplayer|Rambo|ca|Raymond Lussier|Objective|newteam=Retired|joined=2014-01-21|left=2014-04-14}}
+{{listplayer|Scump|us|Seth Abner|Slayer|newteam=OpTic Gaming|joined=2014-01-07|left=2014-01-20}}
+{{listplayer|Rambo|ca|Raymond Lussier|Objective|newteam=Coach|joined=2013-02-??|left=2014-01-07}}
+{{listplayer|ProoFy|us|Jordan Cannon|Slayer|newteam=FaZe Clan|joined=2012-05-??|left=2014-01-21}}
+{{listplayer|Goonjar|ca|Jevon Gooljar-Lim|Support AR|newteam=Team Kaliber|joined=2013-12-10|left=2014-01-??}}
+{{listplayer|Karma|ca|Damon Barlow|Slayer|newteam=compLexity Gaming|joined=2013-07-15|left=2013-12-10}}
+{{listplayer|JKap|us|Jordan Kaplan|AR Slayer|newteam=OpTic Gaming|joined=2012-04-??|left=2013-09-01}}
+{{listplayer|StaiNViLLe|us|Tosh McGruder|Objective|newteam=SoaR Gaming|joined=2012-12-??|left=2013-07-15}}
+{{listplayer|Censor|us|Doug Martin|Objective|newteam=Thrust Nation|joined=2012-12-??|left=2012-12-??}}
+{{listplayer|FoRePLayy|us|Skyler Johnson|Objective|newteam=IcoNs Black|joined=2012-12-??|left=2012-12-??}}
+{{listplayer|Dedo|us|Kenneth Dedo|Slayer|newteam=FaZe Clan|joined=2012-10-??|left=2012-10-??}}
+{{listplayer|TwiZz|us|Eric Servello|Support|newteam=Team TaKeOver|joined=2012-04-??|left=2012-10-??}}
+{{listplayer|Parasite|us|Christopher Duarte|Slayer|newteam=FaZe Clan|joined=2012-10-??|left=2012-10-??}}
+{{listplayer|TuQuick|us|Aaron Chang|Slayer|newteam=MDB|joined=2012-06-??|left=2012-06-??}}
+{{listplayer|Karma|ca|Damon Barlow|Slayer|newteam=Fariko Impact|joined=2012-06-??|left=2012-06-??}}
+{{listplayer|JKap|us|Jordan Kaplan|AR Slayer|newteam=Team EnVyUs|joined=2012-04-??|left=2012-05-??}}
+{{listplayer|Dedo|us|Kenneth Dedo|Slayer|newteam=apeX Collapse|joined=2011-07-??|left=2012-05-??}}
+{{listplayer|StaiNViLLe|us|Tosh McGruder|Objective|newteam=Team EnVyUs|joined=2008-??-??|left=2012-??-??}}
+{{listplayer|LyaR|us|Ray Loftus|Support|newteam=apeX.Collapse|joined=2011-10-??|left=2011-11-??}}
+{{listplayer|Saints|us|Renato Forza|Slayer|newteam=OpTic Gaming|joined=2011-10-??|left=2011-11-??}}
+{{listplayer|NaDeSHoT|us|Matthew Haag|Objective|newteam=OpTic Gaming|joined=2011-06-??|left=2011-09-??}}
+{{listplayer|Bobby|us|Bob Hamwi|Slayer|newteam=Xtravagant|joined=2011-06-??|left=2011-09-??}}
+{{listplayer|FEARS|us|Damod Abney|Slayer|newteam=Team Obey|joined=2011-03-??|left=2011-06-??}}
+{{listplayer|Hastr0|us|Mike Rufail|Player|newteam=Manager|joined=2011-03-??|left=2011-06-??}}
+{{listplayer|Terror|us|Joseph Walega|Objective|newteam=vVv Fly Society|joined=2011-03-??|left=2011-06-??}}
+{{listplayer|Sharp|us|Brandron Rodgers|Support|newteam=Resistance|joined=2010-??-??|left=2010-??-??}}
+{{listplayer|VeXeL|us|''unknown''|Player|newteam=Retired|joined=2010-??-??|left=2010-??-??}}
+{{listplayer|Ryu|us|''unknown''|Player|newteam=Retired|joined=2010-??-??|left=2010-??-??}}
+{{listplayer|ProoFy|us|Jordan Cannon|Slayer|newteam=VwS Leverage|joined=2010-??-??|left=2010-??-??}}
+{{listplayer|SiDRoC|us|Joseph Rauth|Slayer|newteam=Xtravagant|joined=2009-??-??|left=2009-??-??}}
+{{listplayer|Hastr0|us|Mike Rufail|Player|newteam=Manager|joined=2009-??-??|left=2009-??-??}}
+{{listplayer|Fierce|us|''unknown''|Player|newteam=Retired|joined=2008-??-??|left=2008-??-??}}
+{{listplayer|Nemesis|us|''unknown''|Player|newteam=Retired|joined=2008-??-??|left=2008-??-??}}
+{{listplayer|FoRePLayy|us|Skyler Johnson|Objective|newteam=Team EnVyUs|joined=2008-??-??|left=2008-??-??}}
+{{listplayer/End}}
+
+==Organization==
+===Current===
+{{listplayer/Start|staff=yes}}
+{{listplayer|Hastr0|us|Mike Rufail|'''Owner''' }}
+{{listplayersp||us|Geoff Moore|'''President''' }}
+{{listplayersp|Thirteen|us|Tyler Thompson|'''General Manager''' }}
+{{listplayersp|TazMo|us|Matthew Taylor|'''Team Manager''' }}
+{{listplayersp|Elumnite|us|Marcus Lovejoy|'''COD Team Manager''' }}
+{{listplayer|Bevils|us|Embry Bevil|'''Coach''' }}
+{{listplayer/End}}
+
+===Former===
+{{listplayer/Start|staff=yes|newteam=yes}}
+{{listplayer|Fearless|us|Joseph Stokes|'''Team Manager'''|newteam=Automatic Reload }}
+{{listplayer|Rambo|ca|Raymond Lussier|'''Head Coach'''|newteam=retired }}
+{{listplayer/End}}
+ 
+== Team Achievements ==
+{{TeamResultsPage|Team Envy|offline|5}}
+
+== Media ==
+=== Gallery ===
+<gallery mode="packed" heights="200px">
+File:EnVyGfinity3.jpg|[[Gfinity 3]] Roster <br> LtR: [[JKap]], [[MerK]], [[NAMELESS]], [[FormaL]], and '''Hastr0'''.
+File:EnVySeason3Playoffs.jpg|[[MLG CoD League Season 3 Playoffs]] Roster <br> LtR: [[MerK]], [[JKap]], [[FormaL]], [[NAMELESS]], and '''Hastr0'''.
+File:envy_dreamhack2015.jpg|[[DreamHack Invitational 2015]] Roster <br> LtR: [[TeePee]], [[Loony]], [[ProoFy]], and [[NAMELESS]].
+</gallery>
+
+=== Articles ===
+{{TDRight
+|name1=2013
+|content1=
+* March 15, [http://blog.astrogaming.com/?p=2702 ASTRO GAMING IS PROUD TO ANNOUNCE THE OFFICIAL SPONSORSHIP OF FOUR PRO TEAMS : EVIL GENIUSES ~ TEAM SOLOMID ~ OPTIC GAMING ~ ENVYUS] with ''Astro Gaming''
+
+|name2=2014
+|content2=
+* October 27, [http://www.dailydot.com/esports/mlg-ghosts-league-playoffs-envyus/ We have a new Call of Duty Champion] with ''The Daily Dot''
+* October 30, [http://www.foxsports.com/other/story/as-esports-grow-up-gamers-find-their-calling-103014 Video game sports leagues look a lot like the real thing] - with ''Fox Sports''
+
+|name3=2015
+|content3=
+* June 15, [http://dexerto.com/news/cod/dreamhack-invitational-result-team-envyus-take-down-menace/ Dreamhack Invitation Result – Team EnvyUs take down Menace] with ''Dexerto''
+
+|name4=2016
+|content4=
+* January 6, [http://www.dexerto.com/news/2016/01/06/hastr0-announces-new-deal-for-envyus-cod-team/ Hastr0 Announces New Deal For EnVyUs CoD Team] with ''Dexerto''
+}}
+
+=== Interviews ===
+{{TDRight
+|name1=2011
+|content1=
+* October 13, [https://www.youtube.com/watch?v=xlojn6jwSA0 EGL8 Day 1 Interview with EnVyUS] - ''with Dexerto''
+* October 17, [http://www.youtube.com/watch?v=mcyU5lDPBkc MLG Orlando 2011 - Hastro on Being a Winningest Team] - ''with GameSpot''
+
+|name2=2012
+|content2=
+* October 22, [http://www.youtube.com/watch?v=PaInlplgMic EGL 8 Team EnVyUs Interview] - ''with eSportsLive Network''
+
+|name3=2013
+|content3=
+* March 16, [http://www.youtube.com/watch?v=7NXDYzW1rEs ESN Interviews: Team EnvyUs] - ''with Esports Nation''
+* April 2, [http://www.youtube.com/watch?v=KYtkGkClwQo EnVyUs - Call of Duty Championship Team 2013] - ''with Call of Duty''
+* April 7, [http://www.youtube.com/watch?v=hb8rDiQN-XU Call of Duty Championship 2013: Team EnVyUs] - ''with GameSpot eSports'' 
+* April 8, [http://www.youtube.com/watch?v=chw2vKuZHts Call of Duty Championship 2013: Team EnVyUs post finals Presser] - ''with GameSpot eSports''
+* October 29, [http://www.youtube.com/watch?v=yrvsXhiGDMc UMG Dallas: Team EnvyUs Interview] - ''with UMG GAMING''
+
+|name4=2014
+|content4=
+* March 25, [http://www.youtube.com/watch?v=Of4egy7qqd4 2014 Call of Duty Championship - Team Profile: Team EnVyUs] - ''with Xbox''
+* April 1, [http://www.youtube.com/watch?v=Dn9ffdKP-Ac Call of Duty Championship 2014 - Team EnVyUs Press Conference] - ''with CoDeSportsTV''
+* August 3, [http://www.youtube.com/watch?v=z4kvFvXXGo8 Team EnVyUs Gfinity 3 Champions Interview] - ''with EsportsNationTV''
+* August 25, [http://www.youtube.com/watch?v=1Gae7pQJaRI JKap of Team EnVyUs Interview - UMG Dallas 2014] - ''with Gamma Gamers''
+
+|name5=2015
+|content5=
+* May 9, [http://www.youtube.com/watch?v=nHNcqI96I6s EnVyUs Gfinity Press Conference Day 1]  - ''with Dexerto''
+* May 16, [http://www.youtube.com/watch?v=VQwRQW8e8qw EnVyUs Teepee UMG Cali Interview] - ''with Dexerto''
+* December 4, [http://www.youtube.com/watch?v=m7oTYBXVEKk Slasher Interview "We showed we are the real deal"] - ''with Dexerto''
+* December 5, [http://www.youtube.com/watch?v=sdNeP_JyLQo nV Teep Interview "I've not been impressed by any other teams"] - ''with Dexerto''
+}}
+
+=== Videos ===
+{{TDRight
+|name1=2015
+|content=
+*June 15 [https://www.youtube.com/watch?v=dg3tufrOtRE #TACOBOUT w/ Decemate and Chino] - ''by Team Envy''
+*December 16 [https://www.youtube.com/watch?v=ITPpeX_0sh0 Legacy Ep.2] - ''by Team Envy''
+*December 17 [https://www.youtube.com/watch?v=3LH4atliEjw Envy CoD vs Air Cannon] - ''by Team Envy''
+
+|name2=2017
+|content2=
+*February 15, [https://www.youtube.com/watch?v=plzriCW6iRg 360 Experience - MLG Atlanta] - '' by Team Envy''
+*February 18, [https://www.youtube.com/watch?v=EUblMO8gBVM 360 Match Experience - MLG Atlanta 2017] - ''by Team Envy''
+*March 4, [https://www.youtube.com/watch?v=FjOEpMRi7Vc MLG Atlanta 2017] - ''by Team Envy''
+*March 5, [https://www.youtube.com/watch?v=z3LiClJpqdc 360 VR Tour of ESWC 2017] - ''by Team Envy''
+*March 6, [https://www.youtube.com/watch?v=CewX-AF-Dk8 ESWC Paris Open 2017] - ''by Team Envy''
+*August 11, [https://www.youtube.com/watch?v=97HHNe4ZNcg JKap QnA] - ''by Team Envy''
+*October 31, [https://www.youtube.com/watch?v=syvGNbXpMP0 Envy COD - Champs 2017] - ''by Team Envy''
+*November 4, [https://www.youtube.com/watch?v=TFqlcDgo28k Envy CoD - WW2 Roster Announcement] - ''by Team Envy''
+*December 7, [https://www.youtube.com/watch?v=LzR_pzZbnTA Team Envyus: Rebuilding Around Slasher] - ''by MLG''
+
+|name3=2018
+|content3=
+*February 8, [https://www.youtube.com/watch?v=QepgFuNGJ4g The Spark Behind Team EnVyUs] - ''by FoxTheDon''
+*March 16, [https://www.youtube.com/watch?v=ei5AF8Zk60U Envy COD gets groceries] - ''by Team Envy''
+*April 20, [https://www.youtube.com/watch?v=rOHyOdN7Wok Huke and Classic Taco QnA] - ''by Team Envy''
+*August 18, [https://www.youtube.com/watch?v=CZsHYTp2Yhc Black Ops 4 Beta Review - Envy CoD thoughts] - ''by Team Envy''
+*October 12, [https://www.youtube.com/watch?v=H25ahJi7oOk Looking Forward - CWL 2018 Retrospective] - ''by Team Envy''
+*November 1, [https://www.youtube.com/watch?v=QvpKXS74Zzo Mystery SCUF unboxing w/ Aches] - ''by Team Envy''
+*November 16, [https://www.youtube.com/watch?v=loBDFlnX1Xk COD vs CSGO Paintball - Battle for the Belt] - ''by Team Envy''
+*December 6, [https://www.youtube.com/watch?v=3KRhC3vDnTY What does Apathy think of Aches?! Meet the Envy COD Team!] - ''by Team Envy''
+*December 7, [https://www.youtube.com/watch?v=AIxJIFpECJ4 OpTic vs ENVY COD Bootcamp for CWL Vegas @ OpTic HQ] - ''by Team Envy''
+*December 8, [https://www.youtube.com/watch?v=aTJ3DmO0_MM Envy vs. FaZe CWL Vegas Day 1] - ''by Team Envy''
+*December 10, [https://www.youtube.com/watch?v=qMYcDjI8GJ0 DATING in esports CWL Vegas Day 2] - ''by Team Envy''
+*December 12, [https://www.youtube.com/watch?v=1Tu2wjg7Csk Envy vs Lightning Pandas CWL Vegas Day 3] - ''by Team Envy''
+*December 12. [https://www.youtube.com/watch?v=Tr9u93dFVg4 Envy vs Optic - ECLASSICO ORIGINS - Legacy: Episode 3] - ''by Team Envy''
+}}
+
+== External Links ==
+
+== References ==
+<references />
+{{vspace}}{{OrgNavbox/TeamPageEnd}}
+{{World Champions Navbox}}[[Category:World Champions]]

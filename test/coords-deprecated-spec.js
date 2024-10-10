@@ -7,7 +7,7 @@ describe('Should Parse Article with Deprecated Coords\'s Information', () => {
   const properties = parse(source);
   function assertProp(key, value) {
     it(key, () => {
-      properties.should.have.property(key, value);
+      properties.general.should.have.property(key, value);
     });
   }
   assertProp('latd', '00');

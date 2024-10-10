@@ -1,0 +1,103 @@
+{{Infobox element
+|name=copper
+|number=29
+|symbol=Cu
+|abundance=
+|abundance in earth's crust=
+|abundance in oceans=
+|abundance in solar system=
+|left=[[nickel]]
+|right=[[zinc]]
+|above=–
+|below=[[Silver|Ag]]
+|category=transition metal
+|category comment=
+|group=11
+|period=4
+|block=d
+|appearance=red-orange metallic luster
+|image name=NatCopper.jpg
+|electron configuration=&#91;[[argon|Ar]]&#93; 3d<sup>10</sup> 4s<sup>1</sup>
+|electrons per shell=2, 8, 18, 1
+|phase=solid
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=8.96
+|density gpcm3nrt 2=
+|density gpcm3mp=8.02
+|melting point K=1357.77
+|melting point C=1084.62
+|melting point F=1984.32
+|boiling point K=2835
+|boiling point C=2562
+|boiling point F=4643
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=13.26
+|heat fusion 2=
+|heat vaporization=300.4
+|heat capacity=24.440
+|vapor pressure 1=1509
+|vapor pressure 10=1661
+|vapor pressure 100=1850
+|vapor pressure 1 k=2089
+|vapor pressure 10 k=2404
+|vapor pressure 100 k=2834
+|vapor pressure comment=
+|crystal structure=face-centered cubic
+|oxidation states=−2, +1, '''+2''', +3, +4
+|oxidation states comment=(a mildly [[base (chemistry)|basic]] oxide)
+|electronegativity=1.90
+|number of ionization energies=4
+|ionization energy 1=745.5
+|ionization energy 2=1957.9
+|ionization energy 3=3555
+|atomic radius=128
+|atomic radius calculated=
+|covalent radius=132±4
+|Van der Waals radius=140
+|magnetic ordering=[[diamagnetism|diamagnetic]]
+|magnetic ordering ref=<ref>{{cite book |url=https://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=
+|electrical resistivity at 20=16.78
+|thermal conductivity=401
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=16.5
+|speed of sound=
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=(annealed)<br/>3810
+|magnetic susceptibility= &minus;5.46·10<sup>−6</sup>
+|magnetic susceptibility ref= <ref>{{Cite book|title=CRC, Handbook of Chemistry and Physics|last=Weast|first=Robert|publisher=Chemical Rubber Company Publishing|year=1984|isbn=0-8493-0464-4|location=Boca Raton, Florida|pages=E110|quote=|via=}}</ref>
+|Young's modulus=110–128
+|Shear modulus=48
+|Bulk modulus=140
+|Poisson ratio=0.34
+|Mohs hardness=3.0
+|Vickers hardness=343–369
+|Brinell hardness=235–878
+|Brinell hardness comment=
+|CAS number=7440-50-8
+|isotopes=
+{{Infobox element/isotopes stable | mn=63 | sym=Cu | na=69.15% | n=34 |firstlinks=yes}}
+{{infobox element/isotopes decay2 | link=copper-64 | mn=64 | sym=Cu | na=[[synthetic radioisotope|syn]] | hl=12.70&nbsp;h | dm1=[[electron capture|ε]]
+|de1=– | link1=nickel-64 | pn1=64 | ps1=Ni
+|dm2=[[beta decay|β<sup>−</sup>]] | de2=– | link2=zinc-64 | pn2=64 | ps2=Zn}}
+{{Infobox element/isotopes stable | mn=65 | sym=Cu | na=30.85% | n=36 |firstlinks=no}}
+{{infobox element/isotopes decay | mn=67 | sym=Cu | na=syn | hl=61.83&nbsp;h | dm=β<sup>−</sup> | de=– | link1=zinc-67 | pn=67 | ps=Zn}}
+|isotopes comment=
+|naming=after [[Cyprus]], principal mining place in Roman era ({{lang|la|Cyprium}})
+|discovered by=[[Middle East]]
+|discovery date=[[9000 BC]]
+|QID=Q753
+}}<!--
+
+--><noinclude>
+{{Infobox element/element navigation|symbol=Cu}}
+{{Template reference list}}
+{{documentation|1=Template:Infobox element/doc}}
+</noinclude>

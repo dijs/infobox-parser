@@ -7,7 +7,7 @@ describe('Should Parse Islamabad\'s Information', () => {
   const properties = parse(source, { simplifyDataValues: false });
 
   it('Population Total', () => {
-    properties.should.have.property('populationTotal');
-    properties.populationTotal.should.equal('1.9 million');
+    properties.general.should.have.property('populationTotal');
+    properties.general.populationTotal.should.equal('1.9 million');
   });
 });

@@ -1,0 +1,56 @@
+{{short description|2007 film directed by Adam Shankman}}
+{{Use mdy dates|date=August 2018}}
+{{Infobox film
+| name           = Hairspray
+| image          = Hairspray2007poster.JPG
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Adam Shankman]]
+| producer       = {{Plain list |
+* [[Craig Zadan]]
+* [[Neil Meron]]
+<!--- Do NOT add executive producers to this list --->
+}}
+| screenplay     = [[Leslie Dixon]]
+| based_on       = {{Plainlist|
+* {{Based on|''[[Hairspray (1988 film)|Hairspray]]''|[[John Waters]]}}
+* {{Based on|''[[Hairspray (musical)|Hairspray]]''|[[Mark O'Donnell]]<br />[[Thomas Meehan (writer)|Thomas Meehan]]}}
+}}
+| starring       = {{Plain list |
+* [[John Travolta]]
+* [[Michelle Pfeiffer]]
+* [[Christopher Walken]]
+* [[Amanda Bynes]]
+* [[James Marsden]]
+* [[Queen Latifah]]
+* [[Brittany Snow]]
+* [[Zac Efron]]
+* [[Elijah Kelley]]
+* [[Allison Janney]]
+* [[Nikki Blonsky]]
+<!--- per poster --->
+}}
+| music          = [[Marc Shaiman]]
+| cinematography = [[Bojan Bazelli]]
+| editing        = [[Michael Tronick]]
+| studio         = {{Plain list |
+* [[Ingenious Media]]
+* Zadan/Meron Productions
+* Storyline Entertainment
+* Offspring Entertainment
+}}
+| distributor    = {{plain list|
+*[[New Line Cinema]] (United States)
+*[[Entertainment Film Distributors]] (United Kingdom)
+}}
+| released       = {{Film date|2007|7|10|[[Fox Theater, Westwood Village|Mann Village Theater]]|2007|7|20|United Kingdom and United States}}<!--- per [[WP:FILMRELEASE]], initial release and production country release dates --->
+| runtime        = 116 minutes<!--Theatrical runtime: 116:10--><ref>{{cite web|title=''HAIRSPRAY'' (PG)|url=https://www.bbfc.co.uk/AFF237127/|work=[[British Board of Film Classification]]|date=July 10, 2007|access-date=November 5, 2012}}</ref>
+| country        = {{Plain list |
+* United States<ref name="BFI">{{cite web|url=http://www.bfi.org.uk/films-tv-people/4ce2b8c3b462e|title=Hairspray|year=2007|publisher=British Film Institute|access-date=July 5, 2017}}</ref>
+* United Kingdom<ref name="BFI"/>
+}}
+| language       = English
+| budget         = $75 million<ref name="budget"/>
+| gross          = $203.5 million<ref name="mojo"/>
+}}
+'''''Hairspray''''' is a 2007 [[Musical film|musical]] [[romantic comedy]] film based on the 2002 Broadway musical of [[Hairspray (musical)|the same name]], which in turn was based on [[John Waters]]'s 1988 comedy film of [[Hairspray (1988 film)|the same name]]. Produced by [[Ingenious Media]] and Zadan/Meron Productions, and adapted from both Waters's 1988 script and [[Thomas Meehan (writer)|Thomas Meehan]] and Mark O'Donnell's book for the stage musical by screenwriter [[Leslie Dixon]], the film was directed and choreographed by [[Adam Shankman]] and has an [[ensemble cast]] including [[John Travolta]], [[Michelle Pfeiffer]], [[Christopher Walken]], [[Amanda Bynes]], [[James Marsden]], [[Queen Latifah]], [[Brittany Snow]], [[Zac Efron]], [[Elijah Kelley]], [[Allison Janney]], and [[Nikki Blonsky]] in her feature film debut. Set in 1962 [[Baltimore|Baltimore, Maryland]], the film follows the "pleasantly plump" teenager Tracy Turnblad (Blonsky) as she pursues stardom as a dancer on a local television dance show and rallies against [[racial segregation]].

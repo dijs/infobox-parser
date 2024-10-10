@@ -1,0 +1,390 @@
+{{Infobox Team
+|isdisbanded=
+|name=OpTic Gaming
+|country=
+|orgcountry=United States
+|region=North America
+|image=OpTic Gaminglogo_square.png
+|sponsor=[http://www.turtlebeach.com/ Turtle Beach] <br> [http://www.dxracer.com/us/en-us/ DXRacer] <br> [https://opticgear.gg/ Sector Six] <br> [https://thirdlabel.gg/ Third Label] <br> [https://scufgaming.com/ SCUF Gaming] <br> [https://www.mountaindew.com/ Mountain Dew]
+|swatches= 
+<!-- Staff -->
+|headcoach= Tyler '''"TeePee"''' Polchow
+|owner= Hector '''"H3CZ"''' Rodriguez
+<!-- Social Media -->
+|website=https://www.greenwall.gg
+|youtube=https://www.youtube.com/user/OpTicNation
+|facebook=https://www.facebook.com/OpTicNation
+|twitter=OpTicGaming
+|discord=OpTicGaming
+|snapchat=
+|instagram=OpTicGaming
+|reddit=OpTicGaming
+<!-- History -->
+|created=2006-??-??
+|disbanded= 
+<!-- Other Teams Wikis -->
+|otherwikis=lol,halo,gears,pubg,fortnite
+
+}}{{TOCRWI}}
+
+'''{{FULLPAGENAME}}''' is an American esports organization currently fielding teams in ''League of Legends'', ''Overwatch'', ''Gears of War'', and ''Fortnite''.
+
+== History ==
+===Organization===
+OpTic Gaming is one of the more storied organizations within the competitive side of the Call of Duty franchise. The team was established in 2006 by OpTic KR3W for the aspirations of becoming a Call of Duty sniping team. Only leading OpTic for a short time, KR3W steps down and OpTic Jon3S, better known as OpTicJ, took his place. But J only lead the team for a very short time span as well, handed over the team to Hector “H3CZ” Rodriguez in 2007. H3CZ ran the team for two years before uploading their first video to YouTube in 2009. The same year OpTic Gaming started uploading to YouTube, H3CZ had established a Call of Duty competitive team that would become one of the teams with the biggest fan bases and presence in the community to ever play the game.
+
+===Modern Warfare 2===
+OpTic Gaming’s pro team was established in 2010 with [[Nerve]], [[Eaton]], [[Di3seL]] and [[Gundeezy]]. They placed top four in their first event in the [[Frag Cup I]]. The team placed top eight in the [[MLG Online National Championship]] and then was able to close out the season with a 4th place finish at the [[MLG National Championship 2010]].
+
+===Black Ops===
+Heading into Black Ops season, OpTic changed their roster completely. They picked up [[MerK]], [[BigTymeR]], [[Rambo]] and [[ProoFy]]. [[NaDeSHoT]] and [[JKap]] replaced [[Rambo]] and [[ProoFy]] going in the first major offline event of the year, [[MLG Dallas 2011]]. OpTic placed 3rd and then swapped out [[NaDeSHoT]] back for [[Rambo]]. This showed immediate dividends as the team won next event, [[MLG Columbus 2011]]. The team placed top four at the next two events before reaplacing [[Rambo]] with [[ProoFy]] going into [[MLG Orlando 2011]]. They won the tournament and then placed 3rd at the [[MLG National Championship 2011]] to close out the year.
+
+===Modern Warfare 3===
+With [[MLG]] not putting Modern Warfare 3 on the pro circuit, the team competed with various rosters at smaller LANs across the United States and Europe. After competing with [[apeX eSports NA]] during the spring, [[MerK]], [[BigTymeR]], [[Rambo]] and [[Scump]] joined OpTic for the remainder of the season. They won [[EGL 7 Blackpool]] and placed 2nd at [[EGL 8 Manchester]]. [[Rambo]] left OpTic to join [[Team EnVyUs]] and was replaced by [[NaDeSHoT]] to solidify a roster for the next year.
+
+===Black Ops 2===
+OpTic Gaming was consistently one of the top teams during the Black Ops 2 season, but wasn't able to win another event after the first offline event of the year, [[UMG Chicago 2012]]. They placed 5-6th at the [[MLG Winter Championship 2013]] before taking 3rd at the next three events including the inaugural [[Call of Duty Championship 2013|Call of Duty Championship]]. Looking to get back to the top, [[MerK]] was replaced by [[JKap]]. A 2nd placed finish at the [[MLG Fall Invitational]] rounded out the year. 
+
+===Ghosts===
+At the beginning of Ghosts, the team started to fall short of top eight finishes at events, both online and offline.. After the [[MLG Fall Championship]], [[JKap]] was dropped and OpTic Gaming picked up [[Ricky]] but that only lasted for one event. After [[UMG Philadelphia]], [[BigTymeR]] announced that he would be retiring from competitive Call of Duty and coaching the OpTic Gaming squad. Following an avalanche of team changes, OpTic Gaming landed with [[NaDeSHoT]], [[Scump]], [[Clayster]] and [[MBoZe]]. The roster put OpTic Gaming back at the top as the placed 3rd at the [[Call of Duty Championship 2014]]. [[MBoZe]] left the team after the event to form a new [[OpTic Nation]] team and was replaced by [[ProoFy]]. The team won a gold medal at the [[MLG X Games Invitational 2014]] and placed second at the [[MLG Anaheim 2014 International Playoffs]] but had an otherwise average season and placed top four or top six or worse in the last four events of the year.
+
+===Advanced Warfare===
+Less than a week after the release of Advanced Warfare, [[NaDeSHoT]] announced that [[Clayster]] and [[ProoFy]] were being released from OpTic Gaming as they picked up [[FormaL]]. A few days later, OpTic Gaming announced [[Crimsix]] would also be joining the team. The team won three out of the first five events of the year, but placed 7th at the [[Call of Duty Championship 2015]]. This poor placement pushed [[NaDeSHoT]] into retirement and allowed the team to add [[Karma]] from [[OpTic Nation]]. Due to his pending American citizenship application, [[Enable]] played for [[Karma]] at the next two European events, [[ESWC 2015]] and [[Gfinity Spring Masters]]. [[Karma]] finally made his debut at [[UMG California 2015]], which the team won. This roster would go on to win three of the final six events of the year, only placing second three times to [[Enable]]'s [[FaZe Clan]].
+
+===Black Ops 3===
+The roster would stay the same going into the Black Ops 3 season. OpTic managed to qualify for the [[2016 NA CWL Stage 1 Regular Season]] and won the [[2016 NA CWL Stage 2 Playoffs|Playoffs]] that followed. The team won [[Crown Melbourne Invitational]], [[ESWC 2016]] and [[MLG Anaheim Open 2016]]. After being upset at the [[2016 NA CWL Stage 2 Playoffs]], the team bounced back to win the [[MLG Orlando Open 2016]] but once again failed to perform at the [[2016 Call of Duty World League Championship]] by placing 7-8th again. 
+
+===Infinite Warfare===
+Infinite Warfare started slowly with the team placing 5-6th at the [[2017 CWL Las Vegas Open]]. OpTic placed second at the [[2017 CWL Atlanta Open]] and then won the [[2017 CWL Paris Open]] and the [[2017 CWL Dallas Open]]. These strong placements qualified them for the [[2017 CWL Global Pro League Stage 1]]. The team placed 4th in the [[2017 CWL Global Pro League Stage 2|playoffs]] and 7-8th at the [[2017 CWL Anaheim Open]]. With fans skeptical about the strength of the roster, OpTic Gaming finished the year as the undisputed best team by winning the [[2017 CWL Global Pro League Stage 2]] and finally claiming victory at the elusive [[2017 Call of Duty World League Championship|Call of Duty Championship]]. 
+
+===WWII===
+Initially, the roster would stay the same going into the WWII season. However, with inconsistent placings at the first five Majors, with the most notable placing 13-16th at the [[CWL/2018 Season/Seattle Open|2018 CWL Seattle Open]], plus placing 2nd at the [[CWL/2018 Season/Pro League/Stage 1|Stage 1 playoffs]] in what will be known as one of the greatest grand finals chokes of all time, the highly decorated roster that were the best team in the world for nearly 3 1/2 years split up. Kicking [[FormaL]] and [[Karma]] and picking up [[Octane]] and [[Methodz]] didn't solve their tournament drought though. Their end of WWII saw them place 5-6th at the [[CWL/2018 Season/Anaheim Open|2018 CWL Anaheim Open]], 7-8th at the [[CWL/2018 Season/Pro League/Stage 2|Stage 2 playoffs]], and a shocking 17-24th at the [[2018 Call of Duty World League Championship|2018 CWL Championship]]. This was the first time since MW2 where OpTic failed to win a single championship title throughout a season.
+
+== Timeline ==
+{{TDRight
+|name1=2006
+|content1=
+* Team is '''founded''' in the summer by OpTic Jon3s and OpTic KR3W. Prestige joins and later changes his name to H3CZ.
+
+|name2=2007
+|content2=
+* H3CZ becomes owner.
+
+|name3=2011
+|content3=
+* June 5, [[OpTic Nation]] is '''created''' but '''disbands''' after an event.
+
+|name4=2013
+|content4=
+* December 30, [[BigTymeR]] announces he will retire after [[UMG Philadelphia 2014]].
+
+|name5=2014
+|content5=
+* January 5, [[BigTymeR]] retires.
+* January 7, {{bl|Clayster}} and {{bl|Parasite}} join.<ref>[https://twitter.com/OpTicGaming/status/420615956465856513 OpTic Gaming's Tweet] ''twitter.com''</ref><ref>[https://twitter.com/OpTicGaming/status/420695746736709632 OpTic Gaming's Tweet] ''twitter.com''</ref> [[Scumpii]] leaves.
+* January 12, {{bl|MBoZe}} and {{bl|Saints}} join. [[Parasite]] and [[Ricky]] leave.
+* January 18, [[Saints]] leaves.
+* January 20, [[Scump]] (previously '''Scumpii''') rejoins.<ref>[https://twitter.com/OpTicGaming/status/425405959742042112 OpTic Gaming's Tweet] ''twitter.com''</ref>
+* April 14, {{bl|ProoFy}} joins. [[MBoZe]] leaves.<ref>[https://twitter.com/OpTicGaming/status/455853202467213313 OpTic Gaming's Tweet] ''twitter.com''</ref>
+* November 6, {{bl|FormaL}} joins. [[Clayster]] and [[ProoFy]] are released.<ref>[http://teambeyond.net/optic-gaming-drops-clayster-proofy/ OPTIC GAMING DROPS CLAYSTER & PROOFY] ''teambeyond.net''</ref>
+* November 14, {{bl|Crimsix}} joins.<ref>[https://twitter.com/OpTicGaming/status/533394701827977217 OpTic Gaming's Tweet] ''twitter.com''</ref>
+
+|name6=2015
+|content6=
+* April 4, [[NaDeSHoT]] retires.<ref>[https://www.youtube.com/watch?v=FjOBGFMPmJs I Have Something to Tell You Guys...] ''youtube.com''</ref>
+* April 5, {{bl|Karma}} joins.<ref>[https://www.reddit.com/r/OpTicGaming/comments/31k4hm/karma_it_is/ OpTic Gaming's Reddit] ''reddit.com''</ref>
+* April 14, {{bl|Enable}} joins as substitute for {{bl|Karma}} for [[ESWC 2015]] and [[Gfinity Spring Masters]].	
+
+|name7=2016
+|content7=
+* March 16, '''Brisk Mate''' sponsors '''OpTic Gaming'''.
+* April 18, '''Turtle Wax''' sponsors '''OpTic Gaming'''.
+* May 3, '''Turtle Beach''' sponsors '''OpTic Gaming'''.
+* July 1, '''J''' rejoins as '''Chief of Operations'''.<ref>[https://www.youtube.com/watch?v=T7Ss0slfNlA OpTic J's YouTube Video] ''youtube.com''</ref>
+
+|name8=2017
+|content8=
+* January 23, '''DXRacer''' sponsors '''OpTic Gaming'''.<ref>[https://twitter.com/OpTicGaming/status/823651358968455168 OpTic Gaming's Tweet] ''twitter.com''</ref>
+* April 27, '''Brisk''' sponsors '''OpTic Gaming'''.
+* June 6, '''Twitch''' sponsors '''OpTic Gaming'''.<ref>[https://twitter.com/Twitch/status/872202357936758784 Twitch's Tweet] ''twitter.com''</ref>
+* December 19, {{bl|TeePee}} joins as coach.<ref>[https://www.youtube.com/watch?v=99qBOI1hx5A&feature=youtu.be&t=356 Vision - Season 4: Episode 10 - "New Addition"] ''youtube.com''</ref>
+
+|name9=2018
+|content9=
+* March 28, '''Sector Six''' sponsors '''OpTic Gaming'''.<ref>[https://twitter.com/OpTicGaming/status/979029286563827712 OpTic Gaming's Tweet] ''twitter.com''</ref>
+* May 6, {{bl|Octane}} and {{bl|Methodz (Anthony Zinni)|Methodz}} join. [[FormaL]] and [[Karma]] leave.<ref>[https://twitter.com/OpTicGaming/status/993275932046692352 OpTic Gaming's Tweet] ''twitter.com''</ref><ref>[http://luminosity.gg/articles/news/general/91/welcome-formal-to-lg-call-of-duty- WELCOME FORMAL TO LG CALL OF DUTY!] ''luminosity.gg''</ref><ref>[https://clips.twitch.tv/AmericanGorgeousBubbleteaSpicyBoy @OpTic_DKarma My side] ''twitch.tv''</ref>
+* August 31, [[Octane]] is released.<ref>[https://twitter.com/OpTicGaming/status/1035701273134161920 OpTic Gaming's Tweet] ''twitter.com''</ref>
+* September 27, {{bl|Dashy}} and {{bl|TJHaLy}} join. [[Karma]] rejoins.<ref>[https://twitter.com/OpTicGaming/status/1045426531219038208 OpTic Gaming's Tweet] ''twitter.com''</ref>
+* October 8, [[Methodz (Anthony Zinni)|Methodz]] leaves.<ref>[https://twitter.com/OpTicGaming/status/1049404151376072705 OpTic Gaming's Tweet] ''twitter.com''</ref>
+* December 20, {{bl|Rallied}} joins as a content creator.<ref>[https://twitter.com/OpTicGaming/status/1075853301386747904 OpTic Gaming's Tweet] - ''twitter.com''</ref>
+}}
+
+== Player Roster ==
+===Active===
+{{listplayer/Current/Start|dates=yes|rejoined=yes}}
+{{listplayer/Current|Scump|us|Seth Abner|SMG Slayer|joined=2014-01-20|rejoined=yes }}
+{{listplayer/Current|Crimsix|us|Ian Porter|Main AR|joined=2014-11-14 }}
+{{listplayer/Current|Karma|ca|Damon Barlow|Flex|joined=2018-09-27|rejoined=yes }}
+{{listplayer/Current|Dashy|ca|Brandon Otell|AR Slayer|joined=2018-09-27 }}
+{{listplayer/Current|TJHaLy|us|Thomas Haly|SMG Slayer|joined=2018-09-27 }}
+{{listplayer/Current/End}}
+
+===Temporary Subs===
+{{listplayer/Start}}
+! Replacing
+! Tournament
+{{listplayer|Vengeance|us|Blake Campbell|Slayer}}
+|{{flag|us}} '''[[Scump]]'''
+|[[Call of Duty XP 2011]]
+{{listplayer|NaDeSHoT|us|Matthew Haag|Objective}}
+|{{flag|ca}} '''[[Rambo]]'''
+|[[Call of Duty XP 2011]]
+{{listplayer|Enable|us|Ian Wyatt|Slayer}}
+|{{flag|ca}} '''[[Karma]]'''
+|[[ESWC 2015]]<br>[[Gfinity Spring Masters]]
+{{Listplayer/EndTemp}}
+
+===Former===
+{{listplayer/Start|newteam=yes|dates=yes}}
+{{listplayer|Methodz|link=Methodz (Anthony Zinni)|us|Anthony Zinni|Flex|newteam=FaZe|joined=2018-05-06|left=2018-10-08 }}
+{{listplayer|Octane|us|Sam Larew|AR Slayer|newteam=100 Thieves|joined=2018-05-06|left=2018-08-31}}
+{{listplayer|Karma|ca|Damon Barlow|Flex|newteam=Streamer|joined=2015-04-05|left=2018-05-06}}
+{{listplayer|FormaL|us|Matthew Piper|AR Slayer|newteam=Luminosity Gaming|joined=2014-11-06|left=2018-05-06 }}
+{{listplayer|NaDeSHoT|us|Matthew Haag|Objective|newteam=Retired|joined=2012-10-??|left=2015-04-04|rejoined=yes}}
+{{listplayer|Clayster|us|James Eubanks|AR Slayer|newteam=Team EnVyUs|joined=2014-01-07|left=2014-11-06}}
+{{listplayer|ProoFy|us|Jordan Cannon|Support|newteam=OpTic Nation|joined=2014-04-14|left=2014-11-06|rejoined=yes}}
+{{listplayer|MBoZe|us|Marcus Blanks|Objective|newteam=OpTic Nation|joined=2014-01-13|left=2014-04-14}}
+{{listplayer|Saints|us|Renato Forza|Slayer|newteam=Strictly Business|joined=2014-01-13|left=2014-01-18|rejoined=yes}}
+{{listplayer|Parasite|us|Chris Duarte|Objective|newteam=Curse LV|joined=2014-01-07|left=2014-01-12}}
+{{listplayer|Ricky|us|Richard Stacy|Support|newteam=Curse LV|joined=2013-12-11|left=2014-01-12}}
+{{listplayer|Scump|us|Seth Abner|Slayer|newteam=Team EnVyUs|joined=2012-05-??|left=2014-01-07|rejoined=yes}}
+{{listplayer|BigTymeR|us|Will Johnson|Support|newteam=Coach|joined=2012-05-??|left=2014-01-05|rejoined=yes}}
+{{listplayer|JKap|us|Jordan Kaplan|Support|newteam=FaZe Clan|joined=2013-09-02|left=2013-12-10|rejoined=yes}}
+{{listplayer|MerK|us|Joey Deluca|Objective|newteam=Team EnVyUs|joined=2013-05-??|left=2013-09-01|rejoined=yes}}
+{{listplayer|NaDeSHoT|us|Matthew Haag|Objective|newteam=vD|joined=2012-01-??|left=2012-05-??|rejoined=yes}}
+{{listplayer|Saints|us|Renato Forza|Slayer|newteam=IcoNs|joined=2012-04-??|left=2012-04-??}}
+{{listplayer|Krump|us|''unknown''|Player|newteam=Dream Chasers|joined=2012-04-??|left=2012-04-??}}
+{{listplayer|NexXx|us|Jeremy Scarfino|Player|newteam=Team Obey|joined=2012-04-??|left=2012-04-??}}
+{{listplayer|SiDRoC|us|Joseph Rauth|Slayer|newteam=DeathWisH|joined=2012-03-??|left=2012-03-??}}
+{{listplayer|IntaKe|us|''unknown''|Player|newteam=RoughNeX|joined=2012-03-??|left=2012-03-??}}
+{{listplayer|Scump|us|Seth Abner|Slayer|newteam=apeX eSports NA|joined=2011-??-??|left=2012-??-??}}
+{{listplayer|BigTymeR|us|Will Johnson|Support|newteam=apeX eSports NA|joined=2011-02-??|left=2012-03-??}}
+{{listplayer|MerK|us|Joey Deluca|Objective|newteam=apeX eSports NA|joined=2010-10-??|left=2012-01-??}}
+{{listplayer|ProoFy|us|Jordan Cannon|Slayer|newteam=Team EnVyUs|joined=2011-10-??|left=2011-11-??|rejoined=yes}}
+{{listplayer|JKap|us|Jordan Kaplan|Support|newteam=Team EnVyUs|joined=2011-03-??|left=2011-11-??}}
+{{listplayer|Rambo|ca|Ray Lussier|Objective|newteam=Xtravagant|joined=2011-05-??|left=2011-08-??|rejoined=yes}}
+{{listplayer|NaDeSHoT|us|Matthew Haag|Objective|newteam=OpTic Nation|joined=2011-03-??|left=2011-04-??|rejoined=yes}}
+{{listplayer|ProoFy|us|Jordan Cannon|Support|newteam=Team Obey|joined=2011-??-??|left=2011-??-??}}
+{{listplayer|Rambo|ca|Ray Lussier|Objective|newteam=OpTic Gaming|joined=2011-??-??|left=2011-??-??}}
+{{listplayer|NaDeSHoT|us|Matthew Haag|Objective|newteam=OpTic Nation|joined=2010-10-??|left=2011-04-??}}
+{{listplayer|Vengeance|us|Blake Campbell|Player|newteam=Nex-TT-hreat|joined=2010-10-??|left=2010-11-??}}
+{{listplayer|FLawLesS|us|Richard Ferreira|Slayer|newteam=Nex-TT-hreat|joined=2010-??-??|left=2010-11-??}}
+{{listplayer|MoonstruK|us|Nicholas Peraza|Support|newteam=Retired|joined=2010-??-??|left=2010-11-??}}
+{{listplayer|Gundeezy|us|''unknown''|Player|newteam=Retired|joined=2010-??-??|left=2010-??-??}}
+{{listplayer|Di3seL|us|Mike Carr|Player|newteam=Retired|joined=2010-??-??|left=2010-??-??}}
+{{listplayer|Eaton|us|''unknown''|Player|newteam=Retired|joined=2010-??-??|left=2010-??-??}}
+{{listplayer|Nerve|us|''unknown''|Player|newteam=Retired|joined=2010-??-??|left=2010-??-??}}
+{{listplayer/End}}
+
+== Organization ==
+===Active===
+{{listplayer/Start|staff=yes}}
+{{listplayer|H3CZ|us|Hector Rodriguez|'''Owner & CEO'''}}
+{{listplayersp|J|us|Ryan Musselman|'''Founder & COO'''}}
+{{listplayersp|TUMORS|us|Pedro Rodriguez |'''Team Manager'''}}
+{{listplayer|TeePee|us|Tyler Polchow|'''Head Coach'''}}
+{{listplayer/End}}
+
+===Former===
+{{listplayer/Start|staff=yes|newteam=yes}}
+{{listplayer|NaDeSHoT|usa|Matthew Haag|'''Chief Executive Officer'''|newteam=100 Thieves}}
+{{listplayersp|FlamesworD|usa|Michael Chaves|'''Head Coach'''|newteam=Retired}}
+{{listplayer|BigTymeR|usa|Will Johnson|'''Head Coach'''|newteam=Retired}}
+{{listplayer/End}}
+
+== Trivia ==
+*Despite winning the majority of events in each Call of Duty title, the organization never won a [[Call of Duty Championship]] title. They finally won a [[Call of Duty Championship]] title by winning the [[2017 Call of Duty World League Championship]].
+*Ever since [[FaZe Clan]]'s roster of [[Clayster]], [[Enable]], [[ZooMaa]], and [[Attach]] has formed in June 2015, OpTic's roster of [[Scump]], [[FormaL]], [[Crimsix]], and [[Karma]] weren't able to defeat them on LAN. The losing streak began at [[UMG Dallas 2015]]. The streak finally ended when they matched up against FaZe for the 5th time. They managed to beat FaZe 3-1 at [[2017 CWL Atlanta Open]].
+*OpTic's former roster of [[Scump]], [[FormaL]], [[Crimsix]], and [[Karma]] are the most [[Winningest Players|winningest players]] in Call of Duty, with 32, 27, 24, and 20 championships respectively.
+*OpTic was highly considered the best team in the '''Jetpack era''' of Call of Duty esports.
+*OpTic's WWII season was the first time since MW2 where the organization failed to win a major championship.
+
+== Team Achievements ==
+{{TeamResultsPage|OpTic Gaming|offline|5}}
+
+== Media ==
+=== Gallery ===
+<gallery mode="packed" heights="200px">
+File:tumblr_lmit5yTsZV1qc4g6zo1_1280.jpg|Call of Duty: Black Ops Roster <br> LtR: [[BigTymeR]], [[Rambo]], '''H3CZ''', [[JKap]], and [[MerK]].
+File:Gewinner-1-Millionen-Dollar-Turnier-Optic-Scheck.jpg|Call of Duty XP 2011 Roster <br> LtR: [[Vengeance]], [[NaDeSHoT]], [[BigTymeR]], and [[MerK]].
+File:OpTic_pro_team_World_championship.jpg|Call of Duty: Black Ops 2 Roster <br> LtR: '''H3CZ''', [[NaDeSHoT]], [[Scump]], [[MerK]], and [[BigTymeR]].
+File:OGChamps2014.jpg|Call of Duty: Ghosts Season 1 & CoD Champs 2014 Roster <br> LtR: [[Scump]], [[NaDeSHoT]], [[MBoZe]], and [[Clayster]].
+File:OpTicGamingGhostSeason3Roster.jpg|Call of Duty: Ghosts Season 2 and 3 Roster <br> LtR: [[NaDeSHoT]], [[ProoFy]], [[Clayster]], and [[Scump]].
+File:OpTicGamingCoDChamps2015Roster.png|Call of Duty: Advanced Warfare Season 1 & CoD Champs 2015 Roster <br> LtR: [[Scump]], [[NaDeSHoT]], [[FormaL]], and [[Crimsix]].
+File:OpTicGamingESWC2015.jpg|[[ESWC 2015]] and [[Gfinity Spring Masters]] Roster <br> LtR: [[Crimsix]], [[Enable]], [[FormaL]], and [[Scump]].
+File:optic-gaming-remporte-l-umg-california-2015.jpg|[[UMG California 2015]] Roster <br> First Event with Karma <br> LtR: [[FormaL]], [[Karma]], [[Crimsix]], and [[Scump]].
+File:OpTicGPLS2.jpg|[[CWL/2018 Season/Pro League/Stage 1|Global Pro League Stage 1]] and [[CWL/2018 Season/Seattle Open|CWL Seattle]] <br> LtR: [[Crimsix]], [[Scump]], [[FormaL]], and [[Karma]].
+File:OpTic-Summer-2018.jpeg|[[CWL/2018 Season/Pro League/Stage 2|Global Pro League Stage 2]] and [[2018 Call of Duty World League Championship|2018 CWL Champs]] Roster <br> LtR: [[Octane]], [[Scump]], [[Crimsix]], and [[Methodz (Anthony Zinni)|Methodz]].
+File:OG 2019.jpg|[[CWL/2019 Season/Las Vegas Open|2019 CWL Las Vegas Open]] - ''Present'' Roster <br> LtR: [[Dashy]], [[Karma]], [[Scump]], [[TJHaLy]] and [[Crimsix]].
+</gallery>
+
+=== Articles ===
+{{TDRight
+|name1=2018
+|content1=
+* January 16, [https://www.youtube.com/watch?v=txMxuWbDdPA The Story of OpTic Gaming vs. FaZe Clan] - ''by theScore esports''
+* April 26, [https://www.youtube.com/watch?v=ENP-vLmuRlY What's next for OpTic Gaming?] - ''by FoxTheDon''
+* May 7, [https://www.youtube.com/watch?v=gJlNoRIOupg OpTic Gaming - The End of a Dynasty] - ''by FoxTheDon''
+* May 9, [https://www.dbltap.com/posts/6054293-reflecting-on-optic-gaming-the-greatest-call-of-duty-team-of-all-time Reflecting on OpTic Gaming: The Greatest CoD Team of All Time] - ''by DBLTAP''
+}}
+
+=== Interviews ===
+{{TDRight
+|name1=2012
+|content1=
+*August 4, [https://www.youtube.com/watch?v=rgSRAfJIxiQ EGL7 OpTic Interview] - ''with Dexerto''
+*August 6, [https://www.youtube.com/watch?v=SsTHBoKa3N0 EGL7 Optic Gaming Post Event Win Interview] - ''with Dexerto''
+*August 10, [https://www.youtube.com/watch?v=iTs0cKXvWwQ EGL7 Call of Duty Winners OpTic Gaming Exclusive ESPL Interview] - ''with eSportsLive''
+*August 18, [https://www.youtube.com/watch?v=sPVBfdcJp0w Gamescom Optic Gaming Interviewed about Black Ops 2] - ''with Dexerto''
+*October 13 [https://www.youtube.com/watch?v=ZOM3tJ6evBs EGL8 Day 1 Interview with OpTic Gaming] - ''with Dexerto''
+|name2=2014
+|content2=
+*April 4, [http://www.youtube.com/watch?v=9Dpg5L51SKg Optic Gaming Matt NaDeSHoT Haag Talks ESports] - ''with GamerHubTV''
+|name3=2015
+|content3=
+*May 9, [https://www.youtube.com/watch?v=mCf_KUghli8 OpTic Gfinity Day 1 Press Conference] - ''with Dexerto''
+|name4=2016
+|content4=
+*January 14, [https://www.youtube.com/watch?v=Bbpts5lL2bA OpTic Gaming - Call of Duty World League] - ''with Call of Duty''
+}}
+
+=== Videos ===
+{{TDRight
+|name1=2015
+|content1=
+* October 23, [https://www.youtube.com/watch?v=Ke3Rs206Uik Worlds: A Journey With OpTic "One More"] ''by OpTic Gaming''
+* October 24, [https://www.youtube.com/watch?v=QpRiyb7HjWg Worlds: A Journey With OpTic "Momentum"] ''by OpTic Gaming''
+* October 27, [https://www.youtube.com/watch?v=3CrG9BO8IOM Worlds: A Journey With OpTic "Finale"] ''by OpTic Gaming''
+}}
+
+=== Vision - Documentary Series ===
+{{TDRight
+|name1=Season 1
+|content1=
+* [https://www.youtube.com/watch?v=4QJUfFx1iqs Episode 1 - "The Move"]
+* [https://www.youtube.com/watch?v=pQAHHnhyqsM Episode 2 - "Invite Only"]
+* [https://www.youtube.com/watch?v=ciLlPBpL-eg Episode 3 - "Settling In"]
+* [https://www.youtube.com/watch?v=FxgGDY31d5I Episode 4 - "The Visit"]
+* [https://www.youtube.com/watch?v=6MwHvKTJ94k Episode 5 - Team of The Year]
+* [https://www.youtube.com/watch?v=9CSULhWxA74 Episode 6 - "The Accident"]
+* [https://www.youtube.com/watch?v=4tjNElg_jik Episode 7 - "A New Year"]
+* [https://www.youtube.com/watch?v=vnay8Hzkimw Episode 8 - "Counter-Terrorists Win"]
+* [https://www.youtube.com/watch?v=sD8-im98NKA Episode 9 - "Patience"]
+* [https://www.youtube.com/watch?v=gFALlR29-vI Episode 10 - "Last Chance"]
+* [https://www.youtube.com/watch?v=a7FfZCNkWeY Episode 11 - "Wake Up Call"]
+* [https://www.youtube.com/watch?v=kUHHqS5q6E0 Episode 12 - "Overtime"]
+* [https://www.youtube.com/watch?v=nPGfqiguajc Episode 13 - "Technical Difficulties"]
+* [https://www.youtube.com/watch?v=CW3EuT9K01c Episode 14 - "Backs Against The Wall"]
+* [https://www.youtube.com/watch?v=YNSkEMKB5co Episode 15 - "Back to Back"]
+* [https://www.youtube.com/watch?v=430gBwdT_z0 Episode 16 - "Secrets"]
+* [https://www.youtube.com/watch?v=K2016e-77G8 Episode 17 - "New Roommate"]
+* [https://www.youtube.com/watch?v=V3QORe6sbio Episode 18 - "Tribe"]
+* [https://www.youtube.com/watch?v=IaAGZMJz6T8 Episode 19 - "Finale"]
+
+|name2=Season 2
+|content2=
+* [https://www.youtube.com/watch?v=u6m5Iwr_B40 Episode 1 - "Crown"]
+* [https://www.youtube.com/watch?v=EiKn77pxnhU Episode 2 - "Fifth Man"]
+* [https://www.youtube.com/watch?v=ocSQSuxdB9w Episode 3 - "Full House"]
+* [https://www.youtube.com/watch?v=O7cpB5HwEUc Episode 4 - "Premier"]
+* [https://www.youtube.com/watch?v=6oRi2tjmKe4 Episode 5 - "Underdogs"]
+* [https://www.youtube.com/watch?v=dHUoKSYJ7zk Episode 6 - "Qualified"]'
+* [https://www.youtube.com/watch?v=iNbv5rYF3P0 Episode 7 - "League Play"]
+* [https://www.youtube.com/watch?v=6Utu50ISydA Episode 8 - "WorldWide"]
+* [https://www.youtube.com/watch?v=xEOLKqvSsoI Episode 9 - "Bootcamp"]
+* [https://www.youtube.com/watch?v=NQFb3LrGpwU Episode 10 - "2 Down"]
+* [https://www.youtube.com/watch?v=2F_U_776CM0 Episode 11 - "Wake Up Call"]
+* [https://www.youtube.com/watch?v=yi5rP4mpPqM Episode 12 - "The Calm"]
+* [https://www.youtube.com/watch?v=0Nf2RJh_0DY Episode 13 - "The Storm"]
+* [https://www.youtube.com/watch?v=0ohwRgC_7F0 Episode 14 - "The Move II" New CSGO House]
+* [https://www.youtube.com/watch?v=NWkRhqIvZ5E Episode 15 - "Finale II"]
+
+|name3=Season 3
+|content3=
+* [https://www.youtube.com/watch?v=k0TmBAk0BZY Episode 1 - "Crossroads"]
+* [https://www.youtube.com/watch?v=pQ_JUFF4ubI Episode 2 - "Moving Forward"]
+* [https://www.youtube.com/watch?v=nncfFtMbQ6Y Episode 3 - "The Distance"]
+* [https://www.youtube.com/watch?v=jxG3pBr8ufA Episode 4 - "Front and Center"]
+* [https://www.youtube.com/watch?v=tCimdF7YBS0 Episode 5 - "Four Straight"]
+* [https://www.youtube.com/watch?v=MEjkaSYT3FA Episode 6 - "The Race"]
+* [https://www.youtube.com/watch?v=SxbMN28blRs Episode 7 - "Survival"]
+* [https://www.youtube.com/watch?v=Oo95eQVSRYA Episode 8 - "Focused"]
+* [https://www.youtube.com/watch?v=lHGKlmqDRM0 Episode 9 - "Huddle Up"]
+* [https://www.youtube.com/watch?v=nYFmiZ34QLc Episode 10 - "Trust The Process"]
+* [https://www.youtube.com/watch?v=iDOYyA0p4_8 Episode 11 - "Finals"]
+* [https://www.youtube.com/watch?v=-7CBAjc_YoY Episode 12 - "No Limit"]
+* [https://www.youtube.com/watch?v=j3oMV4FKRIg Episode 13 - "Change" (Pt. 1)]
+* [https://www.youtube.com/watch?v=UCiAurwfZkY Episode 13 - "Change" (Pt. 2)]
+* [https://www.youtube.com/watch?v=ivKsZ1l_UJI Episode 14 - "Twenty-Nine"]
+* [https://www.youtube.com/watch?v=S6-iir4912U Episode 15 - "Cinq"]
+* [https://www.youtube.com/watch?v=wAFS9x4r-W8 Episode 16 - "No Joke"]
+* [https://www.youtube.com/watch?v=Dn4tmO4rob0 Episode 17 - "The Grape Vine"]
+* [https://www.youtube.com/watch?v=4UcAGBmQh60 Episode 18 - "Hype"]
+* [https://www.youtube.com/watch?v=FA9P6DpIFBI Episode 19 - "Repeat"]
+* [https://www.youtube.com/watch?v=A-mHjQltpuk Episode 20 - "3-Peat"]
+* [https://www.youtube.com/watch?v=LC_jmrCSWmo Episode 21 - "Back In Form"]
+* [https://www.youtube.com/watch?v=zxAHp7IX1JQ Episode 22 - "The Loop"]
+* [https://www.youtube.com/watch?v=R6j92MSSCa8 Episode 23 - "Business as Usual"]
+* [https://www.youtube.com/watch?v=24zqvtS_6EM Episode 24 - "No Mercy"]
+* [https://www.youtube.com/watch?v=s6W-SRcNLrw Episode 25 - "Vibe"]
+* [https://www.youtube.com/watch?v=KlrpA1N8rRA Episode 26 - "Welcome Back"]
+* [https://www.youtube.com/watch?v=lQQ-YCL1g90 Episode 27 - "Finale III"]
+
+|name4=Season 4
+|content4=
+* [https://www.youtube.com/watch?v=3gRCkI_biSE Episode 1 - "Seven"]
+* [https://www.youtube.com/watch?v=CR_cUnDya6Y Episode 2 - "Foundation"]
+* [https://www.youtube.com/watch?v=KdCIpe3p9XE Episode 3 - "Nerf This"]
+* [https://www.youtube.com/watch?v=BUNofshYalc Episode 4 - "Take Off"]
+* [https://www.youtube.com/watch?v=6bz4hPI8Oa0 Episode 5 - "Double Elimination"]
+* [https://www.youtube.com/watch?v=vOZ-6UJwc3g Episode 6 - "Outlaws"]
+* [https://www.youtube.com/watch?v=TKF2-8KSAzs Episode 7 - "The Grind"]
+* [https://www.youtube.com/watch?v=HEApPABQnN4 Episode 8 - "The Jungle"]
+* [https://www.youtube.com/watch?v=7emniNeVGwU Episode 9 - "The Move III"]
+* [https://www.youtube.com/watch?v=99qBOI1hx5A Episode 10 - "New Addition"]
+* [https://www.youtube.com/watch?v=d_3kVS3Wz5I Episode 11 - "Clash"]
+* [https://www.youtube.com/watch?v=uQG1DslaA20 Episode 12 - "Full Circle"]
+* [https://www.youtube.com/watch?v=FKtez1BtFa0 Episode 13 - "Familia"]
+* [https://www.youtube.com/watch?v=JMwrgJKYO-s Episode 14 - "Enough"]
+* [https://www.youtube.com/watch?v=MRFdH7KY6Pw Episode 15 - "Finale IV"]
+
+|name5=Season 5
+|content5=
+* [https://www.youtube.com/watch?v=SP-xd0rktF4 Episode 1 - “Reset”]
+* [https://www.youtube.com/watch?v=SzD_U147VXo Episode 2 - “Old Vibes”]
+* [https://www.youtube.com/watch?v=T3njf0s1WXE Episode 3 - "Relapse"]
+* [https://www.youtube.com/watch?v=0CT-yGeex4g Episode 4 - “Trials”]
+* [https://www.youtube.com/watch?v=7sSIW52BYhI Episode 5 "Catch Up"]
+* [https://www.youtube.com/watch?v=SAMM1py5en4 Episode 6 - “Rivals”]
+* [https://www.youtube.com/watch?v=kE0kptKqM2I Episode 7 - “Power”]
+* [https://www.youtube.com/watch?v=HFhZq7qRX9c Episode 8 - “Precision”]
+* [https://www.youtube.com/watch?v=4pCSRM-Z1go Episode 9 - “Prestige”]
+* [https://www.youtube.com/watch?v=Py6UNfHoBdY Episode 10 - “Empty”]
+* [https://www.youtube.com/watch?v=gqzfhDLoInk Episode 11 - “Results”]
+* [https://www.youtube.com/watch?v=ofoirpSm0H8 Episode 12 - “Regain”]
+* [https://www.youtube.com/watch?v=WLh3sh8waTc Episode 13 - “Finale V”]
+
+|name6=Season 6
+|content6=
+* [https://www.youtube.com/watch?v=maPurJAliVc Episode 1 - “Repair"]
+* [https://www.youtube.com/watch?v=PR9jQKcF60A Episode 2 - "LVL UP"]
+* [https://www.youtube.com/watch?v=F5Ct9eHDaTU Episode 3 - "Comeback"]
+}}
+
+== External Links ==
+*[http://www.mlg.com/video/optic-gaming-defending-the-throne/_id/jKcLH2SR-KC/_pid/25 OpTic Gaming:  Defending the Throne] - ''mlg.com''
+
+== References ==
+<references />
+{{vspace}}{{OrgNavbox/TeamPageEnd}}
+{{World Champions Navbox}}[[Category:World Champions]]

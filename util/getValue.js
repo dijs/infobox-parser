@@ -38,6 +38,10 @@ export default function getValue(raw, key) {
     return true;
   }
 
+  if (cleansed === 'n' || cleansed === 'no') {
+    return false;
+  }
+
   if (key == 'birthPlace') {
     return raw.trim();
   }

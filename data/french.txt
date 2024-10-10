@@ -1,0 +1,104 @@
+{{Titre mis en forme|''Phèdre'' (Sénèque)}}
+{{Voir homonymes|Phèdre|Hippolyte}}
+{{ébauche|pièce de théâtre}}
+{{Infobox Pièce de théâtre
+ | titre = Phèdre
+ | titre autre = 
+ | image = Phèdre et Hippolyte par Pierre-Narcisse Guérin, 1802 - Musée du Louvre.jpg
+ | légende = ''Phèdre et Hippolyte'' par [[Pierre-Narcisse Guérin]], 1802.
+ | auteur = [[Sénèque]]
+ | genre = [[Tragédie romaine]]
+ | actes = 
+ | durée = 1 h 50
+ | dates écriture =
+ | sources = 
+ | musique de scène = 
+ | suite orchestrale = 
+ | traducteur = 
+ | lieu parution =
+ | éditeur = 
+ | collection = 
+ | préface = 
+ | directeur = 
+ | date parution = 
+ | illustrateur = 
+ | illustrateur couverture = 
+ | pages = 
+ | isbn = 
+ | date première = 
+ | théatre première = 
+ | compagnie première = 
+ | metteur en scène = 
+ | scénographe = 
+ | rôle principal = 
+ | type support enregistrement = 
+<!-- Lister les données des sections ci-après entre les balises <div></div> 
+ET penser à retirer les balises <!- -> lorsque les sections sont renseignées -->
+<!-- | représentations notables = <div>
+</div> -->
+ | personnages = [[Hippolyte fils de Thésée|Hippolyte, fils de Thésée]]<br />[[Phèdre (mythologie)|Phèdre]], femme de Thésée<br />[[Thésée]]<br />La Nourrice de Phèdre<br />Un Messager<br />Chœur d'Athéniens<br />Troupe de veneurs
+<!-- | tirades = <div>
+</div> -->
+<!-- | adaptations = <div>
+</div> -->
+<!-- | notes = <div>
+</div> -->
+}}
+
+'''''Phèdre''''' (en [[latin]] : ''Phaedra''), également connue sous le titre '''''Hippolyte''''' (''Hippolytus''), est une [[Tragédie romaine]] de [[Sénèque]] reprenant le mythe grec de [[Phèdre (mythologie)|Phèdre]].
+
+En [[1591]], [[Jean Yeuwain]] la traduit en ''[[Hippolyte, tragédie tournée de Sénèque]]''.
+
+Depuis le {{s-|XVII|e}}, on a considéré que Sénèque a traduit l’''[[Hippolyte porte-couronne]]'' d'[[Euripide]]. D'après [[Pierre Grimal]], dans son édition du texte latin (PUF, collection Erasmus), il semble que l'œuvre du [[dramaturge]] latin résulte de la « contamination » de plusieurs sources, dont [[Sophocle]] (tragédie perdue), [[Lycophron]] et [[Ovide]].
+
+Cette tragédie a inspiré le poète latin chrétien [[Prudence (poète)|Prudence]], auteur d'une ''Passion d'Hippolyte'' (''Peristephanon'' 11) où il évoque le martyre et le culte de saint [[Hippolyte de Rome]].
+
+== Résumé de l'[[Michel de Marolles|abbé de Marolles]] (1664) ==
+
+=== Acte I ===
+
+Le jeune Hippolyte distribue à chacun de ses gens la charge et les emplois qu'ils doivent avoir pour la chasse, leur marque les lieux où ils doivent aller, et invoque le secours de Diane déesse des chasseurs. Phèdre déclare à sa Nourrice qu'elle brûle d'amour pour Hippolyte, dont la Nourrice tâche vainement de la détourner. Le chœur maintient que toutes choses cèdent à l'amour, les hommes de quelque pays, de quelque âge et de quelque condition qu'ils soient, et les Dieux mêmes du Ciel et des Enfers, aussi bien que toutes sortes d'animaux.
+
+=== Acte II ===
+
+La Nourrice se plaint des mauvaises suites de l’Amour, de la maladie et de l’impatience que donne cette violente passion. Puis tout d’un coup Phèdre paraît, travestie en habit d’amazone ou de chasseresse pour plaire à Hippolyte. La Nourrice s’efforce adroitement de fléchir l’esprit d’Hippolyte, pour le faire consentir aux délices de l’amour et aux douceurs de la vie civile : mais Hippolyte ne veut point changer d’humeur, et préfère de bien loin ses inclinations pour la vie champêtre à tous les plaisirs de la société humaine dont la Nourrice l’a entretenu. Phèdre et sa Nourrice attaquent par toutes sortes d’artifices la pudicité du jeune homme, mais elles ne la peuvent surmonter. C’est pourquoi elles ont recours à la calomnie. Le chœur prie les Dieux, que la beauté soit aussi avantageuse à Hippolyte qu’elle a été pernicieuse et fatale à d'autres ; il annonce le retour de Thésée.
+
+=== Acte III ===
+
+Thésée, de retour des Enfers, demande à la Nourrice, la cause du deuil de sa maison : elle lui annonce que Phèdre a pris la résolution de mourir. Phèdre déclare qu’elle aime mieux mourir que de déclarer à Thésée la violence qu’elle a subie. Comme Thésée menace la Nourrice afin de connaître la vérité, elle lui montre l’épée d'Hippolyte. Thésée reconnaît l’épée, et souhaite que son fils connaisse la mort. Le chœur se plaint de l'injustice dont les dieux font preuve : les gens de bien sont persécutés et les méchants sont récompensés.
+
+=== Acte IV ===
+
+Un messager raconte à Thésée comment Hippolyte a été mis en pièces par ses propres chevaux, épouvantés par un taureau marin envoyé par Neptune conformément au souhait de Thésée. Le chœur fait un récit de l’inconstance des grandes fortunes et des périls où elles sont exposées, recommande la sûreté des petites et déplore la mort d’Hippolyte.
+
+=== Acte V ===
+
+Hippolyte innocent, Phèdre avoue son crime, et se tue. Thésée regrette la mort de son fils, lui accorde une sépulture et la refuse à celle qui fut sa femme.
+
+== Bibliographie ==
+
+* G. Runchina, ''Tecnica drammatica e retorica nelle Tragedie di Seneca'', Cagliari, 1960
+* [[Pierre Grimal]], ''Phædra'', Paris, P.U.F., "Erasme", 1965
+* Pierre Grimal, « L'originalité de Sénèque dans la tragédie de Phèdre », ''Revue des Études latines'', XLI (1963), {{p.|297-314}}
+* F. Dupont, ''Les Monstres de Sénèque'', Paris, Belin, 1995
+
+== Voir aussi ==
+
+{{Autres projets|commons=Category:Phaedra|commons titre=Phèdre}}
+{{Autres projets|wikisource=Hippolyte, tragédie tournée de Sénèque}}
+
+=== Articles connexes ===
+
+* [[Phèdre (mythologie)|Phèdre]]
+* ''[[Hippolyte (Garnier)|Hippolyte]]'' de [[Robert Garnier]]
+* ''[[Phèdre (Racine)|Phèdre]]'' de [[Jean Racine]]
+* ''[[Hippolyte et Aricie]]'' de [[Jean-Philippe Rameau]]
+* ''[[Hippolyte, tragédie tournée de Sénèque]]'' de [[Jean Yeuwain]]
+
+
+{{Palette Tragédies de Sénèque}}
+{{Portail|théâtre|Rome antique}}
+
+{{DEFAULTSORT:Phedre}}
+[[Catégorie:Tragédie]]
+[[Catégorie:Pièce de théâtre de Sénèque]]

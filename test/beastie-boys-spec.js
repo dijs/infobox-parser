@@ -6,29 +6,31 @@ describe('Should Parse Beastie Boys\'s Information', () => {
   const source = fs.readFileSync('./data/beastie-boys.txt', 'utf8');
   const properties = parse(source);
   it('landscape', () => {
-    properties.should.have.property('landscape', true);
+    properties.general.should.have.property('landscape', true);
   });
   it('origin', () => {
-    properties.should.have.property('origin', 'New York City');
+    properties.general.should.have.property('origin', 'New York City');
   });
   it('yearsActive', () => {
-    properties.should.have.property('yearsActive', '1981–2012');
+    properties.general.should.have.property('yearsActive', '1981–2012');
   });
   it('genre', () => {
-    properties.genre.should.containEql('Hip hop music');
-    properties.genre.should.containEql('rap rock');
+    properties.general.genre.should.containEql('Hip hop music');
+    properties.general.genre.should.containEql('rap rock');
+    properties.general.genre.should.containEql('alternative hip hop');
+    properties.general.genre.should.not.containEql('nowrap');
   });
   it('label', () => {
-    properties.label.should.containEql('Rat Cage Records');
-    properties.label.should.containEql('Def Jam Recordings');
-    properties.label.should.containEql('Capitol Records');
+    properties.general.label.should.containEql('Rat Cage Records');
+    properties.general.label.should.containEql('Def Jam Recordings');
+    properties.general.label.should.containEql('Capitol Records');
   });
   it('pastMembers', () => {
-    properties.pastMembers.should.containEql('Mike D');
-    properties.pastMembers.should.containEql('Adam Yauch');
-    properties.pastMembers.should.containEql('Ad-Rock');
+    properties.general.pastMembers.should.containEql('Mike D');
+    properties.general.pastMembers.should.containEql('Adam Yauch');
+    properties.general.pastMembers.should.containEql('Ad-Rock');
   });
   it('website', () => {
-    properties.should.have.property('website', 'http://www.beastieboys.com/');
+    properties.general.should.have.property('website', 'http://www.beastieboys.com/');
   });
 });

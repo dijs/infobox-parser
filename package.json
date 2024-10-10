@@ -1,6 +1,6 @@
 {
   "name": "infobox-parser",
-  "version": "2.2.1",
+  "version": "3.6.4",
   "description": "Parse Wikipedia Infobox Source",
   "main": "build/bundle.min.js",
   "scripts": {
@@ -15,6 +15,10 @@
   },
   "bugs": {
     "url": "https://github.com/dijs/infobox-parser/issues"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://www.buymeacoffee.com/2tmRKi9"
   },
   "devDependencies": {
     "babel-core": "^6.24.1",

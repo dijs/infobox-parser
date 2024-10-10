@@ -2,56 +2,79 @@ require('should');
 import fs from 'fs';
 import parse from '../index';
 
-describe('Should Parse Queen\'s Information', () => {
+describe("Should Parse Queen's Information", () => {
   const source = fs.readFileSync('./data/queen.txt', 'utf8');
   const properties = parse(source);
   const propertiesNonSimple = parse(source, { simplifyDataValues: false });
+
+  console.log(properties, JSON.stringify(properties, null, 2));
+
   it('reign', () => {
-    properties.should.have.property('reign', '6 February 1952 – present');
+    properties.general.should.have.property(
+      'reign',
+      '6 February 1952–8 September 2022'
+    );
   });
   it('image', () => {
-    properties.should.have.property('image', 'Queen Elizabeth II March 2015.jpg');
+    properties.general.should.have.property(
+      'image',
+      'Queen Elizabeth II official portrait for 1959 tour (retouched) (cropped) (3-to-4 aspect ratio).jpg'
+    );
   });
   it('image caption', () => {
-    properties.should.have.property('caption', 'Elizabeth in 2015');
+    properties.general.should.have.property('caption', 'Formal portrait, 1959');
   });
   it('coronation', () => {
-    properties.should.have.property('coronation', '2 June 1953');
-  });
-  it('sucType', () => {
-    properties.should.have.property('sucType', 'Heir apparent');
+    properties.general.should.have.property('coronation', '2 June 1953');
   });
   it('issue', () => {
-    properties.issue.should.containEql('Anne, Princess Royal');
+    properties.general.issue.should.containEql('Anne, Princess Royal');
   });
   it('successor', () => {
-    properties.should.have.property('successor', 'Charles, Prince of Wales');
+    properties.general.should.have.property('successor', 'Charles III');
   });
   it('spouse', () => {
-    properties.spouse.should.have.property('who', 'Prince Philip, Duke of Edinburgh');
-    properties.spouse.should.have.property('married', '20 November 1947');
+    properties.general.spouse.should.have.property(
+      'who',
+      'Prince Philip, Duke of Edinburgh'
+    );
+    properties.general.spouse.should.have.property(
+      'married',
+      '20 November 1947'
+    );
   });
   it('full name', () => {
-    propertiesNonSimple.should.have.property('fullName', 'Elizabeth Alexandra Mary');
+    propertiesNonSimple.general.should.have.property(
+      'fullName',
+      'Elizabeth Alexandra Mary'
+    );
   });
   it('house', () => {
-    propertiesNonSimple.should.have.property('house', 'House of Windsor');
+    propertiesNonSimple.general.should.have.property(
+      'house',
+      'House of Windsor'
+    );
   });
   it('father', () => {
-    properties.should.have.property('father', 'George VI');
+    properties.general.should.have.property('father', 'George VI');
   });
   it('birth place', () => {
-    propertiesNonSimple.should.have.property('birthPlace', '17 Bruton Street, Mayfair, London, England, UK');
+    propertiesNonSimple.general.should.have.property(
+      'birthPlace',
+      'Mayfair, London, England'
+    );
   });
   it('birth date', () => {
-    // Will just update this every year :)
-    properties.birthDate.should.have.property('age', 91);
-    properties.birthDate.date.should.be.instanceOf(Date);
-    properties.birthDate.date.getFullYear().should.equal(1926);
-    properties.birthDate.date.getMonth().should.equal(3);
-    properties.birthDate.date.getDate().should.equal(21);
+    properties.general.birthDate.age.should.be.above(97);
+    properties.general.birthDate.date.should.be.instanceOf(Date);
+    properties.general.birthDate.date.getFullYear().should.equal(1926);
+    properties.general.birthDate.date.getMonth().should.equal(3);
+    properties.general.birthDate.date.getDate().should.equal(21);
   });
   it('signature', () => {
-    properties.should.have.property('signature', 'Elizabeth II signature 1952.svg');
+    properties.general.should.have.property(
+      'signature',
+      'Elizabeth II signature 1952.svg'
+    );
   });
 });

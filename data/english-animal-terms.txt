@@ -1,0 +1,668 @@
+<!--Please do not add to this list without providing a verifiable reputable source.-->
+<!--This list should not include fictional nouns or mythical creatures.-->
+<!--Date of first attestation is required. in particular, distinguish the genuine tradition of venery from modern humorous coinages.-->
+[[File:Wildgansflug.jpg|thumb|A skein of geese]]
+
+This is a list of English [[terms of venery]] (''venery'' being an archaic word for hunting), comprising terms from a tradition that arose in the [[Late Middle Ages]], at least partly from the ''[[Book of Saint Albans]]'' of 1486, a historic list of "company terms". The present list also includes more common collective terms (such as "herd" and "flock") for some animals.
+
+{{Compact ToC|seealso=yes|refs=yes|align=center}}
+
+Standard terms for particular groups are listed first in each group and shown in bold.
+
+{{Dynamic list}}
+
+{| class="wikitable sortable"
+|-
+! Subject
+! Collective noun
+! style="width:120pt;"|Notes
+! Sources
+|-
+|{{anchor|A}}'''A'''|| {{sort|A|}} || ||
+|-
+|'''[[albatross]]'''
+|rookery
+|
+|<ref>{{cite web|url=http://www.thealmightyguru.com/Pointless/AnimalGroups.html|title=Animal Groups|last=Tersigni|first=Dean|website=www.thealmightyguru.com|access-date=2018-01-06}}</ref>
+|-
+|'''[[antelopes]]'''  ||[[herd]]|| ||<ref name="witches">{{Cite book |title=Witches all |last=Pepper |first=Elizabeth |authorlink=Elizabeth Pepper |edition=Revised, Illustrated |year=2003 |origyear= |page=41 |publisher=Witches' Almanac Limited |place=Tiverton, Rhode Island |url=https://books.google.com/books?id=u4E1sZLzi5wC&pg=PA41&lpg=PA41 |isbn=978-1-881098-26-3}}</ref>
+|-
+|rowspan="4"|'''[[ant]]s''' ||army  ||  ||<ref name="sdzoo" />
+|-
+|colony||  ||<ref name="sdzoo" /><ref name="usgs">{{cite web|url=http://www.npwrc.usgs.gov/about/faqs/animals/names.htm |title=Common Questions: What Do You Call a Group of...? |work=archived copy of Animal Congregations, or What Do You Call a Group of.....? |archivedate=March 20, 2015 |accessdate=2015-04-13 |publisher=U.S. Geological Survey Northern Prairie Wildlife Research Center |deadurl=yes |archiveurl=https://web.archive.org/web/20150320071411/http://www.npwrc.usgs.gov/about/faqs/animals/names.htm }}</ref>
+|-
+|[[nest]] ||  ||<ref name="sdzoo" />
+|-
+|[[swarm]] ||  ||<ref name="sdzoo" />
+|-
+|rowspan="2"|'''[[ape]]s'''  || shrewdness ||  ||<ref name="witches" /><ref name="albans">{{Cite book |title=The Boke of Saint Albans |last= Berners |first= Dame Juliana|authorlink= Juliana Berners |others= Introduction by [[William Blades]] |year=1881 |origyear= 1486 |url=https://archive.org/details/bokeofsaintalban00bernuoft |accessdate= 2011-05-27 |publisher=Elliot Stock |location=London}}</ref><ref name="oxfordfaq">{{cite web|title=What do you call a group of ...?|url=https://en.oxforddictionaries.com/explore/what-do-you-call-a-group-of|publisher=Oxford Dictionaries|accessdate = 2016-10-22 }}</ref>
+|-
+|troop   ||  ||<ref name="sdzoo" />
+|-
+|rowspan="3"|'''[[donkey|asses]]''' ||'''herd'''  ||  ||<ref name="sdzoo" />
+|-
+|drove  ||when driven in a group ||<ref name="sdzoo" />
+|-
+|pace or passe  ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|{{anchor|B}}'''B''' || {{sort|B|}} ||  ||
+|-
+|'''[[baboon]]s''' ||troop ||  ||<ref name="sdzoo" /><ref name="oxfordfaq" />
+|-
+|'''[[badger]]s''' ||cete ||  ||<ref name="sdzoo" /><ref name="usgs" /><ref name="oxfordfaq" /><ref name="schott">{{Cite book |title=Schott's Original Miscellany |last=Schott |first=Ben |authorlink= Ben Schott |year= 2002 |page= 11 |url=https://books.google.com/books?id=zOOjXi_-INsC |ISBN=0-7475-6320-9 |publisher=Bloomsbury Publishing |location=London}}</ref>
+|-
+|'''[[bat]]s''' ||colony ||  ||<ref name="usgs" />
+|-
+|'''[[bear]]s''' ||sleuth or sloth || ||<ref name="sdzoo" /><ref name="usgs" /><ref name="oxfordfaq" />
+|-
+|rowspan="2"|'''[[beaver]]s''' ||colony|| ||<ref name="sdzoo" />
+|-
+|family|| ||<ref name="sdzoo" />
+|-
+|rowspan="4"|'''[[bee]]s''' ||'''swarm'''  ||  ||<ref name="oxfordfaq" />
+|-
+|drift ||  ||<ref name="oxfordfaq" />
+|-
+|erst ||  ||<ref name="oxfordfaq" />
+|-
+|grist ||  ||<ref name="usgs" />
+|-
+|rowspan="3"|'''[[bird]]s'''||'''flock''' ||  ||<ref name="oxfordfaq" />
+|-
+|flight ||  ||<ref name="oxfordfaq" />
+|-
+|pod ||  ||<ref name="oxfordfaq" />
+|-
+|'''[[bittern]]s''' ||sedge or sege  ||  ||<ref name="usgs" /><ref name="albans" /><ref name="sege">{{cite web|url=http://www.thefreedictionary.com/Sege|title=Sege|publisher=|via=The Free Dictionary}}</ref><ref name="strutt" />
+|-
+|'''[[boar]]s''' ||sounder ||12 or more ||<ref name="schott" />
+|-
+|'''[[American bison|buffalo]]'''  ||herd ||  ||<ref name="usgs" /><ref name="oxfordfaq" />
+|-
+|'''[[Pyrrhula|bullfinches]]''' ||bellowing|| ||<ref name="oxfordfaq" />
+|-
+|'''[[cattle|bullocks]]''' ||drove  || when driven in a group ||<ref name="oxfordfaq" />
+|-
+|rowspan="3"|'''[[Butterfly|butterflies]]''' || '''swarm''' || || <ref>{{cite web|url=http://www.butterfliesandmoths.org/|title=Butterflies and Moths of North America – collecting and sharing data about Lepidoptera|work=butterfliesandmoths.org}}</ref>
+|-
+|flutter || ||<ref>{{cite web|url=http://animals.nationalgeographic.com/animals/bugs/monarch-butterfly/|title=Monarch Butterfly: Danaus plexippus |website=National Geographic}}</ref>
+|-
+|kaleidoscope || ||<ref>{{cite web|url=https://www.reference.com/pets-animals/call-group-butterflies-fa80701d0ec8218|title=What do you call a group of butterflies?|work=reference.com}}</ref>
+|-
+|{{anchor|C}}'''C''' || {{sort|C|}} ||  ||
+|-
+| '''[[capercaillie]]''' ||tok ||  ||<ref>{{cite web|url=http://blx1.bto.org/birdfacts/results/bob3350.htm|title=BTO BirdFacts – Capercaillie|work=bto.org}}</ref>
+|-
+|'''[[capon]]s''' ||mews ||  ||<ref name="Faulkner2013">{{cite book |url=https://books.google.com/books?id=aHhP_7zOG8wC&pg=PA37 |title=A Compendium of Collective Nouns: From an Armory of Aardvarks to a Zeal of Zebras |date=2013 |page=37 |first1=Mark |last1=Faulkner |first2=Eduardo |last2=Lima&nbsp;Filho |first3=Harriet |last3=Logan |first4=Miraphora |last4=Mina |others=Text by Jay&nbsp;Sacher <!-- OCLC says Jason Sacher --> |publisher=Chronicle Books |location=San Francisco |asin=B00CUSQNWO |isbn=978-1-4521-2952-5 |lccn=2013-10190 |oclc=854853170}}</ref>
+|-
+|'''[[caribou]]''' ||herd ||  ||<ref name="Faulkner2013" />
+|-
+|rowspan="4"|'''[[cat]]s''' ||clowder ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|glaring|| ||<ref>{{Cite web |url= http://oxforddictionaries.com/words/what-do-you-call-a-group-of |title=What do you call a group of&nbsp;...? |work=Oxford Dictionaries Online |publisher=[[Oxford University Press]] |access-date=1 October 2012 |dead-url=no |archive-url= https://web.archive.org/web/20121012112007/http://oxforddictionaries.com/words/what-do-you-call-a-group-of |archive-date=12 October 2012}}</ref>
+|-
+|pounce ||  ||<ref name="usgs" />
+|-
+|destruction ||[[feral cat]]s ||<ref name="oxfordfaq" /><ref>{{cite web|url=http://www.thefreedictionary.com/destruction|title=destruction|publisher=|via=The Free Dictionary}}</ref>
+|-
+|'''[[cattle]]''' ||mob ||when driven in a group ||<ref>mob. (n.d.). Dictionary.com Unabridged. Retrieved November 30, 2015 from Dictionary.com website http://dictionary.reference.com/browse/mob</ref>
+|-
+|'''[[chicken]]s''' ||clutch ||  ||<ref name="oxfordfaq" />
+|-
+|[[Cheetah|'''cheetahs''']]
+|coalition
+|males only
+|<ref>{{Cite news|url=https://www.reference.com/pets-animals/group-cheetahs-called-65e61a15c2df58d3?aq=What+is+a+group+of+cheetahs+called&qo=cdpArticles|title=What is a group of cheetahs called?|work=Reference|access-date=2017-10-26|language=en}}</ref>
+|-
+|'''[[chough]]s'''
+|chattering or clattering ||  ||<ref name="albans" /><ref name="oxfordfaq" /><ref name="schott" /><ref name="chattering">{{cite web|url=http://www.thefreedictionary.com/chattering|title=chattering|publisher=|via=The Free Dictionary}}</ref><ref>{{cite web|url=http://www.thefreedictionary.com/clattering|title=clattering|publisher=|via=The Free Dictionary}}</ref>
+|-
+|rowspan="2"|'''[[Colt (horse)|colts]]''' ||rag ||  ||<ref name="usgs" /><ref name="oxfordfaq" /><ref name="schott" />
+|-
+|rake ||  ||<ref name="oxfordfaq" />
+|-
+|'''[[cormorant]]s''' ||gulp ||  ||<ref name="usgs" />
+|-
+|'''[[coot]]s''' ||covert ||  ||<ref name="albans" /><ref name="oxfordfaq" /><ref name="strutt" />
+|-
+|'''[[coyote]]s''' ||pack ||  ||<ref>{{cite web |title=Animals |url=https://www.nationalgeographic.com/animals/mammals/c/coyote/ |website=National Geographic |publisher=National Geographic Society |accessdate=17 January 2019 |date=10 May 2011}}</ref>
+|-
+| rowspan="3" |'''[[crane (bird)|cranes]]''' ||herd||  ||<ref name="albans" /><ref name="oxfordfaq" /><ref name="strutt" />
+|-
+|sedge or sege ||  ||<ref name="usgs" /><ref name="sege" />
+|-
+|siege
+|
+|<ref>{{Cite news|url=https://www.adducation.info/mankind-nature-general-knowledge/collective-nouns-for-birds/?doing_wp_cron=1515201181.0115609169006347656250|title= List of Collective Nouns for Birds + Group Names for Birds & Poultries|work=Adducation|access-date=2018-01-06|language=en-US}}</ref>
+|-
+|'''[[crocodile]]s''' ||bask || ||<ref name="usgs" />
+|-
+|'''[[crow]]s''' ||murder, horde or wake (when feeding)||  ||<ref name="usgs" /><ref name="oxfordfaq" /><ref name="schott" />
+|-
+|'''[[curlew]]s''' ||herd ||  ||<ref name="albans" /><ref name="oxfordfaq" /><ref name="schott" /><ref name="strutt" />
+|-
+|{{anchor|D}}'''D''' || {{sort|D|}} ||  ||
+|-
+|rowspan="2"|'''[[deer]]''' ||'''herd''' ||  ||<ref name="oxfordfaq" />
+|-
+|parcel  ||  ||<ref>{{cite book|url=https://archive.org/stream/daysdeer00scrorich#page/82/mode/2up |title=Days of deer-stalking in the Scottish Highlands |first=William |last=Scrope |publisher=Hamilton, Adams & Co |location=London |date=1883 |page=83 |quote= He pressed forward rapidly, still out of sight of both parcels of deer}}</ref>
+|-
+|'''[[dog]]s''' ||pack ||  ||<ref name="oxfordfaq" />
+|-
+|'''[[dolphin]]s''' ||pod || ||<ref>{{cite news| url=http://news.bbc.co.uk/2/hi/americas/6272733.stm | work=BBC News | title=Battle to save NY pod of dolphins | date=17 January 2007 | accessdate=8 May 2010}}</ref><ref>[http://www.nasaimages.org/luna/servlet/detail/NVA2~13~13~23280~123821:A-Pod-of-Dolphins A Pod of Dolphins – NASA Mars Collection<!-- Bot generated title -->]</ref>
+|-
+|'''[[dotterel]]''' ||trip ||  ||<ref name="usgs" /><ref name="oxfordfaq" /><ref>{{cite web|url=http://blx1.bto.org/birdfacts/results/bob4820.htm|title=BTO BirdFacts – Dotterel|work=bto.org}}</ref>
+|-
+|rowspan="2"|'''[[Columbidae|doves]]''' ||dole or dule ||fanciful  ||<ref name="usgs" /><ref name="albans" /><ref name="oxfordfaq" />
+|-
+||flight || ||<ref name="strutt" />
+|-
+|rowspan="4"|'''[[duck]]s''' ||badling or badelynge || ||<ref name="usgs" /><ref name="strutt" />
+|-
+|paddling  ||on water  ||<ref name="usgs" /><ref name="oxfordfaq" />
+|-
+|plump  ||  ||<ref>{{cite web|url=http://dictionary.infoplease.com/plump|title=plump: meaning and definitions|work=infoplease.com}}</ref><ref>[http://www.merriam-webster.com/dictionary/plump%5B4%5D Plump[4&#93; - Definition and More from the Free Merriam-Webster Dictionary]<!-- Bot generated title --></ref>
+|-
+|raft ||on water ||<ref name="usgs" /><ref name="oxfordfaq" />
+|-
+|'''[[dunlin]]s''' ||fling  ||  ||<ref name="oxfordfaq" />
+|-
+|{{anchor|E}}'''E''' || {{sort|E|}} ||  ||
+|-
+|'''[[eagle]]s'''||convocation ||  ||<ref name="usgs" />
+|-
+|'''[[eel]]s''' ||bed  ||  ||<ref name="sdzoo" />
+|-
+|'''[[elephant]]s''' ||herd  ||  ||<ref name="usgs" />
+|-
+|rowspan="2"|'''[[elk]]''' ||gang  ||  ||<ref name="oxfordfaq" /><ref name="schott" />
+|-
+|herd||  ||<ref name="oxfordfaq" />
+|-
+|{{anchor|F}}'''F''' || {{sort|F|}} ||  ||
+|-
+|'''[[falcon]]s''' ||cast||  ||<ref>{{Cite OED2|cast}}</ref>
+|-
+|rowspan="3"|'''[[ferret]]s''' ||business ||corruption over time of 'busyness'  ||<ref name="usgs" /><ref name="schott" />
+|-
+|busyness ||  ||<ref name="albans" />
+|-
+|besyness<br />fesynes<br />fesnyng<br />feamyng || [[ghost word]]s arising from successive misspellings of "busyness" ||<ref name="borgmann">{{cite book
+|title=[[Beyond Language: Adventures in Word and Thought]]
+|authorlink=Dmitri Borgmann
+|first=Dmitri A.
+|last=Borgmann
+|location=New York
+|publisher=Charles Scribner's Sons
+|oclc=655067975
+|year=1967
+|pages=79–80, 146, 251–254
+}}</ref>
+|-
+|'''[[finch]]es''' ||charm or chirm ||  ||<ref name="usgs" /><ref name="oxfordfaq" />
+|-
+|rowspan="2"|'''[[fish]]''' ||'''[[Shoaling and schooling|school]]'''  ||  ||<ref name="usgs" />
+|-
+|[[Shoaling and schooling|shoal]]  ||  ||<ref name="usgs" />
+|-
+| rowspan="4" |'''[[flamingo]]es''' ||stand  ||  ||<ref name="usgs" />
+|-
+|flamboyance
+|
+|<ref name="flam">{{cite web|title = Animal Groups|url = http://birding.about.com/od/Bird-Trivia/a/20-Fun-Facts-About-Flamingos.htm|website = [[About.com]]|access-date = 2016-02-02}}</ref>
+|-
+|colony
+|
+|<ref name="flam" />
+|-
+|regiment
+|
+|<ref name="flam" />
+|-
+|'''[[fly|flies]]''' ||business ||  ||<ref name="usgs" />
+|-
+|rowspan="2"|'''[[fox]]es'''  ||leash  ||  ||<ref name="usgs" />
+|-
+|skulk  ||  ||<ref name="usgs" />
+|-
+|'''[[frog]]s'''  ||army  ||  ||<ref name="usgs" />
+|-
+|{{anchor|G}}'''G''' || {{sort|G|}} ||  ||
+|-
+|rowspan="3"|'''[[goose|geese]]''' ||'''flock''' || on land ||<ref name="usgs" />
+|-
+|gaggle ||on land ||<ref name="usgs" /><ref name="oxfordfaq" /><ref name="strutt" />
+|-
+|skein ||in flight ||<ref name="usgs" /><ref name="oxfordfaq" />
+|-
+|rowspan="2"|'''[[giraffe]]s ||'''herd''' || ||<ref name="oxfordfaq" />
+|-
+|tower || ||<ref name="usgs" />
+|-
+|rowspan="2"|'''[[gnat]]s''' ||'''cloud''' || ||<ref name="usgs" /><ref name="oxfordfaq" />
+|-
+|horde || ||<ref name="usgs" />
+|-
+| rowspan="2" |'''[[goat]]s''' ||flock || ||<ref name="oxfordfaq" />
+|-
+|trip
+|
+|<ref name="oxfordfaq" />
+|-
+|'''[[European goldfinch|goldfinches]]''' ||charm ||  ||<ref name="strutt" />
+|-
+|'''[[gorilla]]s''' ||band ||  ||<ref name="usgs" />
+|-
+|'''[[Northern goshawk|goshawks]]''' ||flight  ||  ||<ref name="albans" />
+|-
+|'''[[grackle]]s''' ||plague ||  ||<ref name="Murphy-Hiscock 2012 p. 86">{{cite book | last=Murphy-Hiscock | first=A. | title=Birds - A Spiritual Field Guide: Explore the Symbology and Significance of These Divine Winged Messengers | publisher=Adams Media | year=2012 | isbn=978-1-4405-2688-6 | url=https://books.google.com/books?id=zYLYIJtWr-MC&pg=PA86 | access-date=2018-01-18 | page=86}}</ref> 
+|-
+|'''[[grasshopper]]s''' ||cloud ||  ||<ref name="usgs" />
+|-
+|'''[[grouse]]''' ||covey ||  ||<ref name="oxfordfaq" />
+|-
+|'''[[guineafowl]]''' || rasp || || <ref>{{Cite book |url=https://books.google.com/books?id=KOM1AAAAMAAJ |title=Shot-gun and Sunlight – The Game Birds of East Africa |publisher=Batchworth Press |location=London |first=Lieut.-Colonel B. G. |last=Lynn-Allen |year=1951}}</ref>
+|-
+|{{anchor|H}}'''H''' || {{sort|H|}} ||  ||
+|-
+|rowspan="4"|'''[[hawk]]s'''  ||boil  ||two or more spiralling in flight  ||<ref name="usgs" />
+|-
+|cast  ||  ||<ref name="usgs" /><ref name="albans" />
+|-
+|kettle  ||flying in large numbers  ||<ref name="usgs" />
+|-
+|lease ||  ||<ref name="albans" />
+|-
+|'''[[Chicken|hens]]''' ||brood || ||<ref name="strutt" />
+|-
+|rowspan="2"|'''[[heron]]s''' ||sedge or sege||  ||<ref name="usgs" /><ref name="albans" /><ref name="schott" /><ref name="sege" /><ref name="strutt">{{cite book |first=Joseph |last=Strutt |title=The Sports and Pastimes of the People of England |year=1801 |location=London |publisher=J. White |page=28 |url=https://books.google.com/books?id=Y81cAAAAcAAJ&q=%22exaltation+of+larks%22#v=snippet&q=%22exaltation%20of%20larks%22&f=false}}</ref>
+|-
+|siege ||  ||<ref name="usgs" /><ref name="oxfordfaq" />
+|-
+| '''[[hippopotamus]]es''' ||bloat || ||<ref name="usgs" />
+|-
+|'''[[Domestic pig|hogs]]''' ||parcel ||''See also'' boars, pigs, swine ||<ref>{{Cite book |url=https://books.google.com/books?id=DEWCKlYiocIC&pg=PA30#v=onepage&q&f=false |title=The coming of the Civil War |page=30 |publisher=University of Chicago Press |author=Avery Craven |year=1957 |ISBN=0-226-11894-0}}</ref><ref>{{Cite book |url=https://books.google.com/books?id=Qxhd5QIQGQcC&pg=PA1#v=onepage&q&f=false |title=Beneath the United States |first=Lars |last=Schoultz |page=1 |quote=They are lazy, dirty, nasty, and in short I can compare them to nothing but a parcel of hogs. ([[John Quincy Adams]], age 12) |publisher=Harvard University Press |year=1998 |ISBN=0-674-92276-X}}</ref>
+|-
+|'''[[hornet]]s''' ||nest || ||<ref name="usgs" />
+|-
+|rowspan="5"|'''[[horse]]s''' ||'''team''' ||in harness  ||<ref name="usgs" />
+|-
+|haras or harrase ||  ||<ref name="usgs" />
+|-
+|herd || ||{{Citation needed|date=October 2017}}
+|-
+|string ||  ||<ref name="usgs" />
+|-
+|stud || ||<ref name="usgs" />
+|-
+|'''[[hound]]s''' ||pack ||  ||{{Citation needed|date=October 2017}}
+|-
+|'''[[hyena]]s''' ||clan||  ||
+|-
+|{{anchor|I}}'''I''' || {{sort|I|}} ||  ||
+|-
+|'''[[ibex]]''' ||herd ||  ||{{Citation needed|date=October 2017}}
+|-
+|'''[[insect]]s''' ||swarm ||  ||{{Citation needed|date=October 2017}}
+|-
+|{{anchor|J}}'''J''' || {{sort|J|}} ||  ||
+|-
+|rowspan="2"|'''[[Western jackdaw|jackdaws]]''' ||clattering ||  ||<ref name="jackdaw">{{cite web|last=Skull|first=Amanda|url=http://www.bto.org/sites/default/files/u23/images/Ambassadors/amanda_skull/2011_06_jackdaw.pdf|title=Bird Watch – Jackdaw|work=Bird Watch|publisher=British Trust for Ornithology|accessdate=7 May 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20131004220013/http://www.bto.org/sites/default/files/u23/images/Ambassadors/amanda_skull/2011_06_jackdaw.pdf|archivedate=4 October 2013|df=}}</ref>
+|-
+|train || ||<ref name="jackdaw" /><ref>{{cite book|last=White|first=Gilbert|authorlink=Gilbert White|year=1833|title=The Natural History of Selborne|location=London, United Kingdom|publisher=N. Hailes|page=163}}</ref>
+|-
+|rowspan="2"|'''[[jay]]s''' ||party  ||  ||<ref name="usgs" />
+|-
+|scold  ||  ||<ref name="usgs" />
+|-
+|rowspan="2"|'''[[jellyfish]]''' ||fluther ||  ||<ref name="oxfordfaq" />
+|-
+|smack  ||  ||<ref name="usgs" /><ref name="oxfordfaq" />
+|-
+|{{anchor|K}}'''K''' || {{sort|K|}} ||  ||
+|-
+|rowspan="2"|'''[[kangaroo]]s''' ||mob  ||  ||<ref name="sdzoo" />
+|-
+|troop ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+| rowspan="2" |'''[[kitten]]s''' ||kindle  ||  ||<ref name="oxfordfaq" />
+|-
+|litter ||  ||{{Citation needed|date=October 2017}}
+|-
+|{{anchor|L}}'''L''' || {{sort|L|}} ||  ||
+|-
+|'''[[lapwing]]s''' ||deceit or desert ||  ||<ref name="usgs" /><ref name="albans" /><ref name="oxfordfaq" /><ref name="schott" /><ref>{{cite web|url=http://blx1.bto.org/birdfacts/results/bob4930.htm|title=BTO BirdFacts – Lapwing|work=bto.org}}</ref>
+|-
+|rowspan="2"|'''[[lark]]s''' ||bevy  ||  ||<ref name="oxfordfaq" />
+|-
+|exaltation ||  ||<ref name="albans" /><ref name="oxfordfaq" /><ref name="schott" /><ref name="strutt" />
+|-
+|'''[[leopard]]s''' ||leap or lepe ||  ||<ref name="sdzoo" /><ref name="usgs" /><ref name="oxfordfaq" />
+|-
+|rowspan="2"|'''[[lion]]s'''  ||'''pride'''  ||  ||<ref name="sdzoo" /><ref name="usgs" /><ref name="oxfordfaq" />
+|-
+|sawt || ||<ref name="oxfordfaq" />
+|-
+|'''[[locust]]s''' ||plague ||  ||<ref name="usgs" />
+|-
+|{{anchor|M}}'''M''' || {{sort|M|}} ||  ||
+|-
+|'''[[mackerel]]'''  || shoal ||  ||{{Citation needed|date=October 2017}}
+|-
+|rowspan="4"|'''[[magpie]]s''' ||charm  ||  ||<ref name="usgs" />
+|-
+|gulp||  ||<ref name="usgs" />
+|-
+|murder||  ||<ref name="usgs" />
+|-
+|tiding||  ||<ref name="usgs" /><ref name="albans" /><ref name="oxfordfaq" />
+|-
+| rowspan="3" |'''[[mallards]]''' ||sord ||  ||<ref name="usgs" /><ref name="oxfordfaq" /><ref name="strutt" />
+|-
+|suit or sute ||  ||<ref name="oxfordfaq" /><ref name="strutt" />
+|-
+|flush
+|
+|<ref>{{Cite news|url=https://www.thespruce.com/flock-names-of-groups-of-birds-386827|title=Do You Know the Proper Names for Different Bird Flocks?|work=The Spruce|access-date=2018-01-06}}</ref>
+|-
+|'''[[mare]]s''' ||stud ||  ||<ref name="oxfordfaq" /><ref name="schott" />
+|-
+|'''[[marten]]s'''  ||richesse or richness  ||  ||<ref name="usgs" /><ref name="oxfordfaq" />
+|-
+|'''[[mouse|mice]]''' ||nest  ||  ||<ref name="sdzoo" />
+|-
+|'''[[minnow]]s''' ||shoal  ||  ||{{Citation needed|date=October 2017}}
+|-
+|'''[[mole (animal)|moles]]''' ||labor or labour  ||  ||<ref name="sdzoo" /><ref name="usgs" /><ref name="oxfordfaq" />
+|-
+|rowspan="3"|'''[[monkey]]s''' ||barrel ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|troop ||  ||<ref name="usgs" /><ref name="oxfordfaq" />
+|-
+|wilderness ||   ||<ref>Shakespeare, ''Merchant of Venice'', Act III, Scene i</ref>
+|-
+|'''[[moose]]''' ||herd ||  ||<ref name="sdzoo" />
+|-
+|rowspan="2"|'''[[mule]]s''' ||barren || ||<ref name="sdzoo" /><ref name="usgs" /><ref name="oxfordfaq" /><ref name="schott" />
+|-
+|span ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|{{anchor|N}}'''N''' || {{sort|N|}} ||  ||
+|-
+|'''[[nightingale]]s'''  ||watch  ||  ||<ref name="albans" /><ref name="oxfordfaq" /><ref name="strutt" />
+|-
+|{{anchor|O}}'''O''' || {{sort|O|}} ||  ||
+|-
+|'''[[octopus]]''' ||rally ||  ||<ref name="sdzoo" />
+|-
+|'''[[owl]]s''' ||parliament ||  ||<ref name="sdzoo" /><ref name="usgs" /><ref name="schott" />
+|-
+|rowspan="3"|'''[[ox]]en''' ||drove  ||  ||<ref name="sdzoo" />
+|-
+|team  ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|yoke  ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|'''[[oyster]]s''' ||bed ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|{{anchor|P}}'''P''' || {{sort|P|}} ||  ||
+|-
+|rowspan="2"|'''[[parrot]]s''' ||company  ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|pandemonium  ||  ||<ref name="sdzoo" />
+|-
+|'''[[partridge]]s''' ||covey  ||  ||<ref name="usgs" /><ref name="oxfordfaq" /><ref name="strutt" />
+|-
+|rowspan="3"|'''[[peacock]]s''' ||muster ||  ||<ref name="usgs" /><ref name="oxfordfaq" /><ref name="schott" /><ref name="strutt" />
+|-
+|ostentation ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|pride ||  ||<ref name="sdzoo" />
+|-
+|'''[[pegasus]]''' ||scrum ||  ||<ref name="sdzoo" />
+|-
+|'''[[pelican]]s''' ||pod ||  ||<ref name="sdzoo" />
+|-
+|rowspan="3"|'''[[penguin]]s''' ||colony  ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|convent  ||  ||<ref name="sdzoo" />
+|-
+|tuxedo || ||<ref name="whypen" >{{cite book|last=Jouventin|first=Pierre|authorlink=Pierre Jouventin|year=2017|title=Why Penguins Communicate|location=London, United Kingdom|publisher=Academic Press |page=235}}</ref>
+|-
+|rowspan="5"|'''[[pheasant]]s''' ||bouquet  ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|head || ||<ref name="oxfordfaq" />
+|-
+|nest || ||<ref name="usgs" />
+|-
+|nide || ||<ref name="usgs" />
+|-
+|nye || ||<ref name="sdzoo" /><ref name="usgs" /><ref name="oxfordfaq" /><ref name="schott" /><ref name="strutt" />
+|-
+|rowspan="2"|'''[[Domestic pig|pigs]]''' ||drift  ||''See also'' boars, hogs, swine  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|drove  ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|'''[[Columbidae|pigeons]]''' ||kit  ||flying together  ||<ref name="oxfordfaq" />
+|-
+|rowspan="3"|'''[[plover]]s''' ||congregation ||  ||<ref name="albans" /><ref name="oxfordfaq" /><ref name="strutt" />
+|-
+|stand ||  ||<ref name="oxfordfaq" />
+|-
+|wing ||  ||<ref name="oxfordfaq" />
+|-
+|{{anchor|Q}}'''Q''' || {{sort|Q|}} ||  ||
+|-
+|rowspan="3"|'''[[quail]]''' ||bevy ||  ||<ref name="sdzoo" /><ref name="usgs" /><ref name="albans" /><ref name="oxfordfaq" /><ref name="strutt" />
+|-
+|covey ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|drift ||  ||<ref name="oxfordfaq" />
+|-
+|{{anchor|R}}'''R''' || {{sort|R|}} ||  ||
+|-
+|rowspan="4"|'''[[rabbit]]s''' ||colony  ||  ||<ref name="usgs" />
+|-
+|[[nest]] ||  ||<ref name="usgs" />
+|-
+|[[herd]] || domestic only ||<ref name="usgs" />
+|-
+|[[Litter (animal)|litter]] || young rabbits only ||<ref name="usgs" />
+|-
+|'''[[raccoon]]s'''||gaze ||  ||<ref name="sdzoo" />
+|-
+|'''[[rat]]s'''||mischief ||  ||<ref name="abccfeat">{{cite web|url=http://www.abc.net.au/creaturefeatures/facts/rats.htm |title=ABC Creature Features - Rats |publisher=ABC }}</ref>
+|-
+|'''[[Common raven|ravens]]''' ||unkindness  ||  ||<ref name="albans" /><ref name="oxfordfaq" />
+|-
+|'''[[rhinoceros]]es''' ||crash  ||  ||<ref name="sdzoo" /><ref name="usgs" /><ref name="oxfordfaq" />
+|-
+|rowspan="2"|'''[[Rook (bird)|rooks]]''' || building ||  ||<ref name="albans" /><ref name="oxfordfaq" /><ref name="strutt" />
+|-
+|parliament  ||  ||<ref name="oxfordfaq" /><ref name="schott" />
+|-
+|{{anchor|S}}'''S''' || {{sort|S|}} ||  ||
+|-
+||'''[[seal (mammal)|seals]]''' ||pod  ||  ||<ref name="oxfordfaq" />
+|-
+|'''[[sea urchin]]s''' ||herd||  ||<ref name="Quest">{{cite web | url = http://science.kqed.org/quest/2014/02/25/balancing-act-otters-urchins-and-kelp/ | title = Balancing Act: Otters, Urchins and Kelp | accessdate = 2014-06-25 }}</ref><ref name="David Attenborough's Blue Planet BBC">{{cite web | url = https://www.imdb.com/title/tt0846339/ | title = Blue Planet: The Deep}}</ref>
+|-
+|[[Gull|'''seagull''']]
+|squabble
+|
+|
+|-
+| rowspan="5" |'''[[sheep]]''' ||flock  ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|drove ||when driven in a group  ||<ref name="usgs" />
+|-
+|herd ||  ||<ref name="usgs" />
+|-
+|hurtle ||  ||<ref name="sdzoo" />
+|-
+|pack ||  ||<ref name="sdzoo" />
+|-
+|'''[[Shelduck|sheldrake]]''' ||dopping  ||  ||<ref name="strutt" /><ref>{{cite web|url=http://www.thefreedictionary.com/Dopping|title=Dopping|publisher=|via=The Free Dictionary}}</ref>
+|-
+|rowspan="5"|'''[[snake]]s''' ||bed  ||  ||<ref name="sdzoo" />
+|-
+|den ||  ||<ref name="sdzoo" />
+|-
+|knot  ||  ||<ref name="sdzoo" />
+|-
+|nest  ||  |||<ref name="usgs" />
+|-
+|pit  ||  ||<ref name="sdzoo" />
+|-
+|rowspan="2"|'''[[snipe]]s''' ||walk  ||  ||<ref name="oxfordfaq" /><ref name="schott" /><ref name="strutt" />
+|-
+|whisp or wisp  ||  ||<ref name="oxfordfaq" />
+|-
+|'''[[sparrow]]s''' ||host  ||  ||<ref name="sdzoo" /><ref name="usgs" /><ref name="albans" /><ref name="oxfordfaq" /><ref name="strutt" />
+|-
+|'''[[spider (animal)|spiders]]'''||cluster or clutter  ||  ||<ref name="sdzoo" />
+|-
+|rowspan="2"|'''[[squirrel]]s'''  ||dray ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|scurry ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|rowspan="2"|'''[[starling]]s'''  ||chattering  ||  ||<ref name="sdzoo" /><ref name="chattering" />
+|-
+|murmuration ||  ||<ref name="sdzoo" /><ref name="albans" /><ref name="oxfordfaq" /><ref name="schott" /><ref name="strutt" />
+|-
+| rowspan="2" |'''[[stork]]s'''  ||mustering ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|phalanx
+|when migrating
+|<ref>{{Cite news|url=https://www.adducation.info/mankind-nature-general-knowledge/collective-nouns-for-birds/|title= List of Collective Nouns for Birds + Group Names for Birds & Poultries|work=Adducation|access-date=2018-01-06|language=en-US}}</ref>
+|-
+|'''[[swallow]]s'''  ||flight ||  ||<ref name="sdzoo" /><ref name="usgs" /><ref name="strutt" />
+|-
+|rowspan="6"|'''[[swan]]s''' ||bank  ||on the ground  ||<ref name="sdzoo" />
+|-
+|bevy ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|flight ||  ||<ref name="sdzoo" />
+|-
+|game ||  ||<ref name="oxfordfaq" />
+|-
+|herd  ||  ||<ref name="sdzoo" /><ref name="strutt" />
+|-
+|wedge  || in flight ||<ref name="sdzoo" /><ref name="usgs" /><ref name="oxfordfaq" />
+|-
+|rowspan="2"|'''[[Common swift|swifts]]''' ||'''flock''' ||  ||{{Citation needed|date=October 2017}}
+|-
+|scream ||  ||<ref>{{cite web|url=http://blx1.bto.org/birdfacts/results/bob7950.htm|title=BTO BirdFacts – Swift|work=bto.org}}</ref>
+|-
+|'''[[Domestic pig|swine]]''' ||drift   || ||<ref name="schott" />
+|-
+|{{anchor|T}}'''T''' || {{sort|T|}} ||  ||
+|-
+|'''[[Eurasian teal|teal]]''' ||spring  ||  ||<ref name="usgs" /><ref name="albans" /><ref name="oxfordfaq" /><ref name="strutt" />
+|-
+|rowspan="2"|'''[[tiger]]s''' ||ambush  ||  ||<ref name="sdzoo" />
+|-
+|streak  ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|rowspan="2"|'''[[toad]]s''' ||knot  ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|nest  ||  ||<ref name="sdzoo" />
+|-
+|'''[[trout]]''' ||hover  ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|rowspan="2"|'''[[turkey (bird)|turkeys]]''' ||gang  ||  ||<ref name="usgs" />
+|-
+|rafter ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|rowspan="3"|'''[[turtle]]s''' ||bale ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|dole or dule ||  ||<ref name="sdzoo" /><ref name="strutt" />
+|-
+|nest ||  ||<ref name="usgs" />
+|-
+|rowspan="2"|'''[[European turtle dove|turtle dove]]s''' ||dole or dule  ||  ||<ref name="albans" />
+|-
+|pitying ||  ||<ref name="usgs" />
+|-
+|{{anchor|V}}'''V''' || {{sort|V|}} ||  ||
+|-
+|'''[[Viperidae|vipers]]''' ||nest ||  ||<ref name="usgs" />
+|-
+|rowspan="3"|'''[[vultures]]''' ||kettle || in flight ||<ref name="Galván289">{{cite book |last=Galván |first=Javier |title=They Do What? A Cultural Encyclopedia of Extraordinary and Exotic Customs from around the World |url=https://books.google.com/books?id=e2RyBAAAQBAJ&pg=PA289&dq= |accessdate= |year=2014 |publisher=ABC-CLIO |edition=|location=Santa Barbara, California |isbn=1610693426 |oclc= |page=289}}</ref>
+|-
+|committee || while resting ||<ref name="Galván289"/>
+|-
+|wake || when feeding ||<ref name="Galván289"/>
+|-
+|{{anchor|W}}'''W''' || {{sort|W|}} ||  ||
+|-
+|rowspan="2"|'''[[walrus]]es''' ||herd  ||  ||<ref name="usgs" />
+|-
+|pod  ||  ||<ref name="usgs" />
+|-
+|rowspan="3"|'''[[waterfowl]]''' ||bunch ||  ||<ref name="oxfordfaq" />
+|-
+|knob ||fewer than 30 (fanciful)||<ref name="Gallimaufry">{{cite book|last1=Ellery|first1=Sue|title=Gallimaufry|date=November 11, 2012|publisher=Lulu.com|isbn=978-1-291-15774-1|page=29}}</ref>
+|-
+|raft || ||<ref name="oxfordfaq" />
+|-
+|rowspan="2"|'''[[weasel]]s''' ||colony  ||  ||<ref name="sdzoo" />
+|-
+|pack  ||  ||<ref name="sdzoo" />
+|-
+|rowspan="4"|'''[[whale]]s''' ||gam  ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|herd  ||  ||<ref name="usgs" />
+|-
+|mob  ||  ||<ref name="sdzoo" />
+|-
+|pod  ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|rowspan="2"|'''[[wigeon]]s''' ||company ||  ||<ref name="usgs" /><ref name="oxfordfaq" />
+|-
+|trip  ||  ||<ref name="oxfordfaq" />
+|-
+|rowspan="4"|'''[[wildfowl]]''' ||bunch||  ||<ref name="oxfordfaq" />
+|-
+|knob ||fewer than 30 (fanciful)||<ref name="Gallimaufry" />
+|-
+|plump || ||<ref name="oxfordfaq" />
+|-
+|trip || ||<ref name="oxfordfaq" />
+|-
+|rowspan="2"|'''[[Gray wolf|wolves]]''' ||'''pack'''  ||  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|rout or route  ||when in movement  ||<ref name="sdzoo" /><ref name="usgs" />
+|-
+|'''[[wombat]]s''' ||wisdom ||  ||<ref name="natgeo">{{cite web | title=Animal Encounters – Nat Geo Wild | url=http://natgeotv.com.au/tv/animal-encounters/wombat.aspx}}</ref>
+|-
+|'''[[woodcock]]s''' ||fall ||  ||<ref name="usgs" /><ref name="albans" /><ref name="oxfordfaq" /><ref name="strutt" />
+|-
+|'''[[woodpecker]]s''' ||descent ||  ||<ref name="sdzoo" /><ref name="usgs" /><ref name="oxfordfaq" />
+|-
+|'''[[wren]]s''' ||herd  ||  ||<ref name="albans" /><ref name="oxfordfaq" />
+|-
+|{{anchor|Z}}'''Z''' || {{sort|Z|}} ||  ||
+|-
+|rowspan="3"|'''[[zebra]]s''' ||'''herd'''  ||  ||<ref name="sdzoo" />
+|-
+|dazzle  ||  ||<ref>{{cite book|last=van der Post|first=Laurens|title=The Lost World of the Kalahari|year=1958|publisher=Harcourt Brace & Company|page=196}}</ref>
+|-
+|zeal ||  ||<ref name="sdzoo">{{cite web|url=http://www.sandiegozoo.org/animalbytes/got_questions_groups_list.html |title=San Diego Zoo |publisher=Zoological Society of San Diego |archivedate=July 4, 2013 |accessdate=2014-04-22 |work=archived copy of Animal group names |deadurl=yes |archiveurl=https://web.archive.org/web/20130704184914/http://www.sandiegozoo.org/animalbytes/got_questions_groups_list.html }}</ref>
+|}
+
+{{Compact ToC|top=yes|seealso=yes|refs=yes|align=center}}
+
+== See also ==
+* [[List of animal names]]
+* [https://en.wiktionary.org/wiki/Appendix:Glossary_of_collective_nouns_by_subject Glossary of collective nouns by subject] at Wiktionary
+
+== References ==
+{{Reflist|30em}}
+
+== Further reading ==
+* {{cite book |first=John |last=Hodgkin |title=Proper Terms: An Attempt at Rational Explanation of the Meanings of the Collection of Phrases in "The Book of St. Albans," 1486, Entitled "Companys of Beestys and Fowlys," and Similar Lists' |publisher=Supplement to the Transactions of the Philological Society, 1907–1910 |url=https://archive.org/stream/transact071000philuoft#page/n495/mode/2up/search/beestys|date=1909}}
+
+[[Category:Lists of English words|Collective nouns]]
+[[Category:Vocabulary]]
+[[Category:History of hunting|Terms of vernery]]
